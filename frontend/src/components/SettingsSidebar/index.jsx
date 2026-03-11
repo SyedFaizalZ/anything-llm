@@ -308,6 +308,31 @@ const SidebarOptions = ({ user = null, t }) => (
           roles={["admin"]}
         />
         <Option
+          btnText="Universal Agent (Doom)"
+          icon={
+            <img
+              src={AgentIcon}
+              alt="Universal Agent"
+              className="h-5 w-5 flex-shrink-0 light:invert"
+            />
+          }
+          user={user}
+          childOptions={[
+            {
+              btnText: "Agent Settings",
+              href: paths.settings.doomAgent.settings(),
+              flex: true,
+              roles: ["admin"],
+            },
+            {
+              btnText: "Skills Management",
+              href: paths.settings.doomAgent.skills(),
+              flex: true,
+              roles: ["admin"],
+            },
+          ]}
+        />
+        <Option
           btnText={t("settings.community-hub.title")}
           icon={
             <img

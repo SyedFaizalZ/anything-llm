@@ -170,6 +170,10 @@ export default {
     mobileConnections: () => {
       return `/settings/mobile-connections`;
     },
+    doomAgent: {
+      settings: () => `/settings/doom-agent/config`,
+      skills: () => `/settings/doom-agent/skills`,
+    },
   },
   agents: {
     builder: () => {

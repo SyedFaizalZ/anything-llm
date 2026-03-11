@@ -150,6 +150,20 @@ async function chatSync({
   const processedMessage = await grepAllSlashCommands(message);
   message = processedMessage;
 
+  // --- doom-Agent Hook Start ---
+  if (process.env.DOOM_AGENT_ENABLED === 'true') {
+    try {
+      const doomAgent = require("../../doom-agent");
+      const doomResponse = await doomAgent.intercept(message, { 
+        workspace, user, thread, sessionId, chatMode 
+      });
+      if (doomResponse) return doomResponse; // Bypass AnythingLLM
+    } catch (e) {
+      console.error("[doom-agent] Intercept Error:", e);
+    }
+  }
+  // --- doom-Agent Hook End ---
+
   if (EphemeralAgentHandler.isAgentInvocation({ message })) {
     await Telemetry.sendTelemetry("agent_chat_started");
 
@@ -491,6 +505,21 @@ async function streamChat({
   // Since preset commands are not supported in API calls, we can just process the message here
   const processedMessage = await grepAllSlashCommands(message);
   message = processedMessage;
+
+  // --- doom-Agent Hook Start ---
+  if (process.env.DOOM_AGENT_ENABLED === 'true') {
+    try {
+      const doomAgent = require("../../doom-agent");
+      // For streaming, we pass "response" object and return early since it flushes chunks internally
+      const doomHandled = await doomAgent.intercept(message, { 
+        response, workspace, user, thread, sessionId, chatMode 
+      });
+      if (doomHandled) return; // Bypass AnythingLLM
+    } catch (e) {
+      console.error("[doom-agent] Intercept Error:", e);
+    }
+  }
+  // --- doom-Agent Hook End ---
 
   if (EphemeralAgentHandler.isAgentInvocation({ message })) {
     await Telemetry.sendTelemetry("agent_chat_started");

@@ -1,0 +1,9 @@
+
+> lint
+> eslint --fix src
+
+'\\wsl.localhost\Ubuntu\home\faizals\dragon\doom-Agent\anything-llm\frontend'
+CMD.EXE was started with the above path as the current directory.
+UNC paths are not supported.  Defaulting to Windows directory.
+'eslint' is not recognized as an internal or external command,
+operable program or batch file.

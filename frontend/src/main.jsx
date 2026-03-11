@@ -320,6 +320,25 @@ const router = createBrowserRouter([
         path: "/onboarding/:step",
         element: <OnboardingFlow />,
       },
+      // Doom Agent pages
+      {
+        path: "/settings/doom-agent/config",
+        lazy: async () => {
+          const { default: DoomAgentSettings } = await import(
+            "@/pages/GeneralSettings/DoomAgent"
+          );
+          return { element: <AdminRoute Component={DoomAgentSettings} /> };
+        },
+      },
+      {
+        path: "/settings/doom-agent/skills",
+        lazy: async () => {
+          const { default: DoomAgentSkills } = await import(
+            "@/pages/GeneralSettings/DoomAgentSkills"
+          );
+          return { element: <AdminRoute Component={DoomAgentSkills} /> };
+        },
+      },
       // Experimental feature pages
       {
         path: "/settings/beta-features/live-document-sync/manage",

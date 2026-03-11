@@ -63,6 +63,17 @@ const SystemSettings = {
 
     // Hub settings
     "hub_api_key",
+
+    // Doom Agent Configs
+    "doom_agent_enabled",
+    "doom_agent_skills_path",
+    "doom_agent_confidence_threshold",
+    "doom_agent_max_retries",
+    "doom_agent_memory_window",
+    "e2b_api_key",
+    "mem0_api_url",
+    "mem0_api_key",
+    "mem0_user_id",
   ],
   validations: {
     footer_data: (updates) => {
@@ -204,6 +215,10 @@ const SystemSettings = {
         return SystemSettings.saneDefaultSystemPrompt;
       return String(prompt.trim());
     },
+    doom_agent_enabled: (update) => (update === "true" ? "true" : "false"),
+    doom_agent_confidence_threshold: (update) => (!isNaN(parseFloat(update)) ? String(update) : "0.5"),
+    doom_agent_max_retries: (update) => (!isNaN(parseInt(update)) ? String(update) : "2"),
+    doom_agent_memory_window: (update) => (!isNaN(parseInt(update)) ? String(update) : "5"),
   },
   currentSettings: async function () {
     const { hasVectorCachedFiles } = require("../utils/files");

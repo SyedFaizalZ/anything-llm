@@ -833,6 +833,46 @@ const KEY_MAPPING = {
     envKey: "LEMONADE_LLM_MODEL_TOKEN_LIMIT",
     checks: [nonZero],
   },
+
+  // ===========================================
+  // Doom Agent Settings
+  // ===========================================
+  DoomAgentEnabled: {
+    envKey: "DOOM_AGENT_ENABLED",
+    checks: [],
+  },
+  DoomAgentSkillsPath: {
+    envKey: "DOOM_AGENT_SKILLS_PATH",
+    checks: [],
+  },
+  DoomAgentConfidenceThreshold: {
+    envKey: "DOOM_AGENT_CONFIDENCE_THRESHOLD",
+    checks: [],
+  },
+  DoomAgentMaxRetries: {
+    envKey: "DOOM_AGENT_MAX_RETRIES",
+    checks: [],
+  },
+  DoomAgentMemoryWindow: {
+    envKey: "DOOM_AGENT_MEMORY_WINDOW",
+    checks: [],
+  },
+  E2BApiKey: {
+    envKey: "E2B_API_KEY",
+    checks: [],
+  },
+  Mem0ApiUrl: {
+    envKey: "MEM0_API_URL",
+    checks: [],
+  },
+  Mem0ApiKey: {
+    envKey: "MEM0_API_KEY",
+    checks: [],
+  },
+  Mem0UserId: {
+    envKey: "MEM0_USER_ID",
+    checks: [],
+  },
 };
 
 function isNotEmpty(input = "") {

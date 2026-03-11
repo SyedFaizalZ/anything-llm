@@ -4,8 +4,10 @@ import DataConnector from "./dataConnector";
 import LiveDocumentSync from "./experimental/liveSync";
 import AgentPlugins from "./experimental/agentPlugins";
 import SystemPromptVariable from "./systemPromptVariable";
+import DoomAgent from "./doomAgent";
 
 const System = {
+  ...DoomAgent,
   cacheKeys: {
     footerIcons: "anythingllm_footer_links",
     supportEmail: "anythingllm_support_email",
