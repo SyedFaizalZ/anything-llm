@@ -1,0 +1,83 @@
+{
+  "doc-ed36921f75efa131f8847044be68ca18": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-c8be98569f399ade22c4128870942d41"
+    ],
+    "content_summary": "<document_metadata>\nsourceDocument: Facebook Advertising For Dummies(1-8).pdf\npublished: 3/16/2026, 1:56:51 PM\n</document_metadata>\n\nPaul Dunay\nRichard Krueger\nJoel Elad, MBA\nLearn to:\n•  Create an ad campaign on Facebook\n•  Perform precision ad targ...",
+    "content_length": 15365,
+    "created_at": "2026-03-16T13:57:21.092173+00:00",
+    "updated_at": "2026-03-16T17:16:11.149973+00:00",
+    "file_path": "document_upload",
+    "track_id": "insert_20260316_135721_a427da75",
+    "metadata": {
+      "processing_start_time": 1773681227,
+      "processing_end_time": 1773681371
+    }
+  },
+  "doc-ba0c56142bc4d0e755ebb2d3889206ef": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384"
+    ],
+    "content_summary": "<document_metadata>\nsourceDocument: Facebook Advertising For Dummies(1-8).pdf\npublished: 3/16/2026, 2:00:15 PM\n</document_metadata>\n\nPaul Dunay\nRichard Krueger\nJoel Elad, MBA\nLearn to:\n•  Create an ad campaign on Facebook\n•  Perform precision ad targ...",
+    "content_length": 15365,
+    "created_at": "2026-03-16T14:00:35.170994+00:00",
+    "updated_at": "2026-03-16T17:16:02.578254+00:00",
+    "file_path": "document_upload",
+    "track_id": "insert_20260316_140035_9a3b3ddc",
+    "metadata": {
+      "processing_start_time": 1773681227,
+      "processing_end_time": 1773681362
+    }
+  },
+  "doc-7f03a73f20b068c181d85271e491bd64": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-54c4f282202195546b69d41af58fab02"
+    ],
+    "content_summary": "<document_metadata>\nsourceDocument: Facebook Advertising For Dummies(1-8).pdf\npublished: 3/16/2026, 3:06:15 PM\n</document_metadata>\n\nPaul Dunay\nRichard Krueger\nJoel Elad, MBA\nLearn to:\n•  Create an ad campaign on Facebook\n•  Perform precision ad targ...",
+    "content_length": 15365,
+    "created_at": "2026-03-16T15:06:48.930494+00:00",
+    "updated_at": "2026-03-16T17:18:23.319280+00:00",
+    "file_path": "document_upload",
+    "track_id": "insert_20260316_150648_05e43d33",
+    "metadata": {
+      "processing_start_time": 1773681362,
+      "processing_end_time": 1773681503
+    }
+  },
+  "doc-2e9eb0d07de7bc99b3ccc9e5fe1b443b": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-3c90a25ee0921e00d427736850c32284",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "content_summary": "<document_metadata>\nsourceDocument: Facebook Advertising For Dummies(1-8).pdf\npublished: 3/16/2026, 5:13:20 PM\n</document_metadata>\n\nPaul Dunay\nRichard Krueger\nJoel Elad, MBA\nLearn to:\n•  Create an ad campaign on Facebook\n•  Perform precision ad targ...",
+    "content_length": 15365,
+    "created_at": "2026-03-16T17:13:47.878460+00:00",
+    "updated_at": "2026-03-16T17:18:26+00:00",
+    "file_path": "document_upload",
+    "track_id": "insert_20260316_171347_421be3e1",
+    "metadata": {
+      "processing_start_time": 1773681371,
+      "processing_end_time": 1773681506
+    },
+    "multimodal_processed": true
+  }
+}

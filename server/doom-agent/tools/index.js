@@ -2,6 +2,7 @@ const web = require('./web');
 const filesystem = require('./filesystem');
 const execution = require('./execution');
 const rag = require('./rag');
+const ragGraph = require('./rag_graph');
 const delegateTool = require('./delegate');
 const mutateTool = require('./mutate_skill');
 
@@ -14,9 +15,9 @@ const tools = {
   python_exec: execution.python_exec,
   bash_exec: execution.bash_exec,
   rag_query: rag.rag_query,
-  rag_collection_info: rag.rag_collection_info,
-  delegate: delegateTool.delegate,
-  mutate_skill: mutateTool.mutate_skill
+  rag_graph_query: ragGraph.rag_graph_query,
+  delegate: delegateTool.delegate.execute,
+  mutate_skill: mutateTool.mutate_skill.execute
 };
 
 module.exports = tools;

@@ -13,6 +13,8 @@ class SkillRegistry {
   init() {
     if (!config.enabled) return;
     this.skillsDir = path.resolve(config.skillsPath);
+    console.log(`[doom-agent] Initializing skill registry from: ${this.skillsDir}`);
+    
     if (!fs.existsSync(this.skillsDir)) {
       console.warn(`[doom-agent] Skills directory not found: ${this.skillsDir}`);
       return;
@@ -33,15 +35,22 @@ class SkillRegistry {
     
     try {
       const entries = fs.readdirSync(this.skillsDir, { withFileTypes: true });
+      console.log(`[doom-agent] Found ${entries.length} entries in skills directory`);
+      
       for (const entry of entries) {
         if (entry.isDirectory()) {
           const skillPath = path.join(this.skillsDir, entry.name, 'SKILL.md');
+          console.log(`[doom-agent] Checking for skill file: ${skillPath}`);
+          
           if (fs.existsSync(skillPath)) {
+            console.log(`[doom-agent] Loading skill from: ${entry.name}`);
             this.parseSkill(skillPath, entry.name);
+          } else {
+            console.log(`[doom-agent] No SKILL.md found in: ${entry.name}`);
           }
         }
       }
-      console.log(`[doom-agent] Loaded ${this.skills.size} skills across ${this.categories.size} categories.`);
+      console.log(`[doom-agent] Successfully loaded ${this.skills.size} skills across ${this.categories.size} categories: ${Array.from(this.skills.keys()).join(', ')}`);
     } catch (error) {
       console.error('[doom-agent] Error loading skills:', error);
     }
@@ -49,7 +58,9 @@ class SkillRegistry {
 
   parseSkill(filePath, folderName) {
     try {
-      const content = fs.readFileSync(filePath, 'utf-8');
+      let content = fs.readFileSync(filePath, 'utf-8');
+      // Normalize line endings: convert CRLF to LF for cross-platform support
+      content = content.replace(/\r\n/g, '\n');
       const match = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
       
       if (!match) {
@@ -72,6 +83,7 @@ class SkillRegistry {
         path: filePath
       };
       
+      console.log(`[doom-agent] ✓ Parsed skill: ${skill.name} (category: ${skill.category}, triggers: ${skill.triggers.length})`);
       this.skills.set(skill.name, skill);
       
       if (!this.categories.has(skill.category)) {

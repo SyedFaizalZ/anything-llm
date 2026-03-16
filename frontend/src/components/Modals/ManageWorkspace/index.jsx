@@ -8,6 +8,7 @@ import { isMobile } from "react-device-detect";
 import useUser from "../../../hooks/useUser";
 import DocumentSettings from "./Documents";
 import DataConnectors from "./DataConnectors";
+import GraphViewer from "./GraphViewer";
 import ModalWrapper from "@/components/ModalWrapper";
 
 const noop = () => {};
@@ -25,6 +26,14 @@ const ManageWorkspace = ({ hideModal = noop, providedSlug = null }) => {
       setSettings(_settings ?? {});
     }
     getSettings();
+  }, []);
+
+  useEffect(() => {
+    const handleCloseGraph = () => {
+      setSelectedTab("documents");
+    };
+    window.addEventListener("close-graph-viewer", handleCloseGraph);
+    return () => window.removeEventListener("close-graph-viewer", handleCloseGraph);
   }, []);
 
   useEffect(() => {
@@ -79,6 +88,8 @@ const ManageWorkspace = ({ hideModal = noop, providedSlug = null }) => {
     );
   }
 
+
+
   return (
     <div className="w-screen h-screen fixed top-0 left-0 flex justify-center items-center z-99">
       <div className="backdrop h-full w-full absolute top-0 z-10" />
@@ -103,6 +114,8 @@ const ManageWorkspace = ({ hideModal = noop, providedSlug = null }) => {
 
           {selectedTab === "documents" ? (
             <DocumentSettings workspace={workspace} systemSettings={settings} />
+          ) : selectedTab === "graph" ? (
+            <GraphViewer workspace={workspace} />
           ) : (
             <DataConnectors workspace={workspace} systemSettings={settings} />
           )}
@@ -138,6 +151,16 @@ const ModalTabSwitcher = ({ selectedTab, setSelectedTab }) => {
           }`}
         >
           {t("connectors.manage.data-connectors")}
+        </button>
+        <button
+          onClick={() => setSelectedTab("graph")}
+          className={`border-none px-4 py-2 rounded-[8px] font-semibold hover:bg-theme-modal-border hover:bg-opacity-60 ${
+            selectedTab === "graph"
+              ? "bg-theme-modal-border font-bold text-white light:bg-[#E0F2FE] light:text-[#026AA2]"
+              : "text-white/20 font-medium hover:text-white light:bg-white light:text-[#535862] light:hover:bg-[#E0F2FE]"
+          }`}
+        >
+          {t("connectors.manage.knowledge-graph", "Knowledge Graph")}
         </button>
       </div>
     </div>

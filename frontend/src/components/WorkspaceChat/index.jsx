@@ -12,6 +12,7 @@ import {
   useWatchForAutoPlayAssistantTTSResponse,
 } from "../contexts/TTSProvider";
 import { PENDING_HOME_MESSAGE } from "@/utils/constants";
+import { CanvasProvider } from "@/components/Canvas/CanvasContext";
 
 export default function WorkspaceChat({ loading, workspace }) {
   useWatchForAutoPlayAssistantTTSResponse();
@@ -87,11 +88,13 @@ export default function WorkspaceChat({ loading, workspace }) {
 
   setEventDelegatorForCodeSnippets();
   return (
-    <TTSProvider>
-      <DnDFileUploaderProvider workspace={workspace} threadSlug={threadSlug}>
-        <ChatContainer workspace={workspace} knownHistory={history} />
-      </DnDFileUploaderProvider>
-    </TTSProvider>
+    <CanvasProvider>
+      <TTSProvider>
+        <DnDFileUploaderProvider workspace={workspace} threadSlug={threadSlug}>
+          <ChatContainer workspace={workspace} knownHistory={history} />
+        </DnDFileUploaderProvider>
+      </TTSProvider>
+    </CanvasProvider>
   );
 }
 

@@ -33,6 +33,12 @@ const markdown = markdownIt({
                 <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-3 w-3" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>
                 <p class="text-xs" style="margin: 0px;padding: 0px;">Copy block</p>
               </button>
+              ${(lang === 'python' || lang === 'html' || lang === 'javascript' || (lang || '').startsWith('canvas-')) ? `
+              <button data-canvas-snippet data-code="canvas-${uuid}" data-lang="${lang}" class="flex items-center gap-x-1 ml-4 text-theme-text-secondary hover:text-white transition-colors">
+                <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-3 w-3" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                <p class="text-xs" style="margin: 0px;padding: 0px;">Open in Canvas</p>
+              </button>
+              ` : ''}
             </div>
             <pre class="whitespace-pre-wrap px-4 pb-4">` +
           hljs.highlight(code, { language: lang, ignoreIllegals: true }).value +

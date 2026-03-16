@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Sidebar from "@/components/SettingsSidebar";
 import System from "@/models/system";
 import showToast from "@/utils/toast";
+import { Trash } from "@phosphor-icons/react";
 
 export default function DoomAgentSkills() {
   const [loading, setLoading] = useState(true);
@@ -124,9 +125,9 @@ You are a specialized agent...
                  </div>
                  <button 
                    onClick={(e) => { e.stopPropagation(); handleDelete(s.name); }}
-                   className="text-red-400 hover:text-red-300 transition-colors"
+                   className="text-red-400 hover:text-red-300 transition-colors flex items-center justify-center w-6 h-6 rounded hover:bg-red-400/10"
                  >
-                   &times;
+                   <Trash className="w-4 h-4" />
                  </button>
                </div>
              ))

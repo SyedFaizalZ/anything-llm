@@ -19,7 +19,7 @@ class MemoryManager {
             'Content-Type': 'application/json',
             'Authorization': `Token ${this.config.mem0ApiKey}`
           },
-          body: JSON.stringify({ query, user_id: userId || this.config.mem0UserId, limit: 3 })
+          body: JSON.stringify({ query, user_id: String(userId || this.config.mem0UserId), limit: 3 })
         });
         if (res.ok) {
           const data = await res.json();
@@ -27,6 +27,9 @@ class MemoryManager {
           if (Array.isArray(memories) && memories.length > 0) {
             longTerm = "\n[Persistent Memories]\n" + memories.map(m => `- ${m.memory}`).join('\n');
           }
+        } else {
+          const errText = await res.text();
+          console.error("[doom-agent] Mem0 search bad response:", res.status, errText);
         }
       } catch (e) {
         console.warn("[doom-agent] Mem0 search failed:", e.message);
@@ -49,7 +52,7 @@ class MemoryManager {
     if (this.config.mem0ApiUrl && this.config.mem0ApiKey) {
       try {
         const fetch = require('node-fetch');
-        await fetch(`${this.config.mem0ApiUrl}/v1/memories/`, {
+        const res = await fetch(`${this.config.mem0ApiUrl}/v1/memories/`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -60,11 +63,16 @@ class MemoryManager {
               { role: "user", content: query },
               { role: "assistant", content: response }
             ],
-            user_id: userId || this.config.mem0UserId
+            user_id: String(userId || this.config.mem0UserId)
           })
         });
+        
+        if (!res.ok) {
+           const errText = await res.text();
+           console.error("[doom-agent] Mem0 save bad response:", res.status, errText);
+        }
       } catch (e) {
-        // silent fail for persistent memory to prevent crashing
+        console.error("[doom-agent] Mem0 save exception:", e.message);
       }
     }
   }

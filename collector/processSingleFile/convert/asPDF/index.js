@@ -71,6 +71,7 @@ async function asPdf({
     wordCount: content.split(" ").length,
     pageContent: content,
     token_count_estimate: tokenizeString(content),
+    graphMode: typeof metadata.graphMode === "boolean" ? metadata.graphMode : metadata.graphMode === "true" ? true : false,
   };
 
   const document = writeToServerDocuments({

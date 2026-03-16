@@ -83,6 +83,7 @@ async function asXlsx({
         wordCount: totalWordCount,
         pageContent: combinedContent,
         token_count_estimate: tokenizeString(combinedContent),
+        graphMode: typeof metadata.graphMode === "boolean" ? metadata.graphMode : metadata.graphMode === "true" ? true : false,
       };
 
       const document = writeToServerDocuments({
@@ -123,6 +124,7 @@ async function asXlsx({
           wordCount: wordCount,
           pageContent: content,
           token_count_estimate: tokenizeString(content),
+          graphMode: typeof metadata.graphMode === "boolean" ? metadata.graphMode : metadata.graphMode === "true" ? true : false,
         };
 
         const document = writeToServerDocuments({

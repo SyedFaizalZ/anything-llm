@@ -1,0 +1,1910 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Facebook Advertising For Dummies">
+      <data key="d0">Facebook Advertising For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">"Facebook Advertising For Dummies" is a comprehensive guidebook published by Wiley Publishing, Inc., focusing on the intricacies of Facebook's advertising platform. Authored by Paul Dunay, Richard Krueger, and Joel Elad, the book offers detailed, step-by-step advice and real-world experiences to help readers master Facebook advertising. It covers a broad spectrum of topics crucial for effective advertising on the platform, including the creation of ad campaigns, precision ad targeting, optimizing landing pages, and testing and optimizing ads. The book is designed to enhance the marketing skills of its readers, enabling them to better engage with customers and sell products and services through Facebook.
+
+The authors acknowledge the support of their families and the team at Wiley, including Amy Fandrei and Christopher Morris, who played significant roles in the book's development. Additionally, the book includes acknowledgments to numerous bloggers and Facebook's team for their contributions to the field of Facebook advertising. "Facebook Advertising For Dummies" is dedicated to advertisers navigating the significant changes in marketing history, emphasizing the use of Facebook as a platform for acquiring customers and selling products and services. The book is noted for its straightforward, step-by-step advice, making it a valuable resource for both novice and experienced advertisers looking to leverage Facebook's advertising capabilities.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681439</data>
+      <data key="d6" />
+    </node>
+    <node id="Wiley Publishing, Inc.">
+      <data key="d0">Wiley Publishing, Inc.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Wiley Publishing, Inc. is the publisher of the book Facebook Advertising For Dummies, based in Hoboken, NJ.&lt;SEP&gt;Wiley Publishing, Inc. is the publisher of the book Facebook Advertising For Dummies, based in Hoboken, NJ.&lt;SEP&gt;Wiley Publishing, Inc. is the publisher of the book Facebook Advertising For Dummies, based in Hoboken, NJ.&lt;SEP&gt;Wiley Publishing, Inc. is the publisher of the book Facebook Advertising For Dummies, based in Hoboken, NJ.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681434</data>
+      <data key="d6" />
+    </node>
+    <node id="Paul Dunay">
+      <data key="d0">Paul Dunay</data>
+      <data key="d1">person</data>
+      <data key="d2">Paul Dunay is an award-winning B2B marketing expert and author, best known for his significant contributions to the field of marketing and his authorship of books such as "Facebook Advertising For Dummies" and "Facebook Marketing For Dummies" published by Wiley. With over 20 years of experience, Dunay has specialized in generating demand and creating buzz for leading organizations across various sectors, including technology, consumer products, financial services, and professional services. He currently serves as the Global Managing Director of Services and Social Marketing for Avaya.
+
+Dunay's innovative approach to integrated marketing has earned him numerous accolades. He was recognized as one of BtoB Magazine’s Top 25 B2B Marketers of the Year in 2009. Additionally, he won the DemandGen Award for Utilizing Marketing Automation to Fuel Corporate Growth in 2008. His excellence in marketing has also been acknowledged through multiple nominations and awards from the Information Technology Services Marketing Association (ITSMA), including being a five-time finalist in the Marketing Excellence Awards competition and a gold award winner in 2005.&lt;SEP&gt;Paul Dunay is one of the authors of the book Facebook Advertising For Dummies.&lt;SEP&gt;Paul Dunay is an award-winning B2B marketing expert with over 20 years of experience in generating demand and creating buzz for leading technology, consumer products, financial services, and professional services organizations. He is the Global Managing Director of Services and Social Marketing for Avaya and the author of Facebook Marketing For Dummies.&lt;SEP&gt;Paul Dunay is a marketing expert and author recognized among BtoB Magazine’s Top 25 BtoB Marketers of the Year in 2009.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681437</data>
+      <data key="d6" />
+    </node>
+    <node id="Richard Krueger">
+      <data key="d0">Richard Krueger</data>
+      <data key="d1">person</data>
+      <data key="d2">Richard Krueger is a prominent figure in the field of social media marketing, particularly known for his expertise in leveraging Facebook for business growth. He is one of the authors of the book "Facebook Advertising For Dummies," which underscores his authority in the domain of social media marketing. Richard is frequently quoted as an expert on social media marketing, reflecting his deep knowledge and influence in the industry.
+
+In addition to his authorship, Richard Krueger is the co-founder and CEO of AboutFace Digital, a social media marketing agency that specializes in using Facebook as a platform for acquiring customers, building brands, and driving sales. His entrepreneurial spirit is evident through his extensive experience in various fields such as business development, branding, public relations, technical product development, and business management. Richard's successful track record includes leading business strategies for companies in diverse sectors including social media, interactive entertainment, broadband infrastructure, content syndication, mobile entertainment, online gaming, and local search. This comprehensive background highlights his versatility and expertise as a serial entrepreneur.&lt;SEP&gt;Richard Krueger is one of the authors of the book Facebook Advertising For Dummies.&lt;SEP&gt;Richard Krueger is the co-founder and CEO of AboutFace Digital, a social media marketing agency focused on using Facebook for acquiring customers, building brands, and driving sales. He is recognized as a serial entrepreneur with extensive experience in business development, branding, public relations, technical product development, and business management.&lt;SEP&gt;Richard Krueger is a frequently quoted authority on social media marketing.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681436</data>
+      <data key="d6" />
+    </node>
+    <node id="Joel Elad">
+      <data key="d0">Joel Elad</data>
+      <data key="d1">person</data>
+      <data key="d2">Joel Elad is an accomplished author and expert in online marketing, known for his significant contributions to literature on digital business and social media. He has authored several books, including "Facebook Advertising For Dummies," "LinkedIn For Dummies," "Starting an Online Business All-in-One For Dummies," and "Web Stores Do-It-Yourself For Dummies." With a total of six books on various online topics, Joel has established himself as a prominent figure in the field of digital marketing and entrepreneurship.
+
+In addition to his writing career, Joel Elad is the head of Real Method Consulting, a company focused on educating people through various media such as training seminars, DVDs, and books. His educational background includes a Master’s Degree in Business from UC Irvine and a Bachelor's Degree in Computer Science and Engineering from UCLA. Joel has also contributed to renowned publications like Entrepreneur magazine and Smartbiz.com, and has shared his expertise as an educator at institutions like the University of California, Irvine. His work and contributions have made him a respected authority in the realm of online business and marketing.&lt;SEP&gt;Joel Elad is one of the authors of the book Facebook Advertising For Dummies.&lt;SEP&gt;Joel Elad is an author who has written six books on various online topics, including LinkedIn For Dummies, Starting an Online Business All-in-One Desk Reference For Dummies, and Web Stores Do-It-Yourself For Dummies. He is the head of Real Method Consulting.&lt;SEP&gt;Joel Elad is an author known for books like LinkedIn For Dummies and coauthoring Starting an Online Business All-in-One For Dummies.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681442</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook">
+      <data key="d0">Facebook</data>
+      <data key="d1">organization</data>
+      <data key="d2">Facebook is an online social network platform and company founded by Mark Zuckerberg, widely recognized as the most popular online social network on the planet. It is a significant focus of marketing strategies, particularly in the book "Facebook Advertising For Dummies" authored by Paul Dunay, Richard Krueger, and Joel Elad. This book provides comprehensive guidance on advertising on Facebook, highlighting its capabilities for businesses to reach specific audiences based on demographics, interests, and geographic areas. Facebook is becoming the preferred platform for marketers and advertisers to acquire new customers, interact with existing ones, and sell products and services. The platform has undergone various changes in its advertising features, which are detailed in the book. Facebook offers robust advertising services and is central to modern advertising and marketing strategies. It is celebrated for rewriting the rules of marketing and is a pivotal tool for businesses aiming to enhance their marketing strategies through targeted advertising.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681442</data>
+      <data key="d6" />
+    </node>
+    <node id="Copyright Clearance Center">
+      <data key="d0">Copyright Clearance Center</data>
+      <data key="d1">organization</data>
+      <data key="d2">Copyright Clearance Center is an organization responsible for managing copyright permissions and fees.&lt;SEP&gt;Copyright Clearance Center is an organization that handles copyright permissions and fees.&lt;SEP&gt;Copyright Clearance Center is an organization responsible for managing copyright permissions and fees.&lt;SEP&gt;Copyright Clearance Center is an organization responsible for managing copyright permissions and fees.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681435</data>
+      <data key="d6" />
+    </node>
+    <node id="John Wiley &amp; Sons, Inc.">
+      <data key="d0">John Wiley &amp; Sons, Inc.</data>
+      <data key="d1">organization</data>
+      <data key="d2">John Wiley &amp; Sons, Inc. is the parent company of Wiley Publishing, Inc.&lt;SEP&gt;John Wiley &amp; Sons, Inc. is the parent company of Wiley Publishing, Inc.&lt;SEP&gt;John Wiley &amp; Sons, Inc. is the parent company of Wiley Publishing, Inc., involved in publishing and copyright management.&lt;SEP&gt;John Wiley &amp; Sons, Inc. is the parent company of Wiley Publishing, Inc., involved in the publishing process.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681437</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook, Inc.">
+      <data key="d0">Facebook, Inc.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Facebook, Inc. is the company that owns the Facebook platform.&lt;SEP&gt;Facebook, Inc. is the company that owns the Facebook platform.&lt;SEP&gt;Facebook, Inc. is the company that owns the Facebook platform and its associated trademarks.&lt;SEP&gt;Facebook, Inc. is the corporate entity behind the Facebook platform, holding the registered trademark for Facebook.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681438</data>
+      <data key="d6" />
+    </node>
+    <node id="Dummies">
+      <data key="d0">Dummies</data>
+      <data key="d1">organization</data>
+      <data key="d2">Dummies is a series of instructional/reference books published by Wiley, including Facebook Advertising For Dummies.&lt;SEP&gt;Dummies is a publisher that provides how-to information through books and apps, covering a wide range of topics.&lt;SEP&gt;Dummies is a publisher known for its how-to books and resources on a wide range of topics.&lt;SEP&gt;Dummies is a publisher known for its how-to books and resources, including apps and cheat sheets.&lt;SEP&gt;Dummies is a series of instructional/reference books published by Wiley, including Facebook Advertising For Dummies.&lt;SEP&gt;Dummies is a publisher known for its how-to books and resources, including the Facebook Advertising For Dummies book.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681435</data>
+      <data key="d6" />
+    </node>
+    <node id="United States Copyright Act">
+      <data key="d0">United States Copyright Act</data>
+      <data key="d1">concept</data>
+      <data key="d2">The United States Copyright Act is a law that governs copyright permissions and usage in the United States.&lt;SEP&gt;United States Copyright Act is a law that governs copyright permissions and usage in the United States.&lt;SEP&gt;The United States Copyright Act is a law that governs copyright permissions and usage in the United States.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681434</data>
+      <data key="d6" />
+    </node>
+    <node id="Cheat Sheet">
+      <data key="d0">Cheat Sheet</data>
+      <data key="d1">content</data>
+      <data key="d2">Cheat Sheet is a supplementary resource created specifically for the book Facebook Advertising For Dummies.&lt;SEP&gt;Cheat Sheet is a supplementary resource created specifically for the book Facebook Advertising For Dummies.&lt;SEP&gt;Cheat Sheet is a supplementary resource created specifically for the book Facebook Advertising For Dummies.&lt;SEP&gt;Cheat Sheet is a supplementary resource created specifically for the book Facebook Advertising For Dummies, available at www.dummies.com.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681439</data>
+      <data key="d6" />
+    </node>
+    <node id="Hoboken">
+      <data key="d0">Hoboken</data>
+      <data key="d1">location</data>
+      <data key="d2">Hoboken is a city in New Jersey where Wiley Publishing, Inc. is based.&lt;SEP&gt;Hoboken is a city in New Jersey where Wiley Publishing, Inc. is located.&lt;SEP&gt;Hoboken is a city in New Jersey where Wiley Publishing, Inc. is headquartered.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681439</data>
+      <data key="d6" />
+    </node>
+    <node id="Indianapolis">
+      <data key="d0">Indianapolis</data>
+      <data key="d1">location</data>
+      <data key="d2">Indianapolis is a city in Indiana associated with the publishing location of the book.&lt;SEP&gt;Indianapolis is a city in Indiana associated with the publishing location of the book.&lt;SEP&gt;Indianapolis is a city in Indiana associated with the publishing operations of Wiley Publishing, Inc.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681439</data>
+      <data key="d6" />
+    </node>
+    <node id="Danvers">
+      <data key="d0">Danvers</data>
+      <data key="d1">location</data>
+      <data key="d2">Danvers is a city in Massachusetts where the Copyright Clearance Center is located.&lt;SEP&gt;Danvers is a city in Massachusetts where the Copyright Clearance Center is located.&lt;SEP&gt;Danvers is a city in Massachusetts where the Copyright Clearance Center is located.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681440</data>
+      <data key="d6" />
+    </node>
+    <node id="Library Of Congress Control Number">
+      <data key="d0">Library Of Congress Control Number</data>
+      <data key="d1">data</data>
+      <data key="d2">Library Of Congress Control Number is a unique identifier assigned to the book by the Library of Congress.&lt;SEP&gt;Library of Congress Control Number is a unique identifier assigned to the book for cataloging purposes.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681436</data>
+      <data key="d6" />
+    </node>
+    <node id="ISBN">
+      <data key="d0">ISBN</data>
+      <data key="d1">data</data>
+      <data key="d2">ISBN is a unique identifier for the book Facebook Advertising For Dummies.&lt;SEP&gt;ISBN is a unique identifier for the book Facebook Advertising For Dummies.&lt;SEP&gt;ISBN is a unique identifier for the book Facebook Advertising For Dummies.&lt;SEP&gt;ISBN is a unique identifier for the book Facebook Advertising For Dummies, specifically 978-0-470-63762-3.</data>
+      <data key="d3">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681442</data>
+      <data key="d6" />
+    </node>
+    <node id="BtoB Magazine">
+      <data key="d0">BtoB Magazine</data>
+      <data key="d1">organization</data>
+      <data key="d2">BtoB Magazine is a publication that recognized Paul Dunay as one of the Top 25 BtoB Marketers of the Year in 2009.&lt;SEP&gt;BtoB Magazine is a publication that recognizes top marketers in the business-to-business sector.&lt;SEP&gt;BtoB Magazine is a publication that recognized Paul Dunay as a Top 25 B2B Marketer of the Year for 2009.&lt;SEP&gt;BtoB Magazine is a publication that recognized Paul Dunay as one of the Top 25 BtoB Marketers of the Year in 2009.&lt;SEP&gt;BtoB Magazine is a publication that recognized Paul Dunay as one of the Top 25 BtoB Marketers of the Year in 2009.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681443</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertising">
+      <data key="d0">Facebook Advertising</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Advertising refers to the practice of creating and managing ad campaigns on the Facebook platform to reach specific audiences.&lt;SEP&gt;Facebook Advertising involves creating and managing ad campaigns on Facebook to reach targeted audiences.&lt;SEP&gt;Facebook Advertising refers to the practice of creating and managing ad campaigns on Facebook to reach targeted audiences.&lt;SEP&gt;Facebook Advertising involves creating and optimizing ad campaigns on Facebook to reach targeted audiences.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681444</data>
+      <data key="d6" />
+    </node>
+    <node id="Cost Per Click">
+      <data key="d0">Cost Per Click</data>
+      <data key="d1">concept</data>
+      <data key="d2">Cost Per Click (CPC) is a pricing model in online advertising where advertisers pay each time a user clicks on their ad.&lt;SEP&gt;Cost per click is a pricing model in Facebook advertising where advertisers pay each time a user clicks on their ad.&lt;SEP&gt;Cost Per Click (CPC) is a pricing model in Facebook advertising where advertisers pay each time a user clicks on their ad.&lt;SEP&gt;Cost Per Click (CPC) is a pricing model in advertising where advertisers pay each time a user clicks on their ad.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681445</data>
+      <data key="d6" />
+    </node>
+    <node id="Cost Per Impression">
+      <data key="d0">Cost Per Impression</data>
+      <data key="d1">concept</data>
+      <data key="d2">Cost Per Impression (CPM) is a pricing model where advertisers pay for every thousand times their ad is displayed, regardless of clicks.&lt;SEP&gt;Cost per impression is a pricing model in Facebook advertising where advertisers pay each time their ad is displayed.&lt;SEP&gt;Cost Per Impression (CPM) is a pricing model in Facebook advertising where advertisers pay for every thousand times their ad is displayed.&lt;SEP&gt;Cost Per Impression (CPM) is a pricing model where advertisers pay for every thousand times their ad is displayed.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681446</data>
+      <data key="d6" />
+    </node>
+    <node id="Landing Pages">
+      <data key="d0">Landing Pages</data>
+      <data key="d1">concept</data>
+      <data key="d2">Landing Pages are web pages designed to receive and convert traffic from advertising campaigns, often customized to measure effectiveness.&lt;SEP&gt;Landing pages are customized web pages designed to convert visitors into leads or sales, often used in conjunction with Facebook ads.&lt;SEP&gt;Landing Pages are web pages specifically designed to receive and convert traffic from advertising campaigns.&lt;SEP&gt;Landing Pages are web pages designed to convert visitors into leads or sales, often customized for specific ad campaigns.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681445</data>
+      <data key="d6" />
+    </node>
+    <node id="Ads Manager">
+      <data key="d0">Ads Manager</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Ads Manager is a tool provided by Facebook for monitoring ad performance, generating reports, and managing advertising campaigns.&lt;SEP&gt;Ads Manager is a tool provided by Facebook to monitor ad statistics, identify trends, and judge the success of ad campaigns.&lt;SEP&gt;Ads Manager is a tool provided by Facebook for managing and monitoring advertising campaigns.&lt;SEP&gt;Ads Manager is a tool provided by Facebook to monitor ad statistics, identify trends, and judge the success of ad campaigns.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681446</data>
+      <data key="d6" />
+    </node>
+    <node id="ROI Tracking">
+      <data key="d0">ROI Tracking</data>
+      <data key="d1">method</data>
+      <data key="d2">ROI Tracking is a method used to measure the return on investment from advertising campaigns to evaluate their effectiveness.&lt;SEP&gt;ROI tracking involves measuring the return on investment from advertising efforts to determine their effectiveness.&lt;SEP&gt;ROI Tracking involves measuring the return on investment from advertising campaigns to evaluate their effectiveness.&lt;SEP&gt;ROI Tracking involves measuring the return on investment from advertising efforts to evaluate their effectiveness.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681446</data>
+      <data key="d6" />
+    </node>
+    <node id="Precision Ad Targeting">
+      <data key="d0">Precision Ad Targeting</data>
+      <data key="d1">method</data>
+      <data key="d2">Precision Ad Targeting is a method of directing advertisements to specific audiences based on demographics, interests, and geographic location.&lt;SEP&gt;Precision ad targeting is a method used on Facebook to display ads to specific groups based on age, interests, or geographic area.&lt;SEP&gt;Precision Ad Targeting is a method to display ads to specific groups based on demographics such as age, interests, or geographic area.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681444</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertising Platform">
+      <data key="d0">Facebook Advertising Platform</data>
+      <data key="d1">method</data>
+      <data key="d2">Facebook Advertising Platform is the system and tools provided by Facebook for creating, managing, and optimizing ads.&lt;SEP&gt;The Facebook Advertising Platform is a tool for users to create and manage advertisements on Facebook.&lt;SEP&gt;The Facebook Advertising Platform is a tool used for advertising on Facebook, discussed in the context of changes and updates relevant to users and marketers.&lt;SEP&gt;Facebook Advertising Platform is a tool within Facebook that underwent changes impacting its users.&lt;SEP&gt;Facebook Advertising Platform is the advertising service provided by Facebook that is discussed in the book.&lt;SEP&gt;Facebook Advertising Platform is the advertising system used by Facebook, which underwent changes noted by bloggers.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681454</data>
+      <data key="d6" />
+    </node>
+    <node id="Mark Zuckerberg">
+      <data key="d0">Mark Zuckerberg</data>
+      <data key="d1">person</data>
+      <data key="d2">Mark Zuckerberg is the founder of Facebook and a key figure in the development of its advertising platform.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook and led a team of young entrepreneurs and software developers.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook and a key figure in the development of the social network.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook and is acknowledged for his vision in realizing the most popular online social network on the planet.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook, mentioned in the acknowledgments of the book.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook and is acknowledged for his vision in creating the popular online social network.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook, acknowledged for his vision in creating the most popular online social network.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681432</data>
+      <data key="d6" />
+    </node>
+    <node id="Real Method Consulting">
+      <data key="d0">Real Method Consulting</data>
+      <data key="d1">organization</data>
+      <data key="d2">Real Method Consulting is a company dedicated to educating people through training seminars, DVDs, books, and other media.&lt;SEP&gt;Real Method Consulting is a company dedicated to educating people through training seminars, DVDs, books, and other media, headed by Joel Elad.&lt;SEP&gt;Real Method Consulting is a company dedicated to educating people through training seminars, DVDs, books, and other media, headed by Joel Elad.&lt;SEP&gt;Real Method Consulting is a company dedicated to educating people through training seminars, DVDs, books, and other media, headed by Joel Elad.&lt;SEP&gt;Real Method Consulting is a company dedicated to educating people through training seminars, DVDs, books, and other media, led by Joel Elad.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681457</data>
+      <data key="d6" />
+    </node>
+    <node id="UC Irvine">
+      <data key="d0">UC Irvine</data>
+      <data key="d1">organization</data>
+      <data key="d2">UC Irvine is a university where Joel Elad holds a Master’s Degree in Business.&lt;SEP&gt;UC Irvine is an educational institution where Joel Elad earned his Master’s Degree in Business and has taught.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681337</data>
+      <data key="d6" />
+    </node>
+    <node id="UCLA">
+      <data key="d0">UCLA</data>
+      <data key="d1">organization</data>
+      <data key="d2">UCLA is a university where Joel Elad holds a Bachelors Degree in Computer Science and Engineering.&lt;SEP&gt;UCLA is an educational institution where Joel Elad obtained his Bachelor's Degree in Computer Science and Engineering.&lt;SEP&gt;UCLA is an educational institution where Joel Elad earned his Bachelor's Degree in Computer Science and Engineering.&lt;SEP&gt;UCLA is an educational institution where Joel Elad holds a Bachelor's Degree in Computer Science and Engineering.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681457</data>
+      <data key="d6" />
+    </node>
+    <node id="Entrepreneur Magazine">
+      <data key="d0">Entrepreneur Magazine</data>
+      <data key="d1">content</data>
+      <data key="d2">Entrepreneur Magazine is a publication to which Joel Elad has contributed.&lt;SEP&gt;Entrepreneur Magazine is a publication to which Joel Elad has contributed articles.&lt;SEP&gt;Entrepreneur Magazine is a publication to which Joel Elad has contributed.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681458</data>
+      <data key="d6" />
+    </node>
+    <node id="Smartbiz.com">
+      <data key="d0">Smartbiz.com</data>
+      <data key="d1">content</data>
+      <data key="d2">Smartbiz.com is a website to which Joel Elad has contributed.&lt;SEP&gt;Smartbiz.com is a website to which Joel Elad has contributed content.&lt;SEP&gt;Smartbiz.com is a website to which Joel Elad has contributed.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681458</data>
+      <data key="d6" />
+    </node>
+    <node id="University of California, Irvine">
+      <data key="d0">University of California, Irvine</data>
+      <data key="d1">organization</data>
+      <data key="d2">University of California, Irvine is an institution where Joel Elad has taught.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681311</data>
+      <data key="d6" />
+    </node>
+    <node id="Wiley">
+      <data key="d0">Wiley</data>
+      <data key="d1">organization</data>
+      <data key="d2">Wiley is a prominent publishing company known for its extensive involvement in producing and publishing educational and instructional books. Wiley is the publisher of the widely recognized "Facebook Advertising For Dummies," a book aimed at helping readers navigate the complexities of advertising on the Facebook platform. The company has a dedicated team of professionals who support authors throughout the writing and publishing process. Key team members involved in the production of these books include Amy Fandrei and Christopher Morris, among other editors and managers who play crucial roles in bringing these publications to market.
+
+In addition to "Facebook Advertising For Dummies," Wiley has published several other books authored by notable writers such as Paul Dunay and Joel Elad. One such book is "Facebook Marketing For Dummies," which further underscores Wiley's commitment to providing comprehensive guides on social media marketing. Wiley is also the publisher behind the entire Dummies series, which is renowned for its user-friendly and accessible approach to a wide range of topics. This series includes various titles designed to simplify complex subjects for readers, making Wiley a trusted name in educational publishing.&lt;SEP&gt;Wiley is the publisher behind the book Facebook Advertising For Dummies.&lt;SEP&gt;Wiley is the publisher of the book, with a team including Amy Fandrei and Christopher Morris who supported the authors in writing and publishing the book.&lt;SEP&gt;Wiley is the publisher of the book Facebook Advertising For Dummies.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681444</data>
+      <data key="d6" />
+    </node>
+    <node id="Amy Fandrei">
+      <data key="d0">Amy Fandrei</data>
+      <data key="d1">person</data>
+      <data key="d2">Amy Fandrei is an Acquisitions Editor at Wiley who played a crucial role in the development and publication of the book "Facebook Advertising For Dummies." She initially reached out to the authors due to their insightful blogs and provided continuous support throughout the entire book writing and publishing process. Amy Fandrei was instrumental in bringing the book to market, showcasing her significant involvement in the project's success. Her role as an Acquisitions Editor highlights her expertise in identifying potential authors and guiding them through the complexities of the publishing process.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681456</data>
+      <data key="d6" />
+    </node>
+    <node id="Christopher Morris">
+      <data key="d0">Christopher Morris</data>
+      <data key="d1">person</data>
+      <data key="d2">Christopher Morris is the Senior Project Editor at Wiley, where he played a pivotal role in the production and market release of the book "Facebook Advertising For Dummies." In his capacity, he was instrumental in ensuring that the book adhered to the established For Dummies standards, a series known for its distinctive approach to instructional content. Christopher Morris was also responsible for keeping the authors on track throughout the writing and editing process, ensuring that the project timeline and quality benchmarks were met. His contributions were crucial in conforming the book to the specific stylistic and structural guidelines that define the For Dummies series, thereby maintaining consistency and quality across the publication.</data>
+      <data key="d3">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681455</data>
+      <data key="d6" />
+    </node>
+    <node id="Avaya">
+      <data key="d0">Avaya</data>
+      <data key="d1">organization</data>
+      <data key="d2">Avaya is a global leader in enterprise communications where Paul Dunay serves as the Global Managing Director of Services and Social Marketing.&lt;SEP&gt;Avaya is a global leader in enterprise communications where Paul Dunay serves as the Global Managing Director of Services and Social Marketing.&lt;SEP&gt;Avaya is a global leader in enterprise communications where Paul Dunay serves as the Global Managing Director of Services and Social Marketing.&lt;SEP&gt;Avaya is a global leader in enterprise communications where Paul Dunay serves as the Global Managing Director of Services and Social Marketing.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681444</data>
+      <data key="d6" />
+    </node>
+    <node id="AboutFace Digital">
+      <data key="d0">AboutFace Digital</data>
+      <data key="d1">organization</data>
+      <data key="d2">AboutFace Digital is a social media marketing agency co-founded by Richard Krueger, focusing on using Facebook for customer acquisition, brand building, and driving sales.&lt;SEP&gt;AboutFace Digital is a social media marketing agency focused on Facebook, co-founded by Richard Krueger. The agency specializes in acquiring customers, building brands, and driving sales.&lt;SEP&gt;AboutFace Digital is a social media marketing agency co-founded by Richard Krueger, specializing in using Facebook as a network for acquiring customers, building brands, and driving sales.&lt;SEP&gt;AboutFace Digital is a social media marketing agency co-founded and led by Richard Krueger, specializing in using Facebook for customer acquisition, brand building, and sales.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681457</data>
+      <data key="d6" />
+    </node>
+    <node id="LinkedIn For Dummies">
+      <data key="d0">LinkedIn For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">LinkedIn For Dummies is a book authored by Joel Elad, offering guidance on using LinkedIn.&lt;SEP&gt;LinkedIn For Dummies is a book authored by Joel Elad, providing guidance on using LinkedIn.&lt;SEP&gt;LinkedIn For Dummies is a book authored by Joel Elad, offering guidance on using LinkedIn.&lt;SEP&gt;LinkedIn For Dummies is a book authored by Joel Elad.&lt;SEP&gt;LinkedIn For Dummies is a book authored by Joel Elad, providing guidance on using LinkedIn.&lt;SEP&gt;LinkedIn For Dummies is a book authored by Joel Elad about using LinkedIn.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681446</data>
+      <data key="d6" />
+    </node>
+    <node id="Starting An Online Business All-In-One Desk Reference For Dummies">
+      <data key="d0">Starting An Online Business All-In-One Desk Reference For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">Starting an Online Business All-in-One Desk Reference For Dummies is a book authored by Joel Elad, providing comprehensive guidance on starting an online business.&lt;SEP&gt;Starting an Online Business All-in-One Desk Reference For Dummies is a comprehensive guide authored by Joel Elad, providing information on starting and managing an online business.&lt;SEP&gt;Starting an Online Business All-in-One Desk Reference For Dummies is a book authored by Joel Elad about starting an online business.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681458</data>
+      <data key="d6" />
+    </node>
+    <node id="Web Stores Do-It-Yourself For Dummies">
+      <data key="d0">Web Stores Do-It-Yourself For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">Web Stores Do-It-Yourself For Dummies is a book authored by Joel Elad, offering guidance on creating web stores.&lt;SEP&gt;Web Stores Do-It-Yourself For Dummies is a book authored by Joel Elad, offering guidance on creating and managing web stores.&lt;SEP&gt;Web Stores Do-It-Yourself For Dummies is a book authored by Joel Elad about creating web stores.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681459</data>
+      <data key="d6" />
+    </node>
+    <node id="University Of California, Irvine">
+      <data key="d0">University Of California, Irvine</data>
+      <data key="d1">organization</data>
+      <data key="d2">The University of California, Irvine is an educational institution where Joel Elad has taught and obtained his Master’s Degree in Business.&lt;SEP&gt;University of California, Irvine is an educational institution where Joel Elad has taught and contributed to various academic and professional programs.&lt;SEP&gt;University of California, Irvine is an educational institution where Joel Elad has taught and holds a Master’s Degree in Business.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681457</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Marketing For Dummies">
+      <data key="d0">Facebook Marketing For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">Facebook Marketing For Dummies is a book authored by Paul Dunay, providing guidance on marketing strategies using Facebook.&lt;SEP&gt;Facebook Marketing For Dummies is a book authored by Paul Dunay, published by Wiley, providing guidance on marketing strategies using Facebook.&lt;SEP&gt;Facebook Marketing For Dummies is a book authored by Paul Dunay, published by Wiley, focusing on marketing strategies using Facebook.&lt;SEP&gt;Facebook Marketing For Dummies is a book authored by Paul Dunay, published by Wiley.&lt;SEP&gt;Facebook Marketing For Dummies is another book authored by Paul Dunay, focusing on marketing strategies on Facebook.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681446</data>
+      <data key="d6" />
+    </node>
+    <node id="Information Technology Services Marketing Association">
+      <data key="d0">Information Technology Services Marketing Association</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Information Technology Services Marketing Association (ITSMA) is an organization that hosts the Marketing Excellence Awards competition, in which Paul Dunay has been a five-time finalist and a 2005 gold award winner.&lt;SEP&gt;The Information Technology Services Marketing Association (ITSMA) is an organization that has recognized Paul Dunay as a five-time finalist in the Marketing Excellence Awards competition and a 2005 gold award winner.&lt;SEP&gt;Information Technology Services Marketing Association (ITSMA) is an organization that hosts the Marketing Excellence Awards competition, where Paul Dunay has been a five-time finalist and a 2005 gold award winner.&lt;SEP&gt;Information Technology Services Marketing Association (ITSMA) is an organization that hosts the Marketing Excellence Awards competition where Paul Dunay was a five-time finalist and a 2005 gold award winner.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681457</data>
+      <data key="d6" />
+    </node>
+    <node id="DemandGen Award">
+      <data key="d0">DemandGen Award</data>
+      <data key="d1">concept</data>
+      <data key="d2">The DemandGen Award recognizes excellence in utilizing marketing automation to fuel corporate growth, which Paul Dunay won in 2008.&lt;SEP&gt;The DemandGen Award is an award that Paul Dunay won in 2008 for Utilizing Marketing Automation to Fuel Corporate Growth.&lt;SEP&gt;The DemandGen Award is an accolade for utilizing marketing automation to fuel corporate growth, which Paul Dunay won in 2008.&lt;SEP&gt;DemandGen Award is an award for utilizing marketing automation to fuel corporate growth, which Paul Dunay won in 2008.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681456</data>
+      <data key="d6" />
+    </node>
+    <node id="BtoB Magazine Top 25 B2B Marketer Of The Year">
+      <data key="d0">BtoB Magazine Top 25 B2B Marketer Of The Year</data>
+      <data key="d1">concept</data>
+      <data key="d2">The BtoB Magazine Top 25 B2B Marketer of the Year is an award recognizing top B2B marketers, which Paul Dunay received in 2009.&lt;SEP&gt;BtoB Magazine Top 25 B2B Marketer of the Year is an award recognizing top B2B marketers, which Paul Dunay received in 2009.&lt;SEP&gt;BtoB Magazine Top 25 B2B Marketer of the Year is an award recognizing top B2B marketers, which Paul Dunay received in 2009.</data>
+      <data key="d3">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681456</data>
+      <data key="d6" />
+    </node>
+    <node id="Teresa Artman">
+      <data key="d0">Teresa Artman</data>
+      <data key="d1">person</data>
+      <data key="d2">Teresa Artman is the Senior Copy Editor for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Teresa Artman is the Senior Copy Editor who worked on the book.&lt;SEP&gt;Teresa Artman is the Senior Copy Editor for the book.&lt;SEP&gt;Teresa Artman is the Senior Copy Editor for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681448</data>
+      <data key="d6" />
+    </node>
+    <node id="Michelle Oxman">
+      <data key="d0">Michelle Oxman</data>
+      <data key="d1">person</data>
+      <data key="d2">Michelle Oxman is the Technical Editor for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Michelle Oxman is the Technical Editor who contributed to the book.&lt;SEP&gt;Michelle Oxman is the Technical Editor who contributed to the book.&lt;SEP&gt;Michelle Oxman is the Technical Editor for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681448</data>
+      <data key="d6" />
+    </node>
+    <node id="Kevin Kirschner">
+      <data key="d0">Kevin Kirschner</data>
+      <data key="d1">person</data>
+      <data key="d2">Kevin Kirschner is the Editorial Manager for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Kevin Kirschner is the Editorial Manager involved in the book's production.&lt;SEP&gt;Kevin Kirschner is the Editorial Manager overseeing the book's production.&lt;SEP&gt;Kevin Kirschner is the Editorial Manager overseeing the book's publication.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681449</data>
+      <data key="d6" />
+    </node>
+    <node id="Amanda Graham">
+      <data key="d0">Amanda Graham</data>
+      <data key="d1">person</data>
+      <data key="d2">Amanda Graham is the Editorial Assistant for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Amanda Graham is the Editorial Assistant who assisted in the book's production.&lt;SEP&gt;Amanda Graham is the Editorial Assistant who assisted in the book's development.&lt;SEP&gt;Amanda Graham is the Editorial Assistant for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681458</data>
+      <data key="d6" />
+    </node>
+    <node id="Cherie Case">
+      <data key="d0">Cherie Case</data>
+      <data key="d1">person</data>
+      <data key="d2">Cherie Case is the Senior Editorial Assistant for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Cherie Case is the Senior Editorial Assistant who worked on the book.&lt;SEP&gt;Cherie Case is the Senior Editorial Assistant involved in the book's production.&lt;SEP&gt;Cherie Case is the Senior Editorial Assistant for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681460</data>
+      <data key="d6" />
+    </node>
+    <node id="Rich Tennant">
+      <data key="d0">Rich Tennant</data>
+      <data key="d1">person</data>
+      <data key="d2">Rich Tennant is the cartoonist for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Rich Tennant is the cartoonist who provided cartoons for the book.&lt;SEP&gt;Rich Tennant is the cartoonist who provided illustrations for the book.&lt;SEP&gt;Rich Tennant is the cartoonist who provided cartoons for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681449</data>
+      <data key="d6" />
+    </node>
+    <node id="Patrick Redmond">
+      <data key="d0">Patrick Redmond</data>
+      <data key="d1">person</data>
+      <data key="d2">Patrick Redmond is the Project Coordinator for the composition services of the book "Facebook Advertising For Dummies."&lt;SEP&gt;Patrick Redmond is the Project Coordinator for the composition services of the book.&lt;SEP&gt;Patrick Redmond is the Project Coordinator for the book's composition services.&lt;SEP&gt;Patrick Redmond is the Project Coordinator for the composition services of the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681450</data>
+      <data key="d6" />
+    </node>
+    <node id="Joyce Haughey">
+      <data key="d0">Joyce Haughey</data>
+      <data key="d1">person</data>
+      <data key="d2">Joyce Haughey is involved in the layout and graphics for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Joyce Haughey worked on the layout and graphics for the book.&lt;SEP&gt;Joyce Haughey is involved in the layout and graphics for the book.&lt;SEP&gt;Joyce Haughey is involved in the layout and graphics for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681450</data>
+      <data key="d6" />
+    </node>
+    <node id="Laura Westhuis">
+      <data key="d0">Laura Westhuis</data>
+      <data key="d1">person</data>
+      <data key="d2">Laura Westhuis is involved in the layout and graphics for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Laura Westhuis worked on the layout and graphics for the book.&lt;SEP&gt;Laura Westhuis is involved in the layout and graphics for the book.&lt;SEP&gt;Laura Westhuis is involved in the layout and graphics for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681450</data>
+      <data key="d6" />
+    </node>
+    <node id="ConText Editorial Services, Inc.">
+      <data key="d0">ConText Editorial Services, Inc.</data>
+      <data key="d1">organization</data>
+      <data key="d2">ConText Editorial Services, Inc. is a company providing proofreading services for the book "Facebook Advertising For Dummies."&lt;SEP&gt;ConText Editorial Services, Inc. provided proofreading services for the book.&lt;SEP&gt;ConText Editorial Services, Inc. is a company that provided proofreading services for the book.&lt;SEP&gt;ConText Editorial Services, Inc. is the organization responsible for proofreading the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681451</data>
+      <data key="d6" />
+    </node>
+    <node id="Lauren Mandelbaum">
+      <data key="d0">Lauren Mandelbaum</data>
+      <data key="d1">person</data>
+      <data key="d2">Lauren Mandelbaum is a proofreader for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Lauren Mandelbaum is a proofreader who worked on the book.&lt;SEP&gt;Lauren Mandelbaum is a proofreader who worked on the book.&lt;SEP&gt;Lauren Mandelbaum is a proofreader for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681451</data>
+      <data key="d6" />
+    </node>
+    <node id="Cheryl Duksta">
+      <data key="d0">Cheryl Duksta</data>
+      <data key="d1">person</data>
+      <data key="d2">Cheryl Duksta is the indexer for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Cheryl Duksta is the indexer who worked on the book.&lt;SEP&gt;Cheryl Duksta is the indexer for the book.&lt;SEP&gt;Cheryl Duksta is the indexer for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681451</data>
+      <data key="d6" />
+    </node>
+    <node id="Richard Swadley">
+      <data key="d0">Richard Swadley</data>
+      <data key="d1">person</data>
+      <data key="d2">Richard Swadley is the Vice President and Executive Group Publisher for Technology Dummies.&lt;SEP&gt;Richard Swadley is the Vice President and Executive Group Publisher for Technology Dummies.&lt;SEP&gt;Richard Swadley is the Vice President and Executive Group Publisher for Technology Dummies.&lt;SEP&gt;Richard Swadley is the Vice President and Executive Group Publisher for Technology Dummies.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681452</data>
+      <data key="d6" />
+    </node>
+    <node id="Andy Cummings">
+      <data key="d0">Andy Cummings</data>
+      <data key="d1">person</data>
+      <data key="d2">Andy Cummings is the Vice President and Publisher for Technology Dummies.&lt;SEP&gt;Andy Cummings is the Vice President and Publisher for Technology Dummies.&lt;SEP&gt;Andy Cummings is the Vice President and Publisher for Technology Dummies.&lt;SEP&gt;Andy Cummings is the Vice President and Publisher for Technology Dummies.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681452</data>
+      <data key="d6" />
+    </node>
+    <node id="Mary Bednarek">
+      <data key="d0">Mary Bednarek</data>
+      <data key="d1">person</data>
+      <data key="d2">Mary Bednarek is the Executive Acquisitions Director for Technology Dummies.&lt;SEP&gt;Mary Bednarek is the Executive Acquisitions Director for Technology Dummies.&lt;SEP&gt;Mary Bednarek is the Executive Acquisitions Director for Technology Dummies.&lt;SEP&gt;Mary Bednarek is the Executive Acquisitions Director for Technology Dummies.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681453</data>
+      <data key="d6" />
+    </node>
+    <node id="Mary C. Corder">
+      <data key="d0">Mary C. Corder</data>
+      <data key="d1">person</data>
+      <data key="d2">Mary C. Corder is the Editorial Director for Technology Dummies.&lt;SEP&gt;Mary C. Corder is the Editorial Director for Technology Dummies.&lt;SEP&gt;Mary C. Corder is the Editorial Director for Technology Dummies.&lt;SEP&gt;Mary C. Corder is the Editorial Director for Technology Dummies.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681453</data>
+      <data key="d6" />
+    </node>
+    <node id="Diane Graves Steele">
+      <data key="d0">Diane Graves Steele</data>
+      <data key="d1">person</data>
+      <data key="d2">Diane Graves Steele is the Vice President and Publisher for Consumer Dummies.&lt;SEP&gt;Diane Graves Steele is the Vice President and Publisher for Consumer Dummies.&lt;SEP&gt;Diane Graves Steele is the Vice President and Publisher for Consumer Dummies.&lt;SEP&gt;Diane Graves Steele is the Vice President and Publisher for Consumer Dummies.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681454</data>
+      <data key="d6" />
+    </node>
+    <node id="Debbie Stailey">
+      <data key="d0">Debbie Stailey</data>
+      <data key="d1">person</data>
+      <data key="d2">Debbie Stailey is the Director of Composition Services for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Debbie Stailey is the Director of Composition Services for the book.&lt;SEP&gt;Debbie Stailey is the Director of Composition Services for the book.&lt;SEP&gt;Debbie Stailey is the Director of Composition Services for the book.</data>
+      <data key="d3">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681454</data>
+      <data key="d6" />
+    </node>
+    <node id="Dummies.com">
+      <data key="d0">Dummies.com</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Dummies.com is the official website of Dummies, offering videos, articles, and step-by-step instructions on various topics.&lt;SEP&gt;Dummies.com is a website associated with the For Dummies book series, providing additional resources and information.&lt;SEP&gt;Dummies.com is the website for Dummies, offering videos, articles, instructions, and other resources.&lt;SEP&gt;Dummies.com is a website associated with the For Dummies series, providing additional resources and support.&lt;SEP&gt;Dummies.com is a website offering a wide range of how-to information, videos, articles, and other resources.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681447</data>
+      <data key="d6" />
+    </node>
+    <node id="111 River Street">
+      <data key="d0">111 River Street</data>
+      <data key="d1">location</data>
+      <data key="d2">111 River Street is the address of Wiley Publishing, Inc. in Hoboken, NJ.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681322</data>
+      <data key="d6" />
+    </node>
+    <node id="NJ">
+      <data key="d0">NJ</data>
+      <data key="d1">location</data>
+      <data key="d2">NJ is the abbreviation for New Jersey, the state where Hoboken is located.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681323</data>
+      <data key="d6" />
+    </node>
+    <node id="Indiana">
+      <data key="d0">Indiana</data>
+      <data key="d1">location</data>
+      <data key="d2">Indiana is the state where Indianapolis is located.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681324</data>
+      <data key="d6" />
+    </node>
+    <node id="222 Rosewood Drive">
+      <data key="d0">222 Rosewood Drive</data>
+      <data key="d1">location</data>
+      <data key="d2">222 Rosewood Drive is the address of the Copyright Clearance Center in Danvers, MA.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681324</data>
+      <data key="d6" />
+    </node>
+    <node id="MA">
+      <data key="d0">MA</data>
+      <data key="d1">location</data>
+      <data key="d2">MA is the abbreviation for Massachusetts, the state where Danvers is located.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681325</data>
+      <data key="d6" />
+    </node>
+    <node id="Permissions Department">
+      <data key="d0">Permissions Department</data>
+      <data key="d1">organization</data>
+      <data key="d2">Permissions Department is a department within John Wiley &amp; Sons, Inc. that handles permission requests.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681325</data>
+      <data key="d6" />
+    </node>
+    <node id="Customer Care Department">
+      <data key="d0">Customer Care Department</data>
+      <data key="d1">organization</data>
+      <data key="d2">Customer Care Department is a department within Wiley Publishing, Inc. that handles customer inquiries.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681325</data>
+      <data key="d6" />
+    </node>
+    <node id="Library of Congress Control Number">
+      <data key="d0">Library of Congress Control Number</data>
+      <data key="d1">data</data>
+      <data key="d2">Library of Congress Control Number is a unique identifier assigned to the book by the Library of Congress.&lt;SEP&gt;Library of Congress Control Number is a unique identifier assigned to the book Facebook Advertising For Dummies.</data>
+      <data key="d3">chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681441</data>
+      <data key="d6" />
+    </node>
+    <node id="Ad Campaign">
+      <data key="d0">Ad Campaign</data>
+      <data key="d1">concept</data>
+      <data key="d2">An ad campaign on Facebook involves creating and managing advertisements to reach specific audiences based on demographics and interests.&lt;SEP&gt;An Ad Campaign is a coordinated series of advertisements designed to achieve specific marketing goals.</data>
+      <data key="d3">chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681431</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Fans">
+      <data key="d0">Facebook Fans</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook fans are users who follow and engage with a business or brand's Facebook page.</data>
+      <data key="d3">chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681328</data>
+      <data key="d6" />
+    </node>
+    <node id="Mobile Apps">
+      <data key="d0">Mobile Apps</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Mobile apps developed by Dummies provide how-to information on various topics, accessible via smartphones and other mobile devices.&lt;SEP&gt;Mobile Apps developed by Dummies provide access to how-to information on various topics, including digital photography, certification, and more.&lt;SEP&gt;Mobile Apps developed by Dummies provide how-to information on various topics, accessible via smartphones.</data>
+      <data key="d3">chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681447</data>
+      <data key="d6" />
+    </node>
+    <node id="Cheat Sheets">
+      <data key="d0">Cheat Sheets</data>
+      <data key="d1">content</data>
+      <data key="d2">Cheat Sheets are quick reference guides provided by Dummies, including checklists, charts, and common instructions.&lt;SEP&gt;Cheat Sheets offered by Dummies.com include checklists, charts, common instructions, and other resources to help users quickly access key information.&lt;SEP&gt;Cheat Sheets are quick reference guides provided by Dummies, including checklists, charts, and common instructions.</data>
+      <data key="d3">chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681447</data>
+      <data key="d6" />
+    </node>
+    <node id="Starting an Online Business All-in-One For Dummies">
+      <data key="d0">Starting an Online Business All-in-One For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">Starting an Online Business All-in-One For Dummies is a book coauthored by Joel Elad, offering comprehensive guidance on starting an online business.&lt;SEP&gt;Starting an Online Business All-in-One For Dummies is a book coauthored by Joel Elad.</data>
+      <data key="d3">chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681428</data>
+      <data key="d6" />
+    </node>
+    <node id="Top 25 BtoB Marketers of the Year">
+      <data key="d0">Top 25 BtoB Marketers of the Year</data>
+      <data key="d1">event</data>
+      <data key="d2">Top 25 BtoB Marketers of the Year is an annual recognition event by BtoB Magazine honoring outstanding marketers in the business-to-business sector.</data>
+      <data key="d3">chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681329</data>
+      <data key="d6" />
+    </node>
+    <node id="Bloggers">
+      <data key="d0">Bloggers</data>
+      <data key="d1">person</data>
+      <data key="d2">Bloggers are individuals who provided information about changes in Facebook's advertising platform.&lt;SEP&gt;Bloggers are individuals who write about various topics, including changes in Facebook's advertising platform, and provide valuable information to users and marketers.&lt;SEP&gt;Bloggers are individuals who kept the authors informed about changes in Facebook's advertising platform.</data>
+      <data key="d3">chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681455</data>
+      <data key="d6" />
+    </node>
+    <node id="Marketing Excellence Awards">
+      <data key="d0">Marketing Excellence Awards</data>
+      <data key="d1">event</data>
+      <data key="d2">The Marketing Excellence Awards is a competition by ITSMA in which Paul Dunay has been a five-time finalist and a 2005 gold award winner.</data>
+      <data key="d3">chunk-4db1d957d48d5297acd3f268ecb4fbc3</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681339</data>
+      <data key="d6" />
+    </node>
+    <node id="Ad Targeting">
+      <data key="d0">Ad Targeting</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ad Targeting is the process of directing advertisements to specific audiences based on demographics, interests, and other criteria.</data>
+      <data key="d3">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681431</data>
+      <data key="d6" />
+    </node>
+    <node id="Newsletters">
+      <data key="d0">Newsletters</data>
+      <data key="d1">content</data>
+      <data key="d2">Newsletters provided by Dummies.com cover topics such as digital photography, Microsoft Windows &amp; Office, personal finance, health, and more.</data>
+      <data key="d3">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681432</data>
+      <data key="d6" />
+    </node>
+    <node id="Sweepstakes">
+      <data key="d0">Sweepstakes</data>
+      <data key="d1">event</data>
+      <data key="d2">Sweepstakes are monthly contests hosted by Dummies.com where users can win valuable prizes by participating.</data>
+      <data key="d3">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681432</data>
+      <data key="d6" />
+    </node>
+    <node id="Marketers And Advertisers">
+      <data key="d0">Marketers And Advertisers</data>
+      <data key="d1">person</data>
+      <data key="d2">Marketers and advertisers are professionals who use platforms like Facebook to acquire new customers, interact with existing customers, and sell products and services.</data>
+      <data key="d3">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681440</data>
+      <data key="d6" />
+    </node>
+    <node id="Starting An Online Business All-In-One For Dummies">
+      <data key="d0">Starting An Online Business All-In-One For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">Starting an Online Business All-in-One For Dummies is a book coauthored by Joel Elad, offering comprehensive guidance on starting an online business.</data>
+      <data key="d3">chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681446</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Team">
+      <data key="d0">Facebook Team</data>
+      <data key="d1">organization</data>
+      <data key="d2">Facebook Team refers to the group of young entrepreneurs and software developers working with Mark Zuckerberg.</data>
+      <data key="d3">chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681455</data>
+      <data key="d6" />
+    </node>
+    <node id="Authors">
+      <data key="d0">Authors</data>
+      <data key="d3">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d2">The authors acknowledge the support of the team at Wiley, including Amy Fandrei and Christopher Morris, in making the book a success.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773681494</data>
+      <data key="d6" />
+    </node>
+    <edge source="Facebook Advertising For Dummies" target="Wiley Publishing, Inc.">
+      <data key="d7">4.0</data>
+      <data key="d8">Facebook Advertising For Dummies is published by Wiley Publishing, Inc.&lt;SEP&gt;Facebook Advertising For Dummies is published by Wiley Publishing, Inc.&lt;SEP&gt;Facebook Advertising For Dummies is published by Wiley Publishing, Inc.&lt;SEP&gt;Facebook Advertising For Dummies is published by Wiley Publishing, Inc.</data>
+      <data key="d9">authorship,publication</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Paul Dunay">
+      <data key="d7">11.0</data>
+      <data key="d8">Paul Dunay is an author of the book *Facebook Advertising For Dummies*. He is recognized as a co-author of this work, where he contributed his expertise in marketing. The book, aimed at providing guidance on Facebook advertising, benefits from Dunay's professional insights, making it a valuable resource for readers seeking to understand and utilize Facebook's advertising platform effectively. His involvement underscores the collaborative effort behind the book, which is designed to help users navigate the complexities of Facebook advertising with practical advice and strategies.&lt;SEP&gt;Paul Dunay is a co-author of Facebook Advertising For Dummies, contributing his marketing expertise.&lt;SEP&gt;Paul Dunay is an author of Facebook Advertising For Dummies.</data>
+      <data key="d9">authorship,collaboration,creation,marketing expertise,publication</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681480</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Richard Krueger">
+      <data key="d7">11.0</data>
+      <data key="d8">Richard Krueger is an author of the book "Facebook Advertising For Dummies." He is recognized for his contributions to the field of social media marketing, particularly through his work on this book. Richard Krueger co-authored "Facebook Advertising For Dummies," providing valuable insights into the strategies and techniques involved in advertising on the Facebook platform. His role as a co-author highlights his expertise and collaborative efforts in creating a comprehensive guide for users looking to navigate and utilize Facebook's advertising tools effectively. The book serves as a resource for understanding the nuances of social media marketing, with Krueger's input being instrumental in its development.&lt;SEP&gt;Richard Krueger is a co-author of Facebook Advertising For Dummies, providing insights on social media marketing.&lt;SEP&gt;Richard Krueger is an author of Facebook Advertising For Dummies.</data>
+      <data key="d9">authorship,collaboration,creation,publication,social media marketing</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681481</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Joel Elad">
+      <data key="d7">11.0</data>
+      <data key="d8">Joel Elad is an author of the book "Facebook Advertising For Dummies." He is recognized as a co-author of this publication, where he shares his extensive knowledge in online marketing and online business strategies. His contributions to the book reflect his expertise in these areas, providing readers with valuable insights and practical advice on leveraging Facebook for advertising purposes. Throughout the various descriptions, Joel Elad is consistently identified as a key author of "Facebook Advertising For Dummies," highlighting his significant role in the creation of this comprehensive guide.&lt;SEP&gt;Joel Elad is a co-author of Facebook Advertising For Dummies, sharing his knowledge on online business.&lt;SEP&gt;Joel Elad is an author of Facebook Advertising For Dummies.</data>
+      <data key="d9">authorship,collaboration,creation,online business,online marketing,publication</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681482</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Dummies">
+      <data key="d7">5.0</data>
+      <data key="d8">Facebook Advertising For Dummies is part of the Dummies book series published by Wiley.&lt;SEP&gt;Facebook Advertising For Dummies is published by Dummies, known for its instructional guides.&lt;SEP&gt;Facebook Advertising For Dummies is part of the Dummies series published by Wiley.&lt;SEP&gt;Facebook Advertising For Dummies is published by Dummies.&lt;SEP&gt;Dummies is the publisher of Facebook Advertising For Dummies, providing it as a resource for learning Facebook advertising.</data>
+      <data key="d9">book distribution,book series,instructional guides,publication,resource,series</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681487</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="United States Copyright Act">
+      <data key="d7">2.0</data>
+      <data key="d8">The publication of Facebook Advertising For Dummies is governed by the United States Copyright Act.&lt;SEP&gt;Facebook Advertising For Dummies is subject to the United States Copyright Act.</data>
+      <data key="d9">copyright,legal,legal framework</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681346</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook">
+      <data key="d7">7.0</data>
+      <data key="d8">The book Facebook Advertising For Dummies focuses on advertising strategies for Facebook.&lt;SEP&gt;Facebook Advertising For Dummies provides guidance on advertising on Facebook.&lt;SEP&gt;Facebook Advertising For Dummies focuses on using Facebook as a platform for advertising.&lt;SEP&gt;Facebook Advertising For Dummies focuses on advertising strategies for Facebook.&lt;SEP&gt;Facebook Advertising For Dummies focuses on advertising strategies for Facebook.&lt;SEP&gt;The book Facebook Advertising For Dummies focuses on advertising strategies for Facebook.&lt;SEP&gt;The book Facebook Advertising For Dummies provides guidance on using Facebook's advertising platform.</data>
+      <data key="d9">advertising,focus,marketing,platform,subject</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681481</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Cheat Sheet">
+      <data key="d7">4.0</data>
+      <data key="d8">Facebook Advertising For Dummies has a Cheat Sheet created specifically for it.&lt;SEP&gt;The Cheat Sheet is a supplementary resource for Facebook Advertising For Dummies.&lt;SEP&gt;Facebook Advertising For Dummies has a supplementary Cheat Sheet available at www.dummies.com.&lt;SEP&gt;The Cheat Sheet is a supplementary resource created specifically for the book Facebook Advertising For Dummies.</data>
+      <data key="d9">additional content,online content,resource,supplement,supplementary material,supplementary resource,supplementary resources</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681494</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Library Of Congress Control Number">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising For Dummies has a Library of Congress Control Number for cataloging purposes.&lt;SEP&gt;The Library of Congress Control Number is a unique identifier assigned to the book for cataloging purposes.</data>
+      <data key="d9">cataloging,identification</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681494</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="ISBN">
+      <data key="d7">4.0</data>
+      <data key="d8">Facebook Advertising For Dummies has an ISBN for identification purposes.&lt;SEP&gt;Facebook Advertising For Dummies has an ISBN.&lt;SEP&gt;Facebook Advertising For Dummies has an ISBN of 978-0-470-63762-3.&lt;SEP&gt;The ISBN is a unique identifier for the book Facebook Advertising For Dummies.</data>
+      <data key="d9">cataloging,identification,publication</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681496</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Advertising">
+      <data key="d7">4.0</data>
+      <data key="d8">Facebook Advertising For Dummies provides educational content on strategies and techniques for Facebook Advertising.&lt;SEP&gt;Facebook Advertising For Dummies provides educational content on Facebook Advertising strategies.&lt;SEP&gt;Facebook Advertising For Dummies provides educational content on Facebook Advertising strategies.&lt;SEP&gt;Facebook Advertising For Dummies provides guidance and instructions on Facebook Advertising.</data>
+      <data key="d9">advertising strategies,educational content,guidance,instruction</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681483</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Dummies.com">
+      <data key="d7">2.0</data>
+      <data key="d8">Dummies.com provides additional resources for Facebook Advertising For Dummies.&lt;SEP&gt;Dummies.com provides additional resources and support for the book Facebook Advertising For Dummies.</data>
+      <data key="d9">online resources,resource,supplementary,supplementary content</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681495</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Indianapolis">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies was published in Indianapolis.</data>
+      <data key="d9">location,publication</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681349</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Wiley">
+      <data key="d7">7.0</data>
+      <data key="d8">Facebook Advertising For Dummies was published by Wiley, with Amy Fandrei and Christopher Morris involved in the editing process.&lt;SEP&gt;Wiley is the publishing company that supported the creation and publication of Facebook Advertising For Dummies.&lt;SEP&gt;"Facebook Advertising For Dummies" is published by Wiley, involving their editorial and publishing teams.&lt;SEP&gt;Wiley is the publisher of the book Facebook Advertising For Dummies.&lt;SEP&gt;Facebook Advertising For Dummies was published by Wiley, with contributions from various Wiley staff members.&lt;SEP&gt;Facebook Advertising For Dummies was published by Wiley, with contributions from various Wiley personnel.&lt;SEP&gt;Facebook Advertising For Dummies is published by Wiley.</data>
+      <data key="d9">book distribution,collaboration,editing,publication,publishing,support</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681483</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Amy Fandrei">
+      <data key="d7">6.0</data>
+      <data key="d8">Amy Fandrei supported the authors and helped bring Facebook Advertising For Dummies to publication.&lt;SEP&gt;Amy Fandrei is the Acquisitions Editor for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Amy Fandrei supported the authors through the publishing process of Facebook Advertising For Dummies.&lt;SEP&gt;Amy Fandrei served as the Acquisitions Editor for the book Facebook Advertising For Dummies.&lt;SEP&gt;Amy Fandrei was the Acquisitions Editor for the book, involved in its development.&lt;SEP&gt;Amy Fandrei is the Acquisitions Editor for the book.</data>
+      <data key="d9">acquisition,editing,publishing,support</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681484</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Christopher Morris">
+      <data key="d7">6.0</data>
+      <data key="d8">Christopher Morris helped conform Facebook Advertising For Dummies to For Dummies standards.&lt;SEP&gt;Christopher Morris is the Senior Project Editor for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Christopher Morris helped conform Facebook Advertising For Dummies to For Dummies standards.&lt;SEP&gt;Christopher Morris served as the Senior Project Editor for the book Facebook Advertising For Dummies.&lt;SEP&gt;Christopher Morris served as the Senior Project Editor for the book, ensuring it met For Dummies standards.&lt;SEP&gt;Christopher Morris helped bring the book to For Dummies standards as the Senior Project Editor.</data>
+      <data key="d9">editing,project management,standards</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681484</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Library of Congress Control Number">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising For Dummies has a Library of Congress Control Number.&lt;SEP&gt;Facebook Advertising For Dummies has a Library of Congress Control Number of 2010938829.</data>
+      <data key="d9">cataloging,identification</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681477</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Teresa Artman">
+      <data key="d7">4.0</data>
+      <data key="d8">Teresa Artman is the Senior Copy Editor for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Teresa Artman served as the Senior Copy Editor for the book Facebook Advertising For Dummies.&lt;SEP&gt;Teresa Artman was the Senior Copy Editor for the book, responsible for copy editing.&lt;SEP&gt;Teresa Artman is the Senior Copy Editor for the book.</data>
+      <data key="d9">copy editing,editing</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681485</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Michelle Oxman">
+      <data key="d7">4.0</data>
+      <data key="d8">Michelle Oxman is the Technical Editor for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Michelle Oxman served as the Technical Editor for the book Facebook Advertising For Dummies.&lt;SEP&gt;Michelle Oxman served as the Technical Editor, providing technical expertise for the book.&lt;SEP&gt;Michelle Oxman is the Technical Editor for the book.</data>
+      <data key="d9">editing,technical editing,technical review</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681485</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Kevin Kirschner">
+      <data key="d7">4.0</data>
+      <data key="d8">Kevin Kirschner is the Editorial Manager for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Kevin Kirschner served as the Editorial Manager for the book Facebook Advertising For Dummies.&lt;SEP&gt;Kevin Kirschner was the Editorial Manager overseeing the book's production.&lt;SEP&gt;Kevin Kirschner is the Editorial Manager for the book.</data>
+      <data key="d9">editing,management</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681488</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Amanda Graham">
+      <data key="d7">4.0</data>
+      <data key="d8">Amanda Graham is the Editorial Assistant for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Amanda Graham served as the Editorial Assistant for the book Facebook Advertising For Dummies.&lt;SEP&gt;Amanda Graham assisted as an Editorial Assistant in the book's development.&lt;SEP&gt;Amanda Graham is the Editorial Assistant for the book.</data>
+      <data key="d9">assistance,editing</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681488</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Cherie Case">
+      <data key="d7">4.0</data>
+      <data key="d8">Cherie Case is the Senior Editorial Assistant for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Cherie Case served as the Senior Editorial Assistant for the book Facebook Advertising For Dummies.&lt;SEP&gt;Cherie Case was the Senior Editorial Assistant involved in the book's production.&lt;SEP&gt;Cherie Case is the Senior Editorial Assistant for the book.</data>
+      <data key="d9">assistance,editing</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681489</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Rich Tennant">
+      <data key="d7">4.0</data>
+      <data key="d8">Rich Tennant provided cartoons for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Rich Tennant provided cartoons for the book Facebook Advertising For Dummies.&lt;SEP&gt;Rich Tennant provided cartoons for the book, adding visual elements to it.&lt;SEP&gt;Rich Tennant provided cartoons for the book.</data>
+      <data key="d9">cartoons,illustration</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681489</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Patrick Redmond">
+      <data key="d7">4.0</data>
+      <data key="d8">Patrick Redmond is the Project Coordinator for the composition services of the book "Facebook Advertising For Dummies."&lt;SEP&gt;Patrick Redmond served as the Project Coordinator for the composition services of the book Facebook Advertising For Dummies.&lt;SEP&gt;Patrick Redmond was the Project Coordinator for the book's composition services.&lt;SEP&gt;Patrick Redmond is the Project Coordinator for the composition services of the book.</data>
+      <data key="d9">composition,coordination,project management</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681490</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Joyce Haughey">
+      <data key="d7">4.0</data>
+      <data key="d8">Joyce Haughey is involved in the layout and graphics for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Joyce Haughey worked on the layout and graphics for the book Facebook Advertising For Dummies.&lt;SEP&gt;Joyce Haughey worked on the layout and graphics for the book.&lt;SEP&gt;Joyce Haughey is involved in the layout and graphics for the book.</data>
+      <data key="d9">graphics,layout</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681490</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Laura Westhuis">
+      <data key="d7">4.0</data>
+      <data key="d8">Laura Westhuis is involved in the layout and graphics for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Laura Westhuis worked on the layout and graphics for the book Facebook Advertising For Dummies.&lt;SEP&gt;Laura Westhuis worked on the layout and graphics for the book.&lt;SEP&gt;Laura Westhuis is involved in the layout and graphics for the book.</data>
+      <data key="d9">graphics,layout</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681491</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="ConText Editorial Services, Inc.">
+      <data key="d7">4.0</data>
+      <data key="d8">ConText Editorial Services, Inc. provided proofreading services for the book "Facebook Advertising For Dummies."&lt;SEP&gt;ConText Editorial Services, Inc. provided proofreading services for the book Facebook Advertising For Dummies.&lt;SEP&gt;ConText Editorial Services, Inc. provided proofreading services for the book.&lt;SEP&gt;ConText Editorial Services, Inc. is responsible for proofreading the book.</data>
+      <data key="d9">editing,proofreading</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Lauren Mandelbaum">
+      <data key="d7">4.0</data>
+      <data key="d8">Lauren Mandelbaum is a proofreader for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Lauren Mandelbaum served as a proofreader for the book Facebook Advertising For Dummies.&lt;SEP&gt;Lauren Mandelbaum was a proofreader who worked on the book.&lt;SEP&gt;Lauren Mandelbaum is a proofreader for the book.</data>
+      <data key="d9">editing,proofreading</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681496</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Cheryl Duksta">
+      <data key="d7">4.0</data>
+      <data key="d8">Cheryl Duksta is the indexer for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Cheryl Duksta served as the indexer for the book Facebook Advertising For Dummies.&lt;SEP&gt;Cheryl Duksta was the indexer for the book, organizing its index.&lt;SEP&gt;Cheryl Duksta is the indexer for the book.</data>
+      <data key="d9">editing,indexing,organization</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681497</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Richard Swadley">
+      <data key="d7">4.0</data>
+      <data key="d8">Richard Swadley is the Vice President and Executive Group Publisher for Technology Dummies, overseeing the publication of the book.&lt;SEP&gt;Richard Swadley is the Vice President and Executive Group Publisher for Technology Dummies, overseeing the publication of the book.&lt;SEP&gt;Richard Swadley is the Vice President and Executive Group Publisher for Technology Dummies, overseeing the book's publication.&lt;SEP&gt;Richard Swadley is the Vice President and Executive Group Publisher for Technology Dummies.</data>
+      <data key="d9">executive management,executive oversight,management,publishing</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681498</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Andy Cummings">
+      <data key="d7">4.0</data>
+      <data key="d8">Andy Cummings is the Vice President and Publisher for Technology Dummies, involved in the publication of the book.&lt;SEP&gt;Andy Cummings is the Vice President and Publisher for Technology Dummies, involved in the publication of the book.&lt;SEP&gt;Andy Cummings is the Vice President and Publisher for Technology Dummies, involved in the book's publication.&lt;SEP&gt;Andy Cummings is the Vice President and Publisher for Technology Dummies.</data>
+      <data key="d9">management,publishing</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681498</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Mary Bednarek">
+      <data key="d7">4.0</data>
+      <data key="d8">Mary Bednarek is the Executive Acquisitions Director for Technology Dummies, involved in the acquisition of the book.&lt;SEP&gt;Mary Bednarek is the Executive Acquisitions Director for Technology Dummies, involved in the acquisition of the book.&lt;SEP&gt;Mary Bednarek is the Executive Acquisitions Director for Technology Dummies, involved in the book's acquisition.&lt;SEP&gt;Mary Bednarek is the Executive Acquisitions Director for Technology Dummies.</data>
+      <data key="d9">acquisition,acquisitions,direction,management,publishing</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Mary C. Corder">
+      <data key="d7">4.0</data>
+      <data key="d8">Mary C. Corder is the Editorial Director for Technology Dummies, overseeing the editorial direction of the book.&lt;SEP&gt;Mary C. Corder is the Editorial Director for Technology Dummies, involved in the editorial direction of the book.&lt;SEP&gt;Mary C. Corder is the Editorial Director for Technology Dummies, overseeing the editorial direction of the book.&lt;SEP&gt;Mary C. Corder is the Editorial Director for Technology Dummies.</data>
+      <data key="d9">direction,editing,management</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Diane Graves Steele">
+      <data key="d7">4.0</data>
+      <data key="d8">Diane Graves Steele is the Vice President and Publisher for Consumer Dummies, involved in the publication of the book.&lt;SEP&gt;Diane Graves Steele is the Vice President and Publisher for Consumer Dummies, involved in the publication of the book.&lt;SEP&gt;Diane Graves Steele is the Vice President and Publisher for Consumer Dummies, involved in the book's publication.&lt;SEP&gt;Diane Graves Steele is the Vice President and Publisher for Consumer Dummies.</data>
+      <data key="d9">management,publishing</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Debbie Stailey">
+      <data key="d7">4.0</data>
+      <data key="d8">Debbie Stailey is the Director of Composition Services for the book "Facebook Advertising For Dummies."&lt;SEP&gt;Debbie Stailey is the Director of Composition Services for the book Facebook Advertising For Dummies.&lt;SEP&gt;Debbie Stailey is the Director of Composition Services for the book, overseeing its composition.&lt;SEP&gt;Debbie Stailey is the Director of Composition Services for the book.</data>
+      <data key="d9">composition,direction,management,services</data>
+      <data key="d10">chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Bloggers">
+      <data key="d7">2.0</data>
+      <data key="d8">Bloggers provided updates and information that contributed to the content of the book Facebook Advertising For Dummies.&lt;SEP&gt;Bloggers provided updates and information about changes in Facebook's advertising platform, which were used in the book.</data>
+      <data key="d9">collaboration,information source,updates</data>
+      <data key="d10">chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Advertising Platform">
+      <data key="d7">2.0</data>
+      <data key="d8">The book Facebook Advertising For Dummies provides guidance on using the Facebook Advertising Platform.&lt;SEP&gt;The book Facebook Advertising For Dummies focuses on guiding users through the Facebook Advertising Platform.</data>
+      <data key="d9">advertising methods,content focus,guidance</data>
+      <data key="d10">chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Precision Ad Targeting">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies teaches methods for precision ad targeting on Facebook.</data>
+      <data key="d9">ad targeting,marketing strategies</data>
+      <data key="d10">chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681478</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Landing Pages">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising For Dummies covers strategies for making the most of landing pages in ad campaigns.&lt;SEP&gt;Facebook Advertising For Dummies discusses how to make the most of landing pages and measure their effectiveness.</data>
+      <data key="d9">ad optimization,conversion strategies,effectiveness,optimization</data>
+      <data key="d10">chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681485</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Cost Per Click">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising For Dummies explains the concept of cost per click in Facebook advertising.&lt;SEP&gt;Facebook Advertising For Dummies explains what cost per click means and how to use it.</data>
+      <data key="d9">ad pricing,explanation,marketing concepts,usage</data>
+      <data key="d10">chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681485</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Cost Per Impression">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising For Dummies explains the concept of cost per impression in Facebook advertising.&lt;SEP&gt;Facebook Advertising For Dummies explains what cost per impression means and how to use it.</data>
+      <data key="d9">ad pricing,explanation,marketing concepts,usage</data>
+      <data key="d10">chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies teaches how to create and manage ad campaigns on Facebook.</data>
+      <data key="d9">creation,management</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681482</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Ad Targeting">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies explains how to perform precision ad targeting based on demographics.</data>
+      <data key="d9">demographics,precision</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681482</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Ads Manager">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses using Ads Manager to monitor and optimize ad performance.&lt;SEP&gt;Facebook Advertising For Dummies guides on using Ads Manager to monitor statistics and identify trends.</data>
+      <data key="d9">ad management,monitoring,performance tracking,statistics</data>
+      <data key="d10">chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681487</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="ROI Tracking">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising For Dummies provides tips on tracking ROI to measure ad effectiveness.&lt;SEP&gt;Facebook Advertising For Dummies provides tips on tracking ROI from advertising campaigns.</data>
+      <data key="d9">ad performance,financial metrics,tips,tracking</data>
+      <data key="d10">chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Mark Zuckerberg">
+      <data key="d7">1.0</data>
+      <data key="d8">The book acknowledges Mark Zuckerberg for his vision in creating Facebook.</data>
+      <data key="d9">acknowledgment,influence</data>
+      <data key="d10">chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681484</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Mobile Apps">
+      <data key="d7">1.0</data>
+      <data key="d8">Mobile Apps provide access to content similar to Facebook Advertising For Dummies, offering how-to information on various topics.</data>
+      <data key="d9">access,related content</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681491</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Cheat Sheets">
+      <data key="d7">1.0</data>
+      <data key="d8">Cheat Sheets serve as supplementary material to Facebook Advertising For Dummies, aiding in the learning process.</data>
+      <data key="d9">learning,supplementary material</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Authors">
+      <data key="d7">1.0</data>
+      <data key="d8">The authors have written Facebook Advertising For Dummies to provide step-by-step advice and share real-world experiences in marketing via Facebook.</data>
+      <data key="d9">authorship,publication</data>
+      <data key="d10">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley Publishing, Inc." target="John Wiley &amp; Sons, Inc.">
+      <data key="d7">4.0</data>
+      <data key="d8">Wiley Publishing, Inc. is part of John Wiley &amp; Sons, Inc.&lt;SEP&gt;Wiley Publishing, Inc. is a subsidiary of John Wiley &amp; Sons, Inc.&lt;SEP&gt;Wiley Publishing, Inc. is part of John Wiley &amp; Sons, Inc.&lt;SEP&gt;Wiley Publishing, Inc. is part of John Wiley &amp; Sons, Inc.</data>
+      <data key="d9">corporate structure,ownership,parent company,subsidiary</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681487</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley Publishing, Inc." target="Hoboken">
+      <data key="d7">3.0</data>
+      <data key="d8">Wiley Publishing, Inc. is based in Hoboken, NJ.&lt;SEP&gt;Wiley Publishing, Inc. is located in Hoboken.&lt;SEP&gt;Wiley Publishing, Inc. is headquartered in Hoboken, NJ.</data>
+      <data key="d9">city,headquarters,location</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681466</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley Publishing, Inc." target="Indianapolis">
+      <data key="d7">2.0</data>
+      <data key="d8">Wiley Publishing, Inc. published the book in Indianapolis, Indiana.&lt;SEP&gt;Wiley Publishing, Inc. has publishing operations in Indianapolis, Indiana.</data>
+      <data key="d9">location,publishing,publishing operations</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681467</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley Publishing, Inc." target="111 River Street">
+      <data key="d7">1.0</data>
+      <data key="d8">Wiley Publishing, Inc. is located at 111 River Street.</data>
+      <data key="d9">address,location</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681343</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley Publishing, Inc." target="Customer Care Department">
+      <data key="d7">1.0</data>
+      <data key="d8">Customer Care Department is a department within Wiley Publishing, Inc.</data>
+      <data key="d9">department,subsidiary</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681347</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="Avaya">
+      <data key="d7">5.0</data>
+      <data key="d8">Paul Dunay is the Global Managing Director of Services and Social Marketing for Avaya.&lt;SEP&gt;Paul Dunay is the Global Managing Director of Services and Social Marketing for Avaya.&lt;SEP&gt;Paul Dunay is the Global Managing Director of Services and Social Marketing for Avaya.&lt;SEP&gt;Paul Dunay serves as the Global Managing Director of Services and Social Marketing at Avaya.&lt;SEP&gt;Paul Dunay is the Global Managing Director of Services and Social Marketing for Avaya.</data>
+      <data key="d9">employment,leadership,marketing leadership</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681489</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="Facebook Marketing For Dummies">
+      <data key="d7">5.0</data>
+      <data key="d8">Paul Dunay is the author of Facebook Marketing For Dummies.&lt;SEP&gt;Paul Dunay is the author of Facebook Marketing For Dummies, published by Wiley.&lt;SEP&gt;Paul Dunay is the author of Facebook Marketing For Dummies.&lt;SEP&gt;Paul Dunay authored Facebook Marketing For Dummies, providing insights on marketing strategies on Facebook.&lt;SEP&gt;Paul Dunay is the author of Facebook Marketing For Dummies, published by Wiley.</data>
+      <data key="d9">authorship,marketing,marketing strategies,publication</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681489</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="Information Technology Services Marketing Association">
+      <data key="d7">4.0</data>
+      <data key="d8">Paul Dunay is a five-time finalist and a 2005 gold award winner in the Marketing Excellence Awards competition hosted by the Information Technology Services Marketing Association.&lt;SEP&gt;Paul Dunay is a five-time finalist in the Marketing Excellence Awards competition of ITSMA and a 2005 gold award winner.&lt;SEP&gt;Paul Dunay is a five-time finalist and a 2005 gold award winner in the Marketing Excellence Awards competition hosted by ITSMA.&lt;SEP&gt;Paul Dunay was a five-time finalist and a 2005 gold award winner in the Marketing Excellence Awards competition hosted by ITSMA.</data>
+      <data key="d9">award,awards,recognition</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="DemandGen Award">
+      <data key="d7">4.0</data>
+      <data key="d8">Paul Dunay won the DemandGen Award for Utilizing Marketing Automation to Fuel Corporate Growth in 2008.&lt;SEP&gt;Paul Dunay won the DemandGen Award for Utilizing Marketing Automation to Fuel Corporate Growth in 2008.&lt;SEP&gt;Paul Dunay won the DemandGen Award for Utilizing Marketing Automation to Fuel Corporate Growth in 2008.&lt;SEP&gt;Paul Dunay won the DemandGen Award for Utilizing Marketing Automation to Fuel Corporate Growth in 2008.</data>
+      <data key="d9">achievement,award,awards,recognition</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="BtoB Magazine Top 25 B2B Marketer Of The Year">
+      <data key="d7">3.0</data>
+      <data key="d8">Paul Dunay was recognized as a BtoB Magazine Top 25 B2B Marketer of the Year for 2009.&lt;SEP&gt;Paul Dunay was recognized as a BtoB Magazine Top 25 B2B Marketer of the Year for 2009.&lt;SEP&gt;Paul Dunay was recognized as a BtoB Magazine Top 25 B2B Marketer of the Year in 2009.</data>
+      <data key="d9">award,awards,recognition</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="Richard Krueger">
+      <data key="d7">2.0</data>
+      <data key="d8">Paul Dunay and Richard Krueger collaborated on writing Facebook Advertising For Dummies.&lt;SEP&gt;Paul Dunay and Richard Krueger collaborated on writing the book.</data>
+      <data key="d9">authorship,co-authorship,collaboration</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="Joel Elad">
+      <data key="d7">2.0</data>
+      <data key="d8">Paul Dunay and Joel Elad collaborated on writing Facebook Advertising For Dummies.&lt;SEP&gt;Paul Dunay and Joel Elad collaborated on writing the book.</data>
+      <data key="d9">authorship,co-authorship,collaboration</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="Top 25 BtoB Marketers of the Year">
+      <data key="d7">1.0</data>
+      <data key="d8">Paul Dunay was recognized in the Top 25 BtoB Marketers of the Year for his marketing expertise.</data>
+      <data key="d9">marketing excellence,recognition</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681355</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="BtoB Magazine">
+      <data key="d7">2.0</data>
+      <data key="d8">Paul Dunay was recognized as a Top 25 B2B Marketer of the Year for 2009 by BtoB Magazine.&lt;SEP&gt;Paul Dunay was recognized by BtoB Magazine as one of the Top 25 BtoB Marketers of the Year in 2009.</data>
+      <data key="d9">marketing,marketing excellence,professional recognition,recognition</data>
+      <data key="d10">chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681478</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Paul Dunay" target="Wiley">
+      <data key="d7">1.0</data>
+      <data key="d8">Paul Dunay worked with Wiley to publish the book.</data>
+      <data key="d9">collaboration,publication</data>
+      <data key="d10">chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Richard Krueger" target="AboutFace Digital">
+      <data key="d7">4.0</data>
+      <data key="d8">Richard Krueger is the co-founder and CEO of AboutFace Digital.&lt;SEP&gt;Richard Krueger is the co-founder and CEO of AboutFace Digital.&lt;SEP&gt;Richard Krueger is the co-founder and CEO of AboutFace Digital.&lt;SEP&gt;Richard Krueger is the co-founder and CEO of AboutFace Digital.</data>
+      <data key="d9">employment,foundership,leadership</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Richard Krueger" target="Joel Elad">
+      <data key="d7">2.0</data>
+      <data key="d8">Richard Krueger and Joel Elad collaborated on writing Facebook Advertising For Dummies.&lt;SEP&gt;Richard Krueger and Joel Elad collaborated on writing the book.</data>
+      <data key="d9">authorship,co-authorship,collaboration</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Richard Krueger" target="Wiley">
+      <data key="d7">1.0</data>
+      <data key="d8">Richard Krueger worked with Wiley to publish the book.</data>
+      <data key="d9">collaboration,publication</data>
+      <data key="d10">chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="Real Method Consulting">
+      <data key="d7">5.0</data>
+      <data key="d8">Joel Elad is affiliated with Real Method Consulting, a company focused on education through various media.&lt;SEP&gt;Joel Elad is the head of Real Method Consulting.&lt;SEP&gt;Joel Elad is the head of Real Method Consulting, a company dedicated to educating people through various media.&lt;SEP&gt;Joel Elad is the head of Real Method Consulting, a company dedicated to educating people through various media.&lt;SEP&gt;Joel Elad is the head of Real Method Consulting.</data>
+      <data key="d9">affiliation,education,employment,leadership</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="UC Irvine">
+      <data key="d7">2.0</data>
+      <data key="d8">Joel Elad holds a Master’s Degree in Business from UC Irvine.&lt;SEP&gt;Joel Elad holds a Master’s Degree in Business from UC Irvine and has taught at the institution.</data>
+      <data key="d9">degree,education,teaching</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681369</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="UCLA">
+      <data key="d7">4.0</data>
+      <data key="d8">Joel Elad holds a Bachelors Degree in Computer Science and Engineering from UCLA.&lt;SEP&gt;Joel Elad obtained his Bachelor's Degree in Computer Science and Engineering from UCLA.&lt;SEP&gt;Joel Elad holds a Bachelor's Degree in Computer Science and Engineering from UCLA.&lt;SEP&gt;Joel Elad holds a Bachelor's Degree in Computer Science and Engineering from UCLA.</data>
+      <data key="d9">alumni,degree,education,teaching</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="Entrepreneur Magazine">
+      <data key="d7">4.0</data>
+      <data key="d8">Joel Elad has contributed to Entrepreneur Magazine.&lt;SEP&gt;Joel Elad has contributed to Entrepreneur Magazine.&lt;SEP&gt;Joel Elad has contributed to Entrepreneur Magazine.</data>
+      <data key="d9">contribution,publication,writing</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="Smartbiz.com">
+      <data key="d7">4.0</data>
+      <data key="d8">Joel Elad has contributed to Smartbiz.com.&lt;SEP&gt;Joel Elad has contributed to Smartbiz.com.&lt;SEP&gt;Joel Elad has contributed to Smartbiz.com.</data>
+      <data key="d9">contribution,website,writing</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="University of California, Irvine">
+      <data key="d7">1.0</data>
+      <data key="d8">Joel Elad has taught at the University of California, Irvine.</data>
+      <data key="d9">affiliation,teaching</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681347</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="LinkedIn For Dummies">
+      <data key="d7">6.0</data>
+      <data key="d8">Joel Elad authored LinkedIn For Dummies.&lt;SEP&gt;Joel Elad authored LinkedIn For Dummies, providing insights on professional networking.&lt;SEP&gt;Joel Elad authored LinkedIn For Dummies.&lt;SEP&gt;Joel Elad authored LinkedIn For Dummies, providing guidance on professional networking.&lt;SEP&gt;Joel Elad authored LinkedIn For Dummies.&lt;SEP&gt;Joel Elad has authored LinkedIn For Dummies.</data>
+      <data key="d9">authorship,professional networking,publication,social media</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="Starting An Online Business All-In-One Desk Reference For Dummies">
+      <data key="d7">4.0</data>
+      <data key="d8">Joel Elad authored Starting an Online Business All-in-One Desk Reference For Dummies.&lt;SEP&gt;Joel Elad authored Starting an Online Business All-in-One Desk Reference For Dummies.&lt;SEP&gt;Joel Elad has authored Starting an Online Business All-in-One Desk Reference For Dummies.&lt;SEP&gt;Joel Elad authored Starting an Online Business All-in-One Desk Reference For Dummies.</data>
+      <data key="d9">authorship,business,publication</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="Web Stores Do-It-Yourself For Dummies">
+      <data key="d7">4.0</data>
+      <data key="d8">Joel Elad authored Web Stores Do-It-Yourself For Dummies.&lt;SEP&gt;Joel Elad authored Web Stores Do-It-Yourself For Dummies.&lt;SEP&gt;Joel Elad has authored Web Stores Do-It-Yourself For Dummies.&lt;SEP&gt;Joel Elad authored Web Stores Do-It-Yourself For Dummies.</data>
+      <data key="d9">authorship,e-commerce,publication</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="University Of California, Irvine">
+      <data key="d7">3.0</data>
+      <data key="d8">Joel Elad has taught at the University of California, Irvine.&lt;SEP&gt;Joel Elad has taught at the University of California, Irvine, contributing to its academic programs.&lt;SEP&gt;Joel Elad holds a Master’s Degree in Business from and has taught at the University of California, Irvine.</data>
+      <data key="d9">contribution,education,teaching</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-36ea2f1d18a3512715c68e0a9de622cf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="Starting an Online Business All-in-One For Dummies">
+      <data key="d7">1.0</data>
+      <data key="d8">Joel Elad coauthored Starting an Online Business All-in-One For Dummies, offering guidance on online business strategies.</data>
+      <data key="d9">authorship,online business</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681355</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="Starting An Online Business All-In-One For Dummies">
+      <data key="d7">1.0</data>
+      <data key="d8">Joel Elad coauthored Starting an Online Business All-in-One For Dummies, offering comprehensive guidance on starting an online business.</data>
+      <data key="d9">authorship,online business</data>
+      <data key="d10">chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681479</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Joel Elad" target="Wiley">
+      <data key="d7">1.0</data>
+      <data key="d8">Joel Elad worked with Wiley to publish the book.</data>
+      <data key="d9">collaboration,publication</data>
+      <data key="d10">chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook, Inc.">
+      <data key="d7">4.0</data>
+      <data key="d8">Facebook is owned by Facebook, Inc.&lt;SEP&gt;Facebook is owned by Facebook, Inc.&lt;SEP&gt;Facebook is a registered trademark of Facebook, Inc.&lt;SEP&gt;Facebook is owned and trademarked by Facebook, Inc.</data>
+      <data key="d9">corporate entity,corporate structure,ownership,platform,trademark</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-d650c7052460784fa721c70251a4db99</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681487</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Mark Zuckerberg">
+      <data key="d7">6.0</data>
+      <data key="d8">Mark Zuckerberg is the founder of Facebook, leading its development and growth.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook and led the vision for its development.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook and led the development of the platform.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook.&lt;SEP&gt;Mark Zuckerberg is the founder of Facebook and led the development of the social network.</data>
+      <data key="d9">founder,leadership</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384&lt;SEP&gt;chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681475</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Fans">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook connects with fans who follow and engage with business pages.</data>
+      <data key="d9">brand following,user engagement</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681353</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Advertising Platform">
+      <data key="d7">4.0</data>
+      <data key="d8">The Facebook Advertising Platform is a tool developed by Facebook for advertising purposes.&lt;SEP&gt;Facebook developed and modified the Facebook Advertising Platform, impacting its users.&lt;SEP&gt;Facebook developed and offers the Facebook Advertising Platform as part of its services.&lt;SEP&gt;Facebook developed and integrates the Facebook Advertising Platform as part of its services.</data>
+      <data key="d9">advertising,integration,platform development,service offering,user impact</data>
+      <data key="d10">chunk-c8be98569f399ade22c4128870942d41&lt;SEP&gt;chunk-4db1d957d48d5297acd3f268ecb4fbc3&lt;SEP&gt;chunk-54c4f282202195546b69d41af58fab02&lt;SEP&gt;chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook is the platform used for Facebook Advertising.</data>
+      <data key="d9">advertising,platform</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681483</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Marketers And Advertisers">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook is becoming the preferred platform for marketers and advertisers to acquire new customers and interact with existing ones.</data>
+      <data key="d9">customer interaction,platform preference</data>
+      <data key="d10">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Team">
+      <data key="d7">1.0</data>
+      <data key="d8">The Facebook Team is part of Facebook, contributing to its development and operations.</data>
+      <data key="d9">development,organization structure</data>
+      <data key="d10">chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Copyright Clearance Center" target="Danvers">
+      <data key="d7">3.0</data>
+      <data key="d8">The Copyright Clearance Center is located in Danvers, MA.&lt;SEP&gt;Copyright Clearance Center is located in Danvers.&lt;SEP&gt;The Copyright Clearance Center is located in Danvers, MA.</data>
+      <data key="d9">city,headquarters,location,operations</data>
+      <data key="d10">chunk-a58f50b501da287bc4b403803ab7a518&lt;SEP&gt;chunk-b65b02a710fcc57a15eb01cf22547964&lt;SEP&gt;chunk-90ce2b413b6eafb4694468b9017ee7bf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681467</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Copyright Clearance Center" target="222 Rosewood Drive">
+      <data key="d7">1.0</data>
+      <data key="d8">Copyright Clearance Center is located at 222 Rosewood Drive.</data>
+      <data key="d9">address,location</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681345</data>
+      <data key="d13" />
+    </edge>
+    <edge source="John Wiley &amp; Sons, Inc." target="Permissions Department">
+      <data key="d7">1.0</data>
+      <data key="d8">Permissions Department is a department within John Wiley &amp; Sons, Inc.</data>
+      <data key="d9">department,subsidiary</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681347</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dummies" target="Mobile Apps">
+      <data key="d7">2.0</data>
+      <data key="d8">Dummies provides mobile apps as educational resources and how-to guides.&lt;SEP&gt;Dummies provides mobile apps that offer how-to information on various topics.</data>
+      <data key="d9">digital content,educational resources,how-to guides</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681479</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dummies" target="Cheat Sheets">
+      <data key="d7">2.0</data>
+      <data key="d8">Dummies offers Cheat Sheets as quick reference guides with instructional content.&lt;SEP&gt;Dummies offers Cheat Sheets as quick reference guides for various topics.</data>
+      <data key="d9">educational resources,instructional content,quick reference</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681479</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dummies" target="Dummies.com">
+      <data key="d7">3.0</data>
+      <data key="d8">Dummies.com is the official website of Dummies, offering a variety of online resources and instructional content.&lt;SEP&gt;Dummies.com is a website by Dummies that provides extensive how-to information and resources.&lt;SEP&gt;Dummies.com is the website for Dummies, offering various resources and tools.</data>
+      <data key="d9">how-to information,instructional content,online resources,resources,website</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa&lt;SEP&gt;chunk-872943548b37a379f517694d8e83ad1a&lt;SEP&gt;chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681487</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dummies" target="Wiley">
+      <data key="d7">1.0</data>
+      <data key="d8">Wiley is the publisher that owns the Dummies series.</data>
+      <data key="d9">ownership,publication</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681488</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Hoboken" target="NJ">
+      <data key="d7">1.0</data>
+      <data key="d8">Hoboken is located in the state of NJ.</data>
+      <data key="d9">location,state</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681344</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Indianapolis" target="Indiana">
+      <data key="d7">1.0</data>
+      <data key="d8">Indianapolis is located in the state of Indiana.</data>
+      <data key="d9">location,state</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681345</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Danvers" target="MA">
+      <data key="d7">1.0</data>
+      <data key="d8">Danvers is located in the state of MA.</data>
+      <data key="d9">location,state</data>
+      <data key="d10">chunk-b65b02a710fcc57a15eb01cf22547964</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681347</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Cost Per Click">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising utilizes the Cost Per Click model as a pricing strategy for ads.&lt;SEP&gt;Facebook Advertising uses cost per click as a pricing model where advertisers pay per click.</data>
+      <data key="d9">ad payment,advertising model,pricing model,pricing strategy</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681353</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Cost Per Impression">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising utilizes the Cost Per Impression model as another pricing strategy for ads.&lt;SEP&gt;Facebook Advertising uses cost per impression as a pricing model where advertisers pay per display.</data>
+      <data key="d9">ad display,advertising model,pricing model,pricing strategy</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681354</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Landing Pages">
+      <data key="d7">1.0</data>
+      <data key="d8">Landing Pages are used in Facebook Advertising to optimize the conversion of ad traffic.</data>
+      <data key="d9">advertising tool,conversion optimization</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681342</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Ads Manager">
+      <data key="d7">2.0</data>
+      <data key="d8">Ads Manager is a tool within Facebook Advertising used for monitoring and managing ad performance.&lt;SEP&gt;Facebook Advertising utilizes Ads Manager to monitor and manage ad performance.</data>
+      <data key="d9">ad management,advertising tool,performance monitoring,performance tracking</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681355</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="ROI Tracking">
+      <data key="d7">2.0</data>
+      <data key="d8">ROI Tracking is a method used in Facebook Advertising to measure the effectiveness of ad campaigns.&lt;SEP&gt;Facebook Advertising involves ROI tracking to measure the effectiveness of ad campaigns.</data>
+      <data key="d9">advertising method,effectiveness measurement,investment return,performance measurement</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681357</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Precision Ad Targeting">
+      <data key="d7">1.0</data>
+      <data key="d8">Precision Ad Targeting is a method in Facebook Advertising for directing ads to specific audience segments.</data>
+      <data key="d9">advertising method,audience segmentation</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681344</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Facebook Advertising Platform">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising Platform is the system used for managing and optimizing Facebook ad campaigns.</data>
+      <data key="d9">advertising system,campaign management</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681345</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising involves creating ad campaigns to target specific audiences.</data>
+      <data key="d9">advertising strategy,audience targeting</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681353</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Landing Pages" target="Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Ad campaigns direct users to landing pages designed to convert visitors into leads or sales.</data>
+      <data key="d9">conversion optimization,user engagement</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681354</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Precision Ad Targeting" target="Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Ad campaigns use precision ad targeting to reach specific demographics and interests.</data>
+      <data key="d9">ad targeting,demographic focus</data>
+      <data key="d10">chunk-896b5301419980e8b8b5873114a8d6aa</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681353</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising Platform" target="Mark Zuckerberg">
+      <data key="d7">2.0</data>
+      <data key="d8">Mark Zuckerberg and his team developed the Facebook Advertising Platform.</data>
+      <data key="d9">development,innovation</data>
+      <data key="d10">chunk-465a6256be496e6cf5317771a4c00cb8&lt;SEP&gt;chunk-b9d0cbdc4ace277be49cf3080a2dd384</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681342</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising Platform" target="Bloggers">
+      <data key="d7">1.0</data>
+      <data key="d8">Bloggers kept the authors informed about changes in Facebook's advertising platform.</data>
+      <data key="d9">information dissemination,platform updates</data>
+      <data key="d10">chunk-c8be98569f399ade22c4128870942d41</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681366</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mark Zuckerberg" target="Authors">
+      <data key="d7">1.0</data>
+      <data key="d8">The authors acknowledge Mark Zuckerberg and his team for their vision in realizing the most popular online social network on the planet.</data>
+      <data key="d9">acknowledgment,vision</data>
+      <data key="d10">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681497</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mark Zuckerberg" target="Facebook Team">
+      <data key="d7">1.0</data>
+      <data key="d8">Mark Zuckerberg leads the team of young entrepreneurs and software developers at Facebook.</data>
+      <data key="d9">collaboration,leadership</data>
+      <data key="d10">chunk-383b51974a89cb1c06603ccf999e4d60</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681498</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley" target="Amy Fandrei">
+      <data key="d7">2.0</data>
+      <data key="d8">Amy Fandrei is an acquisitions editor at Wiley who supported the authors.&lt;SEP&gt;Amy Fandrei is an acquisitions editor at Wiley who supported the authors.</data>
+      <data key="d9">employment,support</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley" target="Christopher Morris">
+      <data key="d7">2.0</data>
+      <data key="d8">Christopher Morris is a project editor at Wiley who helped conform the book to For Dummies standards.&lt;SEP&gt;Christopher Morris is a project editor at Wiley who supported the authors.</data>
+      <data key="d9">editing,employment,support</data>
+      <data key="d10">chunk-2d05f11d8cd14cec626dc00a88e73691&lt;SEP&gt;chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley" target="Authors">
+      <data key="d7">1.0</data>
+      <data key="d8">The authors acknowledge the support of the team at Wiley, including Amy Fandrei and Christopher Morris, in making the book a success.</data>
+      <data key="d9">publication,support</data>
+      <data key="d10">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681494</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wiley" target="Facebook Marketing For Dummies">
+      <data key="d7">1.0</data>
+      <data key="d8">Wiley is the publisher of Facebook Marketing For Dummies.</data>
+      <data key="d9">book,publication</data>
+      <data key="d10">chunk-3c90a25ee0921e00d427736850c32284</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Amy Fandrei" target="Authors">
+      <data key="d7">1.0</data>
+      <data key="d8">Amy Fandrei reached out to the authors because of their blogs and supported them through the entire process.</data>
+      <data key="d9">outreach,support</data>
+      <data key="d10">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681495</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Christopher Morris" target="Authors">
+      <data key="d7">1.0</data>
+      <data key="d8">Christopher Morris kept the authors on track and helped conform the book to For Dummies standards.</data>
+      <data key="d9">editing,guidance</data>
+      <data key="d10">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681496</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dummies.com" target="Cheat Sheets">
+      <data key="d7">1.0</data>
+      <data key="d8">Dummies.com provides Cheat Sheets as resources for quick reference and learning.</data>
+      <data key="d9">provision,resources</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dummies.com" target="Newsletters">
+      <data key="d7">1.0</data>
+      <data key="d8">Users can subscribe to Newsletters on Dummies.com to receive weekly updates on various topics.</data>
+      <data key="d9">subscription,updates</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dummies.com" target="Sweepstakes">
+      <data key="d7">1.0</data>
+      <data key="d8">Dummies.com hosts Sweepstakes where users can participate to win prizes.</data>
+      <data key="d9">hosting,participation</data>
+      <data key="d10">chunk-46d3e24e52e96a9dd97627ecf4ee3ae9</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681487</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bloggers" target="Authors">
+      <data key="d7">1.0</data>
+      <data key="d8">The authors thank bloggers for keeping them informed about changes Facebook was making in their advertising platform.</data>
+      <data key="d9">information,updates</data>
+      <data key="d10">chunk-36ea2f1d18a3512715c68e0a9de622cf</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773681496</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

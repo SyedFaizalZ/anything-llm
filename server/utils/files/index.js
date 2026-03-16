@@ -140,7 +140,7 @@ async function getDocumentsByFolder(folderName = "") {
     documents.push({
       name: file,
       type: "file",
-      ...metadata,
+...metadata,
       cached: await cachedVectorInformation(cachefilename, true),
     });
     filenames[cachefilename] = file;
@@ -255,7 +255,7 @@ async function findDocumentInDocuments(documentName = null) {
     return {
       name: targetFilename,
       type: "file",
-      ...metadata,
+...metadata,
       cached: await cachedVectorInformation(cachefilename, true),
     };
   }

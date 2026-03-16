@@ -1,0 +1,995 @@
+{
+  "Facebook Advertising For Dummies": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-383b51974a89cb1c06603ccf999e4d60",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 16,
+    "update_time": 1773681432,
+    "_id": "Facebook Advertising For Dummies"
+  },
+  "Wiley Publishing, Inc.": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-d650c7052460784fa721c70251a4db99"
+    ],
+    "count": 4,
+    "update_time": 1773681434,
+    "_id": "Wiley Publishing, Inc."
+  },
+  "Paul Dunay": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 12,
+    "update_time": 1773681437,
+    "_id": "Paul Dunay"
+  },
+  "Richard Krueger": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 12,
+    "update_time": 1773681436,
+    "_id": "Richard Krueger"
+  },
+  "Joel Elad": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 12,
+    "update_time": 1773681442,
+    "_id": "Joel Elad"
+  },
+  "Facebook": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-383b51974a89cb1c06603ccf999e4d60",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 16,
+    "update_time": 1773681432,
+    "_id": "Facebook"
+  },
+  "Copyright Clearance Center": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-d650c7052460784fa721c70251a4db99"
+    ],
+    "count": 4,
+    "update_time": 1773681435,
+    "_id": "Copyright Clearance Center"
+  },
+  "John Wiley & Sons, Inc.": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 4,
+    "update_time": 1773681437,
+    "_id": "John Wiley & Sons, Inc."
+  },
+  "Facebook, Inc.": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 4,
+    "update_time": 1773681438,
+    "_id": "Facebook, Inc."
+  },
+  "Dummies": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 6,
+    "update_time": 1773681435,
+    "_id": "Dummies"
+  },
+  "United States Copyright Act": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 3,
+    "update_time": 1773681434,
+    "_id": "United States Copyright Act"
+  },
+  "Cheat Sheet": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 4,
+    "update_time": 1773681439,
+    "_id": "Cheat Sheet"
+  },
+  "Hoboken": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 3,
+    "update_time": 1773681439,
+    "_id": "Hoboken"
+  },
+  "Indianapolis": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 3,
+    "update_time": 1773681439,
+    "_id": "Indianapolis"
+  },
+  "Danvers": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 3,
+    "update_time": 1773681440,
+    "_id": "Danvers"
+  },
+  "Library Of Congress Control Number": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-d650c7052460784fa721c70251a4db99"
+    ],
+    "count": 2,
+    "update_time": 1773681436,
+    "_id": "Library Of Congress Control Number"
+  },
+  "ISBN": {
+    "chunk_ids": [
+      "chunk-a58f50b501da287bc4b403803ab7a518",
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 4,
+    "update_time": 1773681442,
+    "_id": "ISBN"
+  },
+  "BtoB Magazine": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 5,
+    "update_time": 1773681443,
+    "_id": "BtoB Magazine"
+  },
+  "Facebook Advertising": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 4,
+    "update_time": 1773681444,
+    "_id": "Facebook Advertising"
+  },
+  "Cost Per Click": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 4,
+    "update_time": 1773681445,
+    "_id": "Cost Per Click"
+  },
+  "Cost Per Impression": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 4,
+    "update_time": 1773681446,
+    "_id": "Cost Per Impression"
+  },
+  "Landing Pages": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 4,
+    "update_time": 1773681445,
+    "_id": "Landing Pages"
+  },
+  "Ads Manager": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 4,
+    "update_time": 1773681446,
+    "_id": "Ads Manager"
+  },
+  "ROI Tracking": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 4,
+    "update_time": 1773681446,
+    "_id": "ROI Tracking"
+  },
+  "Precision Ad Targeting": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 3,
+    "update_time": 1773681444,
+    "_id": "Precision Ad Targeting"
+  },
+  "Facebook Advertising Platform": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 6,
+    "update_time": 1773681454,
+    "_id": "Facebook Advertising Platform"
+  },
+  "Mark Zuckerberg": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf",
+      "chunk-383b51974a89cb1c06603ccf999e4d60",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 8,
+    "update_time": 1773681432,
+    "_id": "Mark Zuckerberg"
+  },
+  "Real Method Consulting": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 5,
+    "update_time": 1773681457,
+    "_id": "Real Method Consulting"
+  },
+  "UC Irvine": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3"
+    ],
+    "count": 2,
+    "update_time": 1773681337,
+    "_id": "UC Irvine"
+  },
+  "UCLA": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 4,
+    "update_time": 1773681457,
+    "_id": "UCLA"
+  },
+  "Entrepreneur Magazine": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 4,
+    "update_time": 1773681458,
+    "_id": "Entrepreneur Magazine"
+  },
+  "Smartbiz.com": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 4,
+    "update_time": 1773681458,
+    "_id": "Smartbiz.com"
+  },
+  "University of California, Irvine": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8"
+    ],
+    "count": 1,
+    "create_time": 1773681311,
+    "update_time": 1773681311,
+    "_id": "University of California, Irvine"
+  },
+  "Wiley": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-383b51974a89cb1c06603ccf999e4d60",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 11,
+    "update_time": 1773681444,
+    "_id": "Wiley"
+  },
+  "Amy Fandrei": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-383b51974a89cb1c06603ccf999e4d60",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 9,
+    "update_time": 1773681451,
+    "_id": "Amy Fandrei"
+  },
+  "Christopher Morris": {
+    "chunk_ids": [
+      "chunk-465a6256be496e6cf5317771a4c00cb8",
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-383b51974a89cb1c06603ccf999e4d60",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 9,
+    "update_time": 1773681450,
+    "_id": "Christopher Morris"
+  },
+  "Avaya": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 5,
+    "update_time": 1773681444,
+    "_id": "Avaya"
+  },
+  "AboutFace Digital": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 4,
+    "update_time": 1773681457,
+    "_id": "AboutFace Digital"
+  },
+  "LinkedIn For Dummies": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-3c90a25ee0921e00d427736850c32284",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf"
+    ],
+    "count": 7,
+    "update_time": 1773681492,
+    "_id": "LinkedIn For Dummies"
+  },
+  "Starting An Online Business All-In-One Desk Reference For Dummies": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-3c90a25ee0921e00d427736850c32284",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf"
+    ],
+    "count": 4,
+    "update_time": 1773681493,
+    "_id": "Starting An Online Business All-In-One Desk Reference For Dummies"
+  },
+  "Web Stores Do-It-Yourself For Dummies": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-3c90a25ee0921e00d427736850c32284",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf"
+    ],
+    "count": 4,
+    "update_time": 1773681495,
+    "_id": "Web Stores Do-It-Yourself For Dummies"
+  },
+  "University Of California, Irvine": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 3,
+    "update_time": 1773681457,
+    "_id": "University Of California, Irvine"
+  },
+  "Facebook Marketing For Dummies": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-872943548b37a379f517694d8e83ad1a",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 5,
+    "update_time": 1773681446,
+    "_id": "Facebook Marketing For Dummies"
+  },
+  "Information Technology Services Marketing Association": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 4,
+    "update_time": 1773681457,
+    "_id": "Information Technology Services Marketing Association"
+  },
+  "DemandGen Award": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 4,
+    "update_time": 1773681456,
+    "_id": "DemandGen Award"
+  },
+  "BtoB Magazine Top 25 B2B Marketer Of The Year": {
+    "chunk_ids": [
+      "chunk-2d05f11d8cd14cec626dc00a88e73691",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-3c90a25ee0921e00d427736850c32284"
+    ],
+    "count": 3,
+    "update_time": 1773681456,
+    "_id": "BtoB Magazine Top 25 B2B Marketer Of The Year"
+  },
+  "Teresa Artman": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681448,
+    "_id": "Teresa Artman"
+  },
+  "Michelle Oxman": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681448,
+    "_id": "Michelle Oxman"
+  },
+  "Kevin Kirschner": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681449,
+    "_id": "Kevin Kirschner"
+  },
+  "Amanda Graham": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681458,
+    "_id": "Amanda Graham"
+  },
+  "Cherie Case": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681460,
+    "_id": "Cherie Case"
+  },
+  "Rich Tennant": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681449,
+    "_id": "Rich Tennant"
+  },
+  "Patrick Redmond": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681450,
+    "_id": "Patrick Redmond"
+  },
+  "Joyce Haughey": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681450,
+    "_id": "Joyce Haughey"
+  },
+  "Laura Westhuis": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681450,
+    "_id": "Laura Westhuis"
+  },
+  "ConText Editorial Services, Inc.": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681451,
+    "_id": "ConText Editorial Services, Inc."
+  },
+  "Lauren Mandelbaum": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681451,
+    "_id": "Lauren Mandelbaum"
+  },
+  "Cheryl Duksta": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681451,
+    "_id": "Cheryl Duksta"
+  },
+  "Richard Swadley": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681452,
+    "_id": "Richard Swadley"
+  },
+  "Andy Cummings": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681452,
+    "_id": "Andy Cummings"
+  },
+  "Mary Bednarek": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681453,
+    "_id": "Mary Bednarek"
+  },
+  "Mary C. Corder": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681453,
+    "_id": "Mary C. Corder"
+  },
+  "Diane Graves Steele": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681454,
+    "_id": "Diane Graves Steele"
+  },
+  "Debbie Stailey": {
+    "chunk_ids": [
+      "chunk-b9d0cbdc4ace277be49cf3080a2dd384",
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-54c4f282202195546b69d41af58fab02",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 4,
+    "update_time": 1773681454,
+    "_id": "Debbie Stailey"
+  },
+  "Dummies.com": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-d650c7052460784fa721c70251a4db99",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 5,
+    "update_time": 1773681447,
+    "_id": "Dummies.com"
+  },
+  "111 River Street": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964"
+    ],
+    "count": 1,
+    "create_time": 1773681322,
+    "update_time": 1773681322,
+    "_id": "111 River Street"
+  },
+  "NJ": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964"
+    ],
+    "count": 1,
+    "create_time": 1773681323,
+    "update_time": 1773681323,
+    "_id": "NJ"
+  },
+  "Indiana": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964"
+    ],
+    "count": 1,
+    "create_time": 1773681324,
+    "update_time": 1773681324,
+    "_id": "Indiana"
+  },
+  "222 Rosewood Drive": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964"
+    ],
+    "count": 1,
+    "create_time": 1773681324,
+    "update_time": 1773681324,
+    "_id": "222 Rosewood Drive"
+  },
+  "MA": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964"
+    ],
+    "count": 1,
+    "create_time": 1773681325,
+    "update_time": 1773681325,
+    "_id": "MA"
+  },
+  "Permissions Department": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964"
+    ],
+    "count": 1,
+    "create_time": 1773681325,
+    "update_time": 1773681325,
+    "_id": "Permissions Department"
+  },
+  "Customer Care Department": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964"
+    ],
+    "count": 1,
+    "create_time": 1773681325,
+    "update_time": 1773681325,
+    "_id": "Customer Care Department"
+  },
+  "Library of Congress Control Number": {
+    "chunk_ids": [
+      "chunk-b65b02a710fcc57a15eb01cf22547964",
+      "chunk-90ce2b413b6eafb4694468b9017ee7bf"
+    ],
+    "count": 2,
+    "update_time": 1773681441,
+    "_id": "Library of Congress Control Number"
+  },
+  "Ad Campaign": {
+    "chunk_ids": [
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9"
+    ],
+    "count": 2,
+    "update_time": 1773681431,
+    "_id": "Ad Campaign"
+  },
+  "Facebook Fans": {
+    "chunk_ids": [
+      "chunk-896b5301419980e8b8b5873114a8d6aa"
+    ],
+    "count": 1,
+    "create_time": 1773681328,
+    "update_time": 1773681328,
+    "_id": "Facebook Fans"
+  },
+  "Mobile Apps": {
+    "chunk_ids": [
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 3,
+    "update_time": 1773681447,
+    "_id": "Mobile Apps"
+  },
+  "Cheat Sheets": {
+    "chunk_ids": [
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9",
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 3,
+    "update_time": 1773681447,
+    "_id": "Cheat Sheets"
+  },
+  "Starting an Online Business All-in-One For Dummies": {
+    "chunk_ids": [
+      "chunk-896b5301419980e8b8b5873114a8d6aa",
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9"
+    ],
+    "count": 2,
+    "update_time": 1773681428,
+    "_id": "Starting an Online Business All-in-One For Dummies"
+  },
+  "Top 25 BtoB Marketers of the Year": {
+    "chunk_ids": [
+      "chunk-896b5301419980e8b8b5873114a8d6aa"
+    ],
+    "count": 1,
+    "create_time": 1773681329,
+    "update_time": 1773681329,
+    "_id": "Top 25 BtoB Marketers of the Year"
+  },
+  "Bloggers": {
+    "chunk_ids": [
+      "chunk-c8be98569f399ade22c4128870942d41",
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf",
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 3,
+    "update_time": 1773681455,
+    "_id": "Bloggers"
+  },
+  "Marketing Excellence Awards": {
+    "chunk_ids": [
+      "chunk-4db1d957d48d5297acd3f268ecb4fbc3"
+    ],
+    "count": 1,
+    "create_time": 1773681339,
+    "update_time": 1773681339,
+    "_id": "Marketing Excellence Awards"
+  },
+  "Ad Targeting": {
+    "chunk_ids": [
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9"
+    ],
+    "count": 1,
+    "create_time": 1773681431,
+    "update_time": 1773681431,
+    "_id": "Ad Targeting"
+  },
+  "Newsletters": {
+    "chunk_ids": [
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9"
+    ],
+    "count": 1,
+    "create_time": 1773681432,
+    "update_time": 1773681432,
+    "_id": "Newsletters"
+  },
+  "Sweepstakes": {
+    "chunk_ids": [
+      "chunk-46d3e24e52e96a9dd97627ecf4ee3ae9"
+    ],
+    "count": 1,
+    "create_time": 1773681432,
+    "update_time": 1773681432,
+    "_id": "Sweepstakes"
+  },
+  "Marketers And Advertisers": {
+    "chunk_ids": [
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf"
+    ],
+    "count": 1,
+    "create_time": 1773681440,
+    "update_time": 1773681440,
+    "_id": "Marketers And Advertisers"
+  },
+  "Starting An Online Business All-In-One For Dummies": {
+    "chunk_ids": [
+      "chunk-872943548b37a379f517694d8e83ad1a"
+    ],
+    "count": 1,
+    "create_time": 1773681446,
+    "update_time": 1773681446,
+    "_id": "Starting An Online Business All-In-One For Dummies"
+  },
+  "Facebook Team": {
+    "chunk_ids": [
+      "chunk-383b51974a89cb1c06603ccf999e4d60"
+    ],
+    "count": 1,
+    "create_time": 1773681455,
+    "update_time": 1773681455,
+    "_id": "Facebook Team"
+  },
+  "Authors": {
+    "chunk_ids": [
+      "chunk-36ea2f1d18a3512715c68e0a9de622cf"
+    ],
+    "count": 1,
+    "create_time": 1773681494,
+    "update_time": 1773681494,
+    "_id": "Authors"
+  }
+}

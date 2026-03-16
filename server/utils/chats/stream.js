@@ -22,7 +22,8 @@ async function streamChatWithWorkspace(
   chatMode = "chat",
   user = null,
   thread = null,
-  attachments = []
+  attachments = [],
+  { memoryContext = "", saveMemoryFn = null } = {}
 ) {
   const uuid = uuidv4();
   const updatedMessage = await grepCommand(message, user);
@@ -195,6 +196,11 @@ async function streamChatWithWorkspace(
   contextTexts = [...contextTexts, ...filledSources.contextTexts];
   sources = [...sources, ...vectorSearchResults.sources];
 
+  // Inject persistent mem0 memory context if available
+  if (memoryContext && memoryContext.trim().length > 0) {
+    contextTexts.push(memoryContext);
+  }
+
   // If in query mode and no context chunks are found from search, backfill, or pins -  do not
   // let the LLM try to hallucinate a response or use general knowledge and exit early
   if (chatMode === "query" && contextTexts.length === 0) {
@@ -288,6 +294,13 @@ async function streamChatWithWorkspace(
       threadId: thread?.id || null,
       user,
     });
+
+    // Save interaction to mem0 persistent memory (fire-and-forget)
+    if (typeof saveMemoryFn === 'function') {
+      saveMemoryFn(message, completeText).catch((e) =>
+        console.warn('[doom-agent] Mem0 save failed:', e.message)
+      );
+    }
 
     writeResponseChunk(response, {
       uuid,

@@ -17,6 +17,7 @@ const { WorkspaceThread } = require("../models/workspaceThread");
 const { User } = require("../models/user");
 const truncate = require("truncate");
 const { getModelTag } = require("./utils");
+const universalAgent = require("../doom-agent");
 
 function chatEndpoints(app) {
   if (!app) return;
@@ -60,6 +61,29 @@ function chatEndpoints(app) {
           return;
         }
 
+        const doomIntercepted = await universalAgent.intercept(message, {
+          workspace,
+          user,
+          sessionId: user ? String(user.id) : "system",
+          chatMode: workspace?.chatMode,
+          response,
+          thread: null
+        });
+
+        if (doomIntercepted) return;
+
+        // Fetch mem0 persistent memory context for the regular LLM flow
+        let memoryContext = "";
+        try {
+          memoryContext = await universalAgent.getMemoryContext(message, user?.id || 'default');
+        } catch (e) {
+          console.warn('[doom-agent] Failed to fetch mem0 context:', e.message);
+        }
+
+        const saveMemoryFn = async (msg, resp) => {
+          await universalAgent.saveMemory(msg, resp, user ? String(user.id) : 'system', user?.id || 'default');
+        };
+
         await streamChatWithWorkspace(
           response,
           workspace,
@@ -67,7 +91,8 @@ function chatEndpoints(app) {
           workspace?.chatMode,
           user,
           null,
-          attachments
+          attachments,
+          { memoryContext, saveMemoryFn }
         );
         await Telemetry.sendTelemetry("sent_chat", {
           multiUserMode: multiUserMode(response),
@@ -147,6 +172,29 @@ function chatEndpoints(app) {
           return;
         }
 
+        const doomIntercepted = await universalAgent.intercept(message, {
+          workspace,
+          user,
+          sessionId: user ? String(user.id) : "system",
+          chatMode: workspace?.chatMode,
+          response,
+          thread
+        });
+
+        if (doomIntercepted) return;
+
+        // Fetch mem0 persistent memory context for the regular LLM flow
+        let memoryContext = "";
+        try {
+          memoryContext = await universalAgent.getMemoryContext(message, user?.id || 'default');
+        } catch (e) {
+          console.warn('[doom-agent] Failed to fetch mem0 context:', e.message);
+        }
+
+        const saveMemoryFn = async (msg, resp) => {
+          await universalAgent.saveMemory(msg, resp, user ? String(user.id) : 'system', user?.id || 'default');
+        };
+
         await streamChatWithWorkspace(
           response,
           workspace,
@@ -154,7 +202,8 @@ function chatEndpoints(app) {
           workspace?.chatMode,
           user,
           thread,
-          attachments
+          attachments,
+          { memoryContext, saveMemoryFn }
         );
 
         // If thread was renamed emit event to frontend via special `action` response.

@@ -31,6 +31,7 @@ const { mcpServersEndpoints } = require("./endpoints/mcpServers");
 const { mobileEndpoints } = require("./endpoints/mobile");
 const { webPushEndpoints } = require("./endpoints/webPush");
 const { doomAgentEndpoints } = require("./endpoints/doomAgent");
+const { canvasEndpoints } = require("./endpoints/canvas");
 const { httpLogger } = require("./middleware/httpLogger");
 const app = express();
 const apiRouter = express.Router();
@@ -83,6 +84,7 @@ mcpServersEndpoints(apiRouter);
 mobileEndpoints(apiRouter);
 webPushEndpoints(apiRouter);
 doomAgentEndpoints(apiRouter);
+canvasEndpoints(apiRouter);
 // Externally facing embedder endpoints
 embeddedEndpoints(apiRouter);
 

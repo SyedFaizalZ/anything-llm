@@ -7,25 +7,39 @@ export default {
   
   // Doom Agent
   getDoomAgentConfig: async () => {
+    console.log("[Doom Agent Model] getDoomAgentConfig called");
     return fetch(`${API_BASE}/doom-agent/config`, {
       method: "GET",
       headers: baseHeaders(),
     })
-      .then((res) => res.json())
+      .then((res) => {
+        console.log("[Doom Agent Model] GET /config response status:", res.status);
+        return res.json().then(data => {
+          console.log("[Doom Agent Model] GET /config response data:", data);
+          return data;
+        });
+      })
       .catch((e) => {
-        console.error(e);
+        console.error("[Doom Agent Model] getDoomAgentConfig error:", e);
         return {};
       });
   },
   updateDoomAgentConfig: async (body) => {
+    console.log("[Doom Agent Model] updateDoomAgentConfig called with:", body);
     return fetch(`${API_BASE}/doom-agent/config`, {
       method: "POST",
       headers: baseHeaders(),
       body: JSON.stringify(body),
     })
-      .then((res) => res.json())
+      .then((res) => {
+        console.log("[Doom Agent Model] Response status:", res.status);
+        return res.json().then(data => {
+          console.log("[Doom Agent Model] Response JSON:", data);
+          return data;
+        });
+      })
       .catch((e) => {
-        console.error(e);
+        console.error("[Doom Agent Model] updateDoomAgentConfig error:", e);
         return { success: false, error: e.message };
       });
   },

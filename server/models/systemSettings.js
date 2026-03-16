@@ -219,6 +219,22 @@ const SystemSettings = {
     doom_agent_confidence_threshold: (update) => (!isNaN(parseFloat(update)) ? String(update) : "0.5"),
     doom_agent_max_retries: (update) => (!isNaN(parseInt(update)) ? String(update) : "2"),
     doom_agent_memory_window: (update) => (!isNaN(parseInt(update)) ? String(update) : "5"),
+    e2b_api_key: (apiKey) => {
+      if (!apiKey) return "";
+      return String(apiKey).trim();
+    },
+    mem0_api_url: (apiUrl) => {
+      if (!apiUrl) return "";
+      return String(apiUrl).trim();
+    },
+    mem0_api_key: (apiKey) => {
+      if (!apiKey) return "";
+      return String(apiKey).trim();
+    },
+    mem0_user_id: (userId) => {
+      if (!userId) return "default";
+      return String(userId).trim();
+    },
   },
   currentSettings: async function () {
     const { hasVectorCachedFiles } = require("../utils/files");

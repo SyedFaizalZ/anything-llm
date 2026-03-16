@@ -339,6 +339,15 @@ const router = createBrowserRouter([
           return { element: <AdminRoute Component={DoomAgentSkills} /> };
         },
       },
+      {
+        path: "/settings/doom-agent/mcp",
+        lazy: async () => {
+          const { default: DoomAgentMCP } = await import(
+            "@/pages/GeneralSettings/DoomAgentMCP"
+          );
+          return { element: <AdminRoute Component={DoomAgentMCP} /> };
+        },
+      },
       // Experimental feature pages
       {
         path: "/settings/beta-features/live-document-sync/manage",

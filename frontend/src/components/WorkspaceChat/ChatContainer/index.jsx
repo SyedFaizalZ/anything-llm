@@ -29,6 +29,8 @@ import { useTranslation } from "react-i18next";
 import paths from "@/utils/paths";
 import QuickActions from "@/components/lib/QuickActions";
 import SuggestedMessages from "@/components/lib/SuggestedMessages";
+import CanvasPanel from "@/components/Canvas";
+import { useCanvas } from "@/components/Canvas/CanvasContext";
 
 export default function ChatContainer({ workspace, knownHistory = [] }) {
   const navigate = useNavigate();
@@ -41,6 +43,9 @@ export default function ChatContainer({ workspace, knownHistory = [] }) {
   const { files, parseAttachments } = useContext(DndUploaderContext);
   const { chatHistoryRef } = useChatContainerQuickScroll();
   const pendingMessageChecked = useRef(false);
+  const { isOpen: isCanvasOpen, openCanvas } = useCanvas();
+  const isEmpty = chatHistory.length === 0;
+  const lastAutoOpenRef = useRef(null);
 
   const { listening, resetTranscript } = useSpeechRecognition({
     clearTranscriptOnListen: true,
@@ -202,6 +207,54 @@ export default function ChatContainer({ workspace, knownHistory = [] }) {
   }, [workspace?.slug]);
 
   useEffect(() => {
+    const handleCanvasClick = (e) => {
+      const target = e.target.closest("[data-canvas-snippet]");
+      if (!target) return;
+      const uuidCode = target.dataset.code;
+      const rawUuid = uuidCode.replace('canvas-', 'code-');
+      const codeTarget = document.querySelector(`[data-code="${rawUuid}"]`);
+      if (!codeTarget) return;
+      
+      const markdown = codeTarget.parentElement?.parentElement?.querySelector("pre:first-of-type")?.innerText;
+      if (!markdown) return;
+      
+      let lang = target.dataset.lang;
+      if (lang === 'canvas-python') lang = 'python';
+      if (lang === 'canvas-html') lang = 'html';
+      
+      openCanvas(markdown, lang);
+    };
+    
+    document.addEventListener("click", handleCanvasClick);
+    return () => document.removeEventListener("click", handleCanvasClick);
+  }, [openCanvas]);
+
+  // Auto-open Canvas when assistant responds with canvas-eligible code
+  useEffect(() => {
+    if (chatHistory.length === 0 || loadingResponse) return;
+    const lastMsg = chatHistory[chatHistory.length - 1];
+    if (
+      lastMsg?.role !== "assistant" ||
+      lastMsg?.pending ||
+      !lastMsg?.content ||
+      isCanvasOpen
+    ) return;
+    // Avoid re-triggering for the same message
+    const msgKey = lastMsg.chatId || lastMsg.uuid || lastMsg.content?.substring(0, 50);
+    if (lastAutoOpenRef.current === msgKey) return;
+
+    // Check for canvas-eligible code fences
+    const codeBlockRegex = /```(?:python|html|javascript|canvas-python|canvas-html)\n([\s\S]*?)```/;
+    const match = lastMsg.content.match(codeBlockRegex);
+    if (match && match[1]) {
+      const rawLang = lastMsg.content.match(/```(python|html|javascript|canvas-python|canvas-html)/)?.[1] || 'python';
+      const lang = rawLang.replace('canvas-', '');
+      lastAutoOpenRef.current = msgKey;
+      openCanvas(match[1].trim(), lang);
+    }
+  }, [chatHistory, loadingResponse, isCanvasOpen, openCanvas]);
+
+  useEffect(() => {
     async function fetchReply() {
       const promptMessage =
         chatHistory.length > 0 ? chatHistory[chatHistory.length - 1] : null;
@@ -321,83 +374,90 @@ export default function ChatContainer({ workspace, knownHistory = [] }) {
     handleWSS();
   }, [socketId]);
 
-  const isEmpty =
-    chatHistory.length === 0 && !sessionStorage.getItem(PENDING_HOME_MESSAGE);
-
   if (isEmpty) {
     return (
-      <div
-        style={{ height: isMobile ? "100%" : "calc(100% - 32px)" }}
-        className="transition-all duration-500 relative md:ml-[2px] md:mr-[16px] md:my-[16px] md:rounded-[16px] bg-theme-bg-secondary w-full h-full overflow-hidden"
-      >
-        {isMobile && <SidebarMobileHeader />}
-        <DnDFileUploaderWrapper>
-          <div className="flex flex-col h-full w-full items-center justify-center">
-            <div className="flex flex-col items-center w-full max-w-[750px]">
-              <h1 className="text-white text-xl md:text-2xl mb-11 text-center">
-                {t("main-page.greeting")}
-              </h1>
-              <PromptInput
-                submit={handleSubmit}
-                isStreaming={loadingResponse}
+      <div className="w-full h-full flex relative overflow-hidden">
+        <div
+          style={{ height: isMobile ? "100%" : "calc(100% - 32px)" }}
+          className={`transition-all duration-500 relative flex-1 md:ml-[2px] md:my-[16px] ${isCanvasOpen ? "md:-mr-4 rounded-l-[16px]" : "md:mr-[16px] md:rounded-[16px]"} bg-theme-bg-secondary w-full h-full overflow-hidden`}
+        >
+          {isMobile && <SidebarMobileHeader />}
+          <DnDFileUploaderWrapper>
+            <div className="flex flex-col h-full w-full items-center justify-center">
+              <div className="flex flex-col items-center w-full max-w-[750px]">
+                <h1 className="text-white text-xl md:text-2xl mb-11 text-center">
+                  {t("main-page.greeting")}
+                </h1>
+                <PromptInput
+                  submit={handleSubmit}
+                  isStreaming={loadingResponse}
+                  sendCommand={sendCommand}
+                  attachments={files}
+                  centered={true}
+                />
+                <QuickActions
+                  hasAvailableWorkspace={!!workspace}
+                  onCreateAgent={() => navigate(paths.settings.agentSkills())}
+                  onEditWorkspace={() =>
+                    navigate(
+                      paths.workspace.settings.generalAppearance(workspace.slug)
+                    )
+                  }
+                  onUploadDocument={() =>
+                    document.getElementById("dnd-chat-file-uploader")?.click()
+                  }
+                />
+              </div>
+              <SuggestedMessages
+                suggestedMessages={workspace?.suggestedMessages}
                 sendCommand={sendCommand}
-                attachments={files}
-                centered={true}
-              />
-              <QuickActions
-                hasAvailableWorkspace={!!workspace}
-                onCreateAgent={() => navigate(paths.settings.agentSkills())}
-                onEditWorkspace={() =>
-                  navigate(
-                    paths.workspace.settings.generalAppearance(workspace.slug)
-                  )
-                }
-                onUploadDocument={() =>
-                  document.getElementById("dnd-chat-file-uploader")?.click()
-                }
               />
             </div>
-            <SuggestedMessages
-              suggestedMessages={workspace?.suggestedMessages}
-              sendCommand={sendCommand}
-            />
-          </div>
-        </DnDFileUploaderWrapper>
-        <ChatTooltips />
+          </DnDFileUploaderWrapper>
+          <ChatTooltips />
+        </div>
+        <div style={{ height: isMobile ? "100%" : "calc(100% - 32px)" }} className={`md:my-[16px] md:mr-[16px] rounded-r-[16px] overflow-hidden relative flex-shrink-0 z-[100] transition-all duration-300 ${isCanvasOpen ? "opacity-100" : "opacity-0 pointer-events-none"}`}>
+           <CanvasPanel />
+        </div>
       </div>
     );
   }
 
   return (
-    <div
-      style={{ height: isMobile ? "100%" : "calc(100% - 32px)" }}
-      className="transition-all duration-500 relative md:ml-[2px] md:mr-[16px] md:my-[16px] md:rounded-[16px] bg-theme-bg-secondary w-full h-full overflow-y-scroll no-scroll z-[2]"
-    >
-      {isMobile && <SidebarMobileHeader />}
-      <DnDFileUploaderWrapper>
-        <div className="flex flex-col h-full w-full">
-          <div className="contents">
-            <MetricsProvider>
-              <ChatHistory
-                ref={chatHistoryRef}
-                history={chatHistory}
-                workspace={workspace}
+    <div className="w-full h-full flex relative overflow-hidden">
+      <div
+        style={{ height: isMobile ? "100%" : "calc(100% - 32px)" }}
+        className={`transition-all duration-500 relative flex-1 md:ml-[2px] md:my-[16px] ${isCanvasOpen ? "md:-mr-4 rounded-l-[16px]" : "md:mr-[16px] md:rounded-[16px]"} bg-theme-bg-secondary w-full h-full overflow-y-scroll no-scroll z-[2]`}
+      >
+        {isMobile && <SidebarMobileHeader />}
+        <DnDFileUploaderWrapper>
+          <div className="flex flex-col h-full w-full">
+            <div className="contents">
+              <MetricsProvider>
+                <ChatHistory
+                  ref={chatHistoryRef}
+                  history={chatHistory}
+                  workspace={workspace}
+                  sendCommand={sendCommand}
+                  updateHistory={setChatHistory}
+                  regenerateAssistantMessage={regenerateAssistantMessage}
+                />
+              </MetricsProvider>
+              <PromptInput
+                submit={handleSubmit}
+                isStreaming={loadingResponse}
                 sendCommand={sendCommand}
-                updateHistory={setChatHistory}
-                regenerateAssistantMessage={regenerateAssistantMessage}
+                attachments={files}
+                centered={false}
               />
-            </MetricsProvider>
-            <PromptInput
-              submit={handleSubmit}
-              isStreaming={loadingResponse}
-              sendCommand={sendCommand}
-              attachments={files}
-              centered={false}
-            />
+            </div>
           </div>
-        </div>
-      </DnDFileUploaderWrapper>
-      <ChatTooltips />
+        </DnDFileUploaderWrapper>
+        <ChatTooltips />
+      </div>
+      <div style={{ height: isMobile ? "100%" : "calc(100% - 32px)" }} className={`md:my-[16px] md:mr-[16px] rounded-r-[16px] overflow-hidden relative flex-shrink-0 z-[100] transition-all duration-300 ${isCanvasOpen ? "opacity-100" : "opacity-0 w-0 border-none m-0 p-0 pointer-events-none"}`}>
+         <CanvasPanel />
+      </div>
     </div>
   );
 }

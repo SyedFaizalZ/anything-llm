@@ -133,8 +133,20 @@ function workspaceEndpoints(app) {
           return;
         }
 
+        // Extract metadata from FormData (frontend sends graphMode here)
+        let uploadMetadata = {};
+        if (request.body && request.body.metadata) {
+          try {
+            uploadMetadata = typeof request.body.metadata === "string"
+              ? JSON.parse(request.body.metadata)
+              : request.body.metadata;
+          } catch (e) {
+            console.warn("[Upload] Could not parse metadata from request body:", e.message);
+          }
+        }
+
         const { success, reason } =
-          await Collector.processDocument(originalname);
+          await Collector.processDocument(originalname, uploadMetadata);
         if (!success) {
           response.status(500).json({ success: false, error: reason }).end();
           return;
@@ -632,6 +644,58 @@ function workspaceEndpoints(app) {
   );
 
   app.get(
+    "/workspace/:slug/graph-data",
+    [validatedRequest, flexUserRoleValid([ROLES.all])],
+    async function (request, response) {
+      try {
+        const { slug } = request.params;
+        const fs = require("fs");
+        const path = require("path");
+        const workingDir = path.resolve(__dirname, "../../storage/rag-anything", slug);
+        const graphFile = path.join(workingDir, "graph_chunk_entity_relation.graphml");
+
+        if (!fs.existsSync(graphFile)) {
+          return response.status(404).json({ error: "Graph data not found", nodes: [], edges: [] });
+        }
+
+        const xmlContent = fs.readFileSync(graphFile, "utf-8");
+        const nodes = [];
+        const edges = [];
+
+        // Simple regex-based parsing to avoid heavy XML dependencies
+        const nodeRegex = /<node id="([^"]+)">/g;
+        let match;
+        while ((match = nodeRegex.exec(xmlContent)) !== null) {
+          nodes.push({ id: match[1], label: match[1] });
+        }
+
+        // Try to match edges with source, target, and description text inside <data>
+        const edgeRegex = /<edge source="([^"]+)" target="([^"]+)">.*?<data key="([^"]+)">([^<]+)<\/data>/gs;
+        while ((match = edgeRegex.exec(xmlContent)) !== null) {
+          edges.push({
+            source: match[1],
+            target: match[2],
+            label: match[4]
+          });
+        }
+
+        // Fallback edge parser if description data isn't matched
+        if (edges.length === 0) {
+          const simpleEdgeRegex = /<edge source="([^"]+)" target="([^"]+)"/g;
+          while ((match = simpleEdgeRegex.exec(xmlContent)) !== null) {
+            edges.push({ source: match[1], target: match[2] });
+          }
+        }
+
+        response.status(200).json({ nodes, edges });
+      } catch (error) {
+        console.error("Error reading graph data:", error);
+        response.status(500).json({ error: "Failed to read graph data" });
+      }
+    }
+  );
+
+  app.get(
     "/workspace/:slug/pfp",
     [validatedRequest, flexUserRoleValid([ROLES.all])],
     async function (request, response) {
@@ -904,8 +968,20 @@ function workspaceEndpoints(app) {
           return;
         }
 
+        // Extract metadata from FormData (frontend sends graphMode here)
+        let uploadMetadata = {};
+        if (request.body && request.body.metadata) {
+          try {
+            uploadMetadata = typeof request.body.metadata === "string"
+              ? JSON.parse(request.body.metadata)
+              : request.body.metadata;
+          } catch (e) {
+            console.warn("[Upload] Could not parse metadata from request body:", e.message);
+          }
+        }
+
         const { success, reason, documents } =
-          await Collector.processDocument(originalname);
+          await Collector.processDocument(originalname, uploadMetadata);
         if (!success || documents?.length === 0) {
           response.status(500).json({ success: false, error: reason }).end();
           return;

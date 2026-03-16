@@ -442,7 +442,7 @@ export default function AdminAgents() {
           !selectedSkill?.imported && !selectedFlow && setHasChanges(true)
         }
         ref={formEl}
-        className="flex-1 flex gap-x-6 p-4 mt-10"
+        className="flex-1 flex gap-x-6 p-4 mt-10 h-[calc(100vh-100px)] overflow-hidden"
       >
         <input
           name="system::default_agent_skills"
@@ -462,7 +462,7 @@ export default function AdminAgents() {
         />
 
         {/* Skill settings nav - Make this section scrollable */}
-        <div className="flex flex-col min-w-[360px] h-[calc(100vh-90px)]">
+        <div className="flex flex-col min-w-[360px] h-full overflow-hidden">
           <div className="flex-none mb-4">
             <div className="text-theme-text-primary flex items-center gap-x-2">
               <Robot size={24} />
@@ -548,8 +548,8 @@ export default function AdminAgents() {
         </div>
 
         {/* Selected agent skill setting panel */}
-        <div className="flex-[2] flex flex-col gap-y-[18px] mt-10">
-          <div className="bg-theme-bg-secondary text-white rounded-xl flex-1 p-4 overflow-y-scroll no-scroll">
+        <div className="flex-[2] flex flex-col min-w-0 h-full overflow-hidden">
+          <div className="bg-theme-bg-secondary text-white rounded-xl flex-1 p-4 overflow-y-auto w-full">
             {SelectedSkillComponent ? (
               <>
                 {selectedMcpServer ? (

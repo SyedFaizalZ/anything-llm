@@ -10,6 +10,7 @@ import {
   PencilSimpleLine,
   Nut,
   Toolbox,
+  Skull,
 } from "@phosphor-icons/react";
 import AgentIcon from "@/media/animations/agent-static.png";
 import CommunityHubIcon from "@/media/illustrations/community-hub.png";
@@ -309,13 +310,7 @@ const SidebarOptions = ({ user = null, t }) => (
         />
         <Option
           btnText="Universal Agent (Doom)"
-          icon={
-            <img
-              src={AgentIcon}
-              alt="Universal Agent"
-              className="h-5 w-5 flex-shrink-0 light:invert"
-            />
-          }
+          icon={<Skull className="h-5 w-5 flex-shrink-0" />}
           user={user}
           childOptions={[
             {
@@ -327,6 +322,12 @@ const SidebarOptions = ({ user = null, t }) => (
             {
               btnText: "Skills Management",
               href: paths.settings.doomAgent.skills(),
+              flex: true,
+              roles: ["admin"],
+            },
+            {
+              btnText: "MCP Management",
+              href: paths.settings.doomAgent.mcp(),
               flex: true,
               roles: ["admin"],
             },

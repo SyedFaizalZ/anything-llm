@@ -173,6 +173,7 @@ export default {
     doomAgent: {
       settings: () => `/settings/doom-agent/config`,
       skills: () => `/settings/doom-agent/skills`,
+      mcp: () => `/settings/doom-agent/mcp`,
     },
   },
   agents: {

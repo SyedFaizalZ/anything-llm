@@ -222,6 +222,29 @@ const Workspace = {
       .catch(() => null);
     return workspace;
   },
+  documents: async function (slug) {
+    return fetch(
+      `${API_BASE}/workspace/${slug}/documents`,
+      { headers: baseHeaders() }
+    )
+      .then((res) => res.json())
+      .then((res) => res.documents ?? [])
+      .catch((e) => {
+        console.error(e);
+        return [];
+      });
+  },
+  getGraphData: async function (slug) {
+    return fetch(
+      `${API_BASE}/workspace/${slug}/graph-data`,
+      { headers: baseHeaders() }
+    )
+      .then((res) => res.json())
+      .catch((e) => {
+        console.error(e);
+        return { nodes: [], edges: [] };
+      });
+  },
   delete: async function (slug) {
     const result = await fetch(`${API_BASE}/workspace/${slug}`, {
       method: "DELETE",
@@ -272,10 +295,10 @@ const Workspace = {
     const data = await response.json();
     return data;
   },
-  uploadLink: async function (slug, link) {
+  uploadLink: async function (slug, link, metadata = {}) {
     const response = await fetch(`${API_BASE}/workspace/${slug}/upload-link`, {
       method: "POST",
-      body: JSON.stringify({ link }),
+      body: JSON.stringify({ link, metadata }),
       headers: baseHeaders(),
     });
 

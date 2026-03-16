@@ -124,6 +124,62 @@ const Document = {
       } catch (error) {
         console.error(error.message);
       }
+
+      if (metadata.graphMode) {
+        try {
+          const { cachedVectorInformation } = require("../utils/files");
+          const cacheResult = await cachedVectorInformation(path);
+          if (cacheResult.exists && cacheResult.chunks) {
+            const allTextChunks = cacheResult.chunks.flat().map(c => c.metadata.text);
+            
+            const fs = require('fs');
+            const pathModule = require('path');
+            const { v4: mUuidv4 } = require('uuid');
+            const os = require('os');
+            const tmpFile = pathModule.resolve(os.tmpdir(), `tmp-chunks-${mUuidv4()}.json`);
+            fs.writeFileSync(tmpFile, JSON.stringify(allTextChunks), 'utf8');
+
+            const { ApiKey } = require("./apiKeys");
+            let apiKeyRec = await ApiKey.get({}); 
+            let keyStr = apiKeyRec?.secret;
+            if (!keyStr) {
+               const newKey = await ApiKey.create(1); 
+               keyStr = newKey.apiKey.secret;
+            }
+
+            const { exec } = require('child_process');
+            const ragAnythingDir = pathModule.resolve(__dirname, '../../RAG-Anything');
+            const env = {
+               ...process.env,
+               WORKSPACE_SLUG: workspace.slug,
+               CHUNKS_JSON_PATH: tmpFile,
+               ANYTHING_LLM_API_KEY: keyStr,
+               // NOTE: EMBEDDING_DIM is now auto-detected by graph_insert.py
+               // by querying AnythingLLM's embedding endpoint with a test input.
+               // This ensures compatibility with different embedding engines
+               // (NativeEmbedder: 384, text-embedding-ada-002: 1536, etc.)
+            };
+
+            console.log(`[Graph Mode] Invoking Python Graph RAG insertion for workspace ${workspace.slug}`);
+            exec(`python3 graph_insert.py`, { cwd: ragAnythingDir, env, maxBuffer: 1024 * 1024 * 10 }, (err, stdout, stderr) => {
+               if (stderr) {
+                 console.error(`[Graph Mode] Python stderr:`, stderr);
+               }
+               if (err) {
+                 console.error(`Graph RAG insertion failed:`, err.message);
+               } else {
+                 console.log(`Graph RAG insertion completed:`, stdout);
+               }
+               
+               if (fs.existsSync(tmpFile)) {
+                 fs.unlinkSync(tmpFile);
+               }
+            });
+          }
+        } catch (e) {
+          console.error("Error invoking Graph RAG:", e);
+        }
+      }
     }
 
     await Telemetry.sendTelemetry("documents_embedded_in_workspace", {

@@ -7,21 +7,37 @@ class SkillSelector {
 
   async selectSkill(query, workspace, user, chatMode) {
     const allSkills = this.registry.listSkills();
-    if (allSkills.length === 0) return null;
+    console.log(`[doom-agent] Available skills: ${allSkills.map(s => s.name).join(', ')}`);
+    
+    if (allSkills.length === 0) {
+      console.warn(`[doom-agent] No skills registered!`);
+      return null;
+    }
 
-    const LLMConnector = getLLMProvider({
-      provider: workspace?.chatProvider,
-      model: workspace?.chatModel,
-    });
+    try {
+      const LLMConnector = getLLMProvider({
+        provider: workspace?.chatProvider,
+        model: workspace?.chatModel,
+      });
+      console.log(`[doom-agent] Got LLM connector for: ${workspace?.chatProvider} / ${workspace?.chatModel}`);
 
-    if (allSkills.length > 10) {
-      const category = await this.stage1CategorySelection(query, LLMConnector, user);
-      if (!category) return null;
-      const categorySkills = this.registry.categories.get(category) || [];
-      const candidateSkills = categorySkills.map(name => this.registry.getSkill(name));
-      return await this.stage2SkillSelection(query, candidateSkills, LLMConnector, user);
-    } else {
-      return await this.stage2SkillSelection(query, allSkills, LLMConnector, user);
+      if (allSkills.length > 10) {
+        const category = await this.stage1CategorySelection(query, LLMConnector, user);
+        if (!category) return null;
+        const categorySkills = this.registry.categories.get(category) || [];
+        const candidateSkills = categorySkills.map(name => this.registry.getSkill(name));
+        console.log(`[doom-agent] Category selected: ${category}, candidates: ${candidateSkills.map(s => s.name).join(', ')}`);
+        return await this.stage2SkillSelection(query, candidateSkills, LLMConnector, user);
+      } else {
+        console.log(`[doom-agent] All ${allSkills.length} skills are candidates`);
+        return await this.stage2SkillSelection(query, allSkills, LLMConnector, user);
+      }
+    } catch (e) {
+      console.error("[doom-agent] LLM Provider error in selectSkill:", e.message);
+      console.error("[doom-agent] Stack trace:", e.stack);
+      console.warn("[doom-agent] Falling back to default skill routing (no LLM-based selection)");
+      // Fallback: return first skill or null
+      return null;
     }
   }
 
@@ -61,17 +77,25 @@ Respond with a JSON object in exactly this format:
 If no skill is a good fit, return {"skill_name": "none", "confidence": 0.0}`;
 
     const messages = [{ role: "system", content: prompt }, { role: "user", content: query }];
+    console.log(`[doom-agent] Selecting from ${candidates.length} candidates for query: "${query.substring(0, 60)}..."`);
+    
     try {
       const { textResponse } = await LLMConnector.getChatCompletion(messages, { temperature: 0.1, user });
+      console.log(`[doom-agent] LLM response: ${textResponse}`);
       
-      const cleanJson = textResponse.replace(/^```json\s*/, '').replace(/\s*```$/, '').trim();
+      const cleanJson = textResponse.replace(/^```[a-z]*\s*/i, '').replace(/\s*```$/i, '').trim();
       const result = JSON.parse(cleanJson);
+      console.log(`[doom-agent] Parsed result: skill_name=${result.skill_name}, confidence=${result.confidence}`);
       
-      if (result.skill_name === "none" || result.confidence < 0.5) return null;
+      if (result.skill_name === "none" || result.confidence < 0.5) {
+        console.log(`[doom-agent] Skill match below threshold (skill=${result.skill_name}, conf=${result.confidence})`);
+        return null;
+      }
       
+      console.log(`[doom-agent] Selected skill: ${result.skill_name} with confidence ${result.confidence}`);
       return { skill: this.registry.getSkill(result.skill_name), confidence: result.confidence };
     } catch (e) {
-      console.error("[doom-agent] Error in skill selection:", e);
+      console.error("[doom-agent] Error in skill selection:", e.message);
       return null;
     }
   }
