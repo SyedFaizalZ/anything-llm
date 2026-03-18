@@ -9,6 +9,7 @@ const {
   isTextType,
   normalizePath,
   isWithin,
+  documentsFolder,
 } = require("../utils/files");
 const RESERVED_FILES = ["__HOTDIR__.md"];
 
@@ -46,6 +47,21 @@ async function processSingleFile(targetFilename, options = {}, metadata = {}) {
     };
 
   const fileExtension = path.extname(fullFilePath).toLowerCase();
+
+  // COPY ORIGINAL RAW FILE FOR GRAPH RAG
+  // We ALWAYS copy the raw file because the user might toggle "Graph Mode"
+  // later when adding the document to a workspace, at which point the hotdir file would be gone.
+  try {
+    const rawDir = path.resolve(documentsFolder, "raw");
+    const destPath = path.resolve(rawDir, targetFilename);
+    const destDirName = path.dirname(destPath);
+    if (!fs.existsSync(destDirName)) fs.mkdirSync(destDirName, { recursive: true });
+    fs.copyFileSync(fullFilePath, destPath);
+    console.log(`[Collector] Copied raw file ${targetFilename} to ${rawDir} for future Graph Mode use.`);
+  } catch (err) {
+    console.error("[Collector] Failed to copy raw file for Graph RAG:", err);
+  }
+
   if (fullFilePath.includes(".") && !fileExtension) {
     return {
       success: false,
