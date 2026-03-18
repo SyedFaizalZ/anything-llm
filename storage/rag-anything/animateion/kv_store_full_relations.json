@@ -1,0 +1,762 @@
+{
+  "doc-65f2e49ae92b2cb9e58a896a64027a8e": {
+    "relation_pairs": [
+      [
+        "Facebook Advertising For Dummies",
+        "Technical Icon"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "World Wide Web"
+      ],
+      [
+        "Facebook",
+        "Google"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Safari"
+      ],
+      [
+        "FBML",
+        "iFrames"
+      ],
+      [
+        "Facebook",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook",
+        "Facebook Ads"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Warning Icon"
+      ],
+      [
+        "FBML",
+        "Facebook Application Development For Dummies"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Tip Icon"
+      ],
+      [
+        "Facebook",
+        "Yahoo!"
+      ],
+      [
+        "Facebook",
+        "Facebook Advertising"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Firefox"
+      ],
+      [
+        "Facebook",
+        "Social Networking Space"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "NASCAR"
+      ],
+      [
+        "FBML",
+        "HTML"
+      ],
+      [
+        "Facebook Application Development For Dummies",
+        "Jesse Stay"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Microsoft Excel"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Internet Explorer"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Facebook Page"
+      ],
+      [
+        "Facebook",
+        "Facebook Page"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Facebook Revolution"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1773847398,
+    "update_time": 1773847398,
+    "_id": "doc-65f2e49ae92b2cb9e58a896a64027a8e"
+  },
+  "doc-27dcd2152330143feaf8442f2a48d8f5": {
+    "relation_pairs": [
+      [
+        "Facebook Advertising For Dummies",
+        "Live Stream"
+      ],
+      [
+        "Alternative Advertising Options",
+        "FarmVille"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Facebook Groups"
+      ],
+      [
+        "Conversions",
+        "Performance Objectives"
+      ],
+      [
+        "Facebook",
+        "Mark Zuckerberg"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Setting Up Your Facebook Account"
+      ],
+      [
+        "Driving Sales",
+        "Marketing Objectives"
+      ],
+      [
+        "Blogs",
+        "External Networks"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Promote Your Page Offsite"
+      ],
+      [
+        "Ad Campaign",
+        "Custom Tab"
+      ],
+      [
+        "Activity Feed",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Budget Report",
+        "Campaign Budget"
+      ],
+      [
+        "Creating Reports",
+        "Generating Reports"
+      ],
+      [
+        "Ad Campaign",
+        "National And International Campaigns"
+      ],
+      [
+        "FBML",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Metrics To Track",
+        "Tracking Conversions To Sales"
+      ],
+      [
+        "Profi ting From The Facebook Revolution",
+        "Understanding Unique Aspects Of Facebook Advertising"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Introduction"
+      ],
+      [
+        "Cost Per Impression",
+        "Payment Model"
+      ],
+      [
+        "Facebook",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Advertising Campaign",
+        "Responder Demographics Report"
+      ],
+      [
+        "Creating Reports",
+        "Gaining Insights From Facebook Insights"
+      ],
+      [
+        "Friendpile",
+        "Social Plugins"
+      ],
+      [
+        "Ads Manager",
+        "Lifetime Statistics"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Where To Go From Here"
+      ],
+      [
+        "Buying Strategies",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook Advertisement Campaigns",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Understanding The Types Of Ad Campaigns"
+      ],
+      [
+        "Login (with Faces)",
+        "Social Plugins"
+      ],
+      [
+        "Facebook Page",
+        "Media Consumption"
+      ],
+      [
+        "Ad Campaign",
+        "Ad Scheduling"
+      ],
+      [
+        "Optimizing Conversions",
+        "Tracking Conversions To Sales"
+      ],
+      [
+        "Dashboard",
+        "Third-Party Tools"
+      ],
+      [
+        "Breaking Out Demographics",
+        "Creating Reports"
+      ],
+      [
+        "Ad Campaign",
+        "External Networks"
+      ],
+      [
+        "Facebook",
+        "Part I: Getting Started with Facebook Advertising"
+      ],
+      [
+        "Customer Data",
+        "Facebook Page"
+      ],
+      [
+        "Facebook",
+        "Facebook Advertisement Campaigns"
+      ],
+      [
+        "Custom Tab",
+        "FBML"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Foolish Assumptions"
+      ],
+      [
+        "Facebook Ads",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Creating An Advertising Performance Report",
+        "Creating Reports"
+      ],
+      [
+        "Facebook Page",
+        "User Page Views"
+      ],
+      [
+        "Creating Reports",
+        "Introduction To Facebook Reports"
+      ],
+      [
+        "Brand Building",
+        "Marketing Objectives"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Minding Your Metrics"
+      ],
+      [
+        "Like Box",
+        "Social Plugins"
+      ],
+      [
+        "Creating Pages For Your Campaign",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Creating Reports",
+        "Tracking Interactions"
+      ],
+      [
+        "Creating Your First Ad Campaign",
+        "Setting Up Your Facebook Account"
+      ],
+      [
+        "Ad Campaign",
+        "Ad Types"
+      ],
+      [
+        "Ad Types",
+        "Social Attributes"
+      ],
+      [
+        "Facebook Insights",
+        "User Engagement"
+      ],
+      [
+        "Extending The Facebook Experience",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Ad Campaign",
+        "Facebook Business Page"
+      ],
+      [
+        "Ad Campaign",
+        "Regional Campaigns"
+      ],
+      [
+        "About This Book",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook Ads",
+        "Part I: Getting Started with Facebook Advertising"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Ten Nontraditional Facebook Ad Campaigns"
+      ],
+      [
+        "Easy To Share Content",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Advertising Campaign",
+        "ROI Tracking"
+      ],
+      [
+        "Creating Reports",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook",
+        "Fan Pages"
+      ],
+      [
+        "Elements Of A Great Ad Campaign",
+        "Setting Up Your Facebook Account"
+      ],
+      [
+        "FBML",
+        "Facebook Page"
+      ],
+      [
+        "Creating A New Facebook Business Page",
+        "Setting Up Your Facebook Account"
+      ],
+      [
+        "Ads Manager",
+        "Campaign Notifications"
+      ],
+      [
+        "Business Pages",
+        "Facebook"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "User Collaboration"
+      ],
+      [
+        "Ad Campaign",
+        "Payment Model"
+      ],
+      [
+        "Advertising Performance Report",
+        "Facebook Reports"
+      ],
+      [
+        "Ad Types",
+        "Images In Ads"
+      ],
+      [
+        "Direct And Relationship Marketing Aspects Of Facebook Ads",
+        "Profi ting From The Facebook Revolution"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Facebook Advertising Guidelines"
+      ],
+      [
+        "Facebook",
+        "Social Interaction"
+      ],
+      [
+        "Profi ting From The Facebook Revolution",
+        "Seeing The Familiar Aspects Of Facebook Advertising"
+      ],
+      [
+        "Conversion Process",
+        "Optimizing Conversions"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Getting Set To Implement And Measure Results"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Facebook Developer Team"
+      ],
+      [
+        "Preparing Your Facebook Business Page For Your Ad Campaigns",
+        "Setting Up Your Facebook Account"
+      ],
+      [
+        "Activity Feed",
+        "Social Plugins"
+      ],
+      [
+        "Facebook",
+        "Facebook Advertising"
+      ],
+      [
+        "Finding Your Way Around Facebook Advertising",
+        "Profi ting From The Facebook Revolution"
+      ],
+      [
+        "Tracking Conversions To Sales",
+        "Tracking Leads In A CRM System"
+      ],
+      [
+        "Tracking Conversions To Sales",
+        "Tracking The ROI"
+      ],
+      [
+        "Conversion Process",
+        "Lead"
+      ],
+      [
+        "Facebook",
+        "Social Plugins"
+      ],
+      [
+        "Comments",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Ad Campaign",
+        "Landing Page"
+      ],
+      [
+        "Internal Facebook Landing Page",
+        "Landing Page"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "How This Book Is Organized"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Ten Resources For Facebook Advertisers"
+      ],
+      [
+        "Advertising Campaign",
+        "Advertising Performance Report"
+      ],
+      [
+        "Facebook Ads Page",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook Page",
+        "Story and Discussion Feedback"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Getting Started With Facebook Advertising"
+      ],
+      [
+        "Cost Per Click",
+        "Payment Model"
+      ],
+      [
+        "Compelling Or Unique Content",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook Reports",
+        "Responder Demographics Report"
+      ],
+      [
+        "Creating A Responder Profiles Report",
+        "Creating Reports"
+      ],
+      [
+        "Facebook Reports",
+        "Responder Profiles Report"
+      ],
+      [
+        "Facebook Page",
+        "Page Activity"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Matching Your Ads To Your Marketing Strategy"
+      ],
+      [
+        "Ad Campaign",
+        "Customer Data"
+      ],
+      [
+        "Ad Campaign",
+        "Local Campaigns"
+      ],
+      [
+        "Ad Campaign",
+        "Concurrent Campaigns"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Facebook Business Page"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Login (With Faces)"
+      ],
+      [
+        "Ad Campaign",
+        "Result Analysis"
+      ],
+      [
+        "Facebook",
+        "Facebook Advertisers"
+      ],
+      [
+        "Recommendations",
+        "Social Plugins"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Like Box"
+      ],
+      [
+        "External Website Landing Page",
+        "Landing Page"
+      ],
+      [
+        "Calling On A Lead",
+        "Tracking Conversions To Sales"
+      ],
+      [
+        "Facebook Audience",
+        "Marketing Strategy"
+      ],
+      [
+        "Live Stream",
+        "Social Plugins"
+      ],
+      [
+        "Alternative Advertising Options",
+        "Mafia Wars"
+      ],
+      [
+        "Creating A Responder Demographics Report",
+        "Creating Reports"
+      ],
+      [
+        "Facebook",
+        "Microsoft"
+      ],
+      [
+        "Exclusive Content",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Testing And Optimizing Your Ad Campaign"
+      ],
+      [
+        "Checking Out The Data",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Facebook App"
+      ],
+      [
+        "E-Mail Blasts",
+        "External Networks"
+      ],
+      [
+        "Community Formation",
+        "Marketing Objectives"
+      ],
+      [
+        "Feedback Response",
+        "Marketing Objectives"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Icons Used In This Book"
+      ],
+      [
+        "Ad Campaign",
+        "Alternative Advertising Options"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Managing Your Facebook Advertising Campaigns"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Recommendations"
+      ],
+      [
+        "Conventions Used In This Book",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Tracking Conversions To Sales",
+        "Verifying A Lead"
+      ],
+      [
+        "Facebook Ads",
+        "News Feed"
+      ],
+      [
+        "Facebook",
+        "Facebook Insights"
+      ],
+      [
+        "Introducing Facebook Advertising",
+        "Profi ting From The Facebook Revolution"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Tracking Conversions To Sales"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Profi ting From The Facebook Revolution"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Facebook Marketplace Listing"
+      ],
+      [
+        "Tracking Conversions To Sales",
+        "Tracking Your Conversions"
+      ],
+      [
+        "Facebook",
+        "Facebook Advertising Options"
+      ],
+      [
+        "Comments",
+        "Social Plugins"
+      ],
+      [
+        "Ad Campaign",
+        "Campaign Budget"
+      ],
+      [
+        "Ad Campaign",
+        "Performance Objectives"
+      ],
+      [
+        "CRM System",
+        "Lead"
+      ],
+      [
+        "Facebook",
+        "Facebook Ads"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Friendpile"
+      ],
+      [
+        "Facebook",
+        "Facebook Plug-Ins"
+      ],
+      [
+        "Facebook",
+        "Facebook Business Page"
+      ],
+      [
+        "Like Button",
+        "Social Plugins"
+      ],
+      [
+        "Creating Reports",
+        "Measuring User Engagement"
+      ],
+      [
+        "Customer Data",
+        "Forms"
+      ],
+      [
+        "Dashboard",
+        "Facebook Insights"
+      ],
+      [
+        "Converting A Lead To A Sale",
+        "Tracking Conversions To Sales"
+      ],
+      [
+        "Clear Focus On Pages Purpose",
+        "Facebook Advertising For Dummies"
+      ],
+      [
+        "Creating Reports",
+        "Exporting Data"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Launching Your Facebook Advertising Campaign"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Part I: Getting Started with Facebook Advertising"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Like Button"
+      ],
+      [
+        "Facebook",
+        "Facebook Experience"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "The Part Of Tens"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Ten Facebook Ads Beginner Mistakes"
+      ],
+      [
+        "Facebook Advertising For Dummies",
+        "Ten Facebook Page Promotion Techniques (Besides Ads)"
+      ],
+      [
+        "Concurrent Campaigns",
+        "Internal And External Websites"
+      ],
+      [
+        "Ad Campaign",
+        "Marketing Strategy"
+      ]
+    ],
+    "count": 164,
+    "create_time": 1773847535,
+    "update_time": 1773847535,
+    "_id": "doc-27dcd2152330143feaf8442f2a48d8f5"
+  }
+}

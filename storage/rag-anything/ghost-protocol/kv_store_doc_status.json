@@ -1,0 +1,18 @@
+{
+  "doc-4a7bf3d99603644ac77a33a243ff8984": {
+    "status": "failed",
+    "error_msg": "C[1/2]: chunk-41419e1a16846db3a16aa46f011fed60: InternalServerError: Error code: 500 (Original exception could not be reconstructed: APIStatusError.__init__() missing 2 required keyword-only arguments: 'response' and 'body')",
+    "content_summary": "<document_metadata>\nsourceDocument: doom_agent_setup_guide (1).docx\npublished: 3/18/2026, 2:31:58 PM\n</document_metadata>\n\nDoom Agent\n\nSetup Guide & Troubleshooting Reference\n\nAnythingLLM + WSL2 + Node.js\n\n\n\n\n\n1. Prerequisites\n\nBefore starting, make ...",
+    "content_length": 5646,
+    "created_at": "2026-03-18T14:32:28.759343+00:00",
+    "updated_at": "2026-03-18T14:32:31+00:00",
+    "file_path": "document_upload",
+    "track_id": "insert_20260318_143228_a8c13e3c",
+    "metadata": {
+      "processing_start_time": 1773844348,
+      "processing_end_time": 1773844351
+    },
+    "chunks_list": [],
+    "multimodal_processed": true
+  }
+}

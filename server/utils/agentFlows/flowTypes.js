@@ -80,6 +80,27 @@ const FLOW_TYPES = {
       },
     },
   },
+  DATA_TRANSFORM: {
+    type: "dataTransform",
+    description: "Transform data using JavaScript code",
+    parameters: {
+      data: { type: "string", description: "The data to be transformed" },
+      transformCode: { type: "string", description: "JavaScript function body returning the transformed data (can use parameter `data`)" },
+      resultVariable: { type: "string", description: "Variable to store the transformed result" },
+      directOutput: { type: "boolean", description: "Whether to return the output directly" }
+    }
+  },
+  CONDITIONAL: {
+    type: "conditional",
+    description: "Branching logic",
+    parameters: {
+      value1: { type: "string" },
+      operator: { type: "string" },
+      value2: { type: "string" },
+      actionIfTrue: { type: "string" },
+      actionIfFalse: { type: "string" },
+    }
+  }
 };
 
 module.exports.FLOW_TYPES = FLOW_TYPES;

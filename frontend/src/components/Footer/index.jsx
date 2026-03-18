@@ -48,55 +48,7 @@ export default function Footer() {
   if (!Array.isArray(footerData) || footerData.length === 0) {
     return (
       <div className="flex justify-center mb-2">
-        <div className="flex space-x-4">
-          <div className="flex w-fit">
-            <Link
-              to={paths.github()}
-              target="_blank"
-              rel="noreferrer"
-              className="transition-all duration-300 p-2 rounded-full bg-theme-sidebar-footer-icon hover:bg-theme-sidebar-footer-icon-hover"
-              aria-label="Find us on GitHub"
-              data-tooltip-id="footer-item"
-              data-tooltip-content="View Source Code"
-            >
-              <GithubLogo
-                weight="fill"
-                className="h-5 w-5 text-white light:text-slate-800"
-              />
-            </Link>
-          </div>
-          <div className="flex w-fit">
-            <Link
-              to={paths.docs()}
-              target="_blank"
-              rel="noreferrer"
-              className="transition-all duration-300 p-2 rounded-full bg-theme-sidebar-footer-icon hover:bg-theme-sidebar-footer-icon-hover"
-              aria-label="Docs"
-              data-tooltip-id="footer-item"
-              data-tooltip-content="Open AnythingLLM help docs"
-            >
-              <BookOpen
-                weight="fill"
-                className="h-5 w-5 text-white light:text-slate-800"
-              />
-            </Link>
-          </div>
-          <div className="flex w-fit">
-            <Link
-              to={paths.discord()}
-              target="_blank"
-              rel="noreferrer"
-              className="transition-all duration-300 p-2 rounded-full bg-theme-sidebar-footer-icon hover:bg-theme-sidebar-footer-icon-hover"
-              aria-label="Join our Discord server"
-              data-tooltip-id="footer-item"
-              data-tooltip-content="Join the AnythingLLM Discord"
-            >
-              <DiscordLogo
-                weight="fill"
-                className="h-5 w-5 text-white light:text-slate-800"
-              />
-            </Link>
-          </div>
+        <div className="flex w-full px-4 items-center justify-center">
           {!isMobile && <SettingsButton />}
         </div>
         <Tooltip

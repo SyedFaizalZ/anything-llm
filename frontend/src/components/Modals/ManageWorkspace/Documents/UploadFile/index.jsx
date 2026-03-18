@@ -136,13 +136,13 @@ export default function UploadFile({
       <div className="flex justify-center mt-6 mb-4 px-4 w-full max-w-[560px] mx-auto">
         <label className="relative flex items-center justify-between p-4 rounded-xl border border-white/10 bg-theme-bg-secondary hover:bg-theme-bg-primary cursor-pointer transition-colors w-full group">
           <div className="flex flex-col">
-            <span className="text-white text-sm font-semibold flex items-center gap-2">
+            <span className="text-theme-text-primary text-sm font-semibold flex items-center gap-2">
               <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 256 256" className="text-sky-400"><path d="M212.92,118.61a8,8,0,0,0-11.53,1.31L160,172.13,114.61,114a8,8,0,0,0-12.7,0L54.61,174.65a8,8,0,1,0,12.78,10.7L108,133.22,153.39,191a8,8,0,0,0,12.7,0l48.14-60.84A8,8,0,0,0,212.92,118.61ZM40,216a8,8,0,0,1-8-8V48a8,8,0,0,1,16,0V208A8,8,0,0,1,40,216ZM224,48V200a8,8,0,0,1-16,0V48a8,8,0,0,1,16,0Z"></path></svg>
               {t("connectors.upload.advanced-graph-mode", "Advanced Graph Mode")}
             </span>
-            <span className="text-white/40 text-xs mt-1">Extract deep relationship networks alongside traditional vectors</span>
+            <span className="text-theme-text-secondary text-xs mt-1">Extract deep relationship networks alongside traditional vectors</span>
           </div>
-          <div className={`relative inline-flex h-6 w-11 shrink-0 items-center rounded-full transition-colors ${graphMode ? 'bg-sky-500' : 'bg-white/10'}`}>
+          <div className={`relative inline-flex h-6 w-11 shrink-0 items-center rounded-full transition-colors ${graphMode ? 'bg-sky-500' : 'bg-theme-modal-border'}`}>
             <span className={`inline-block h-4 w-4 transform rounded-full bg-white transition-transform ${graphMode ? 'translate-x-[1.4rem]' : 'translate-x-1'}`} />
           </div>
           {/* hidden input for state */}
@@ -154,7 +154,7 @@ export default function UploadFile({
           />
         </label>
       </div>
-      <div className="text-center text-white text-opacity-50 text-xs font-medium w-[560px] py-2">
+      <div className="text-center text-theme-text-secondary text-xs font-medium w-[560px] py-2">
         {t("connectors.upload.or-submit-link")}
       </div>
       <form onSubmit={handleSendLink} className="flex gap-x-2">
@@ -162,21 +162,21 @@ export default function UploadFile({
           disabled={fetchingUrl}
           name="link"
           type="url"
-          className="border-none disabled:bg-theme-settings-input-bg disabled:text-theme-settings-input-placeholder bg-theme-settings-input-bg text-white placeholder:text-theme-settings-input-placeholder text-sm rounded-lg focus:outline-primary-button active:outline-primary-button outline-none block w-3/4 p-2.5"
+          className="border-none disabled:bg-theme-settings-input-bg disabled:text-theme-settings-input-placeholder bg-theme-settings-input-bg text-theme-text-primary placeholder:text-theme-settings-input-placeholder text-sm rounded-lg focus:outline-primary-button active:outline-primary-button outline-none block w-3/4 p-2.5"
           placeholder={t("connectors.upload.placeholder-link")}
           autoComplete="off"
         />
         <button
           disabled={fetchingUrl}
           type="submit"
-          className="disabled:bg-white/20 disabled:text-slate-300 disabled:border-slate-400 disabled:cursor-wait bg bg-transparent hover:bg-slate-200 hover:text-slate-800 w-auto border border-white light:border-theme-modal-border text-sm text-white p-2.5 rounded-lg"
+          className="disabled:bg-white/20 disabled:text-slate-300 disabled:border-slate-400 disabled:cursor-wait bg bg-transparent hover:bg-slate-200 hover:text-slate-800 w-auto border border-theme-modal-border text-sm text-theme-text-primary p-2.5 rounded-lg"
         >
           {fetchingUrl
             ? t("connectors.upload.fetching")
             : t("connectors.upload.fetch-website")}
         </button>
       </form>
-      <div className="mt-6 text-center text-white text-opacity-80 text-xs font-medium w-[560px]">
+      <div className="mt-6 text-center text-theme-text-secondary w-[560px]">
         {t("connectors.upload.privacy-notice")}
       </div>
     </div>

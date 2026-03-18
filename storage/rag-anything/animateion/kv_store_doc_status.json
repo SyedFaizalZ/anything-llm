@@ -1,0 +1,43 @@
+{
+  "doc-27dcd2152330143feaf8442f2a48d8f5": {
+    "status": "processed",
+    "chunks_count": 6,
+    "chunks_list": [
+      "chunk-052efb579f52b31e3117bae0de19f737",
+      "chunk-4bcbd94b15dddbc237c66d05280b132c",
+      "chunk-236f7fc1d490873532a9ab989334c158",
+      "chunk-dd443a8885c565a62504504538b8dda8",
+      "chunk-33bd53c7e23c00189b573a6aef755e00",
+      "chunk-aca9c55f807e42982283ddc4ea7207b2"
+    ],
+    "content_summary": "<document_metadata>\nsourceDocument: Facebook Advertising For Dummies(9-18).pdf\npublished: 3/18/2026, 3:16:42 PM\n</document_metadata>\n\nContents at a Glance\nIntroduction ................................................................ 1\nPart I: Getting...",
+    "content_length": 31870,
+    "created_at": "2026-03-18T15:17:26.342400+00:00",
+    "updated_at": "2026-03-18T15:25:35.954154+00:00",
+    "file_path": "document_upload",
+    "track_id": "insert_20260318_151726_747bb4f5",
+    "metadata": {
+      "processing_start_time": 1773847313,
+      "processing_end_time": 1773847535
+    }
+  },
+  "doc-65f2e49ae92b2cb9e58a896a64027a8e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-be9764e38bc4c8f1a3f1d669471a6dc4",
+      "chunk-5d806f5866af4d4741003d3fe8233a8f"
+    ],
+    "content_summary": "<document_metadata>\nsourceDocument: Facebook Advertising For Dummies(20-25).pdf\npublished: 3/18/2026, 3:21:22 PM\n</document_metadata>\n\n4\nFacebook Advertising For Dummies \nFoolish Assumptions\nWe assume that you know how to use your computer, at least ...",
+    "content_length": 8878,
+    "created_at": "2026-03-18T15:21:53.518391+00:00",
+    "updated_at": "2026-03-18T15:25:36+00:00",
+    "file_path": "document_upload",
+    "track_id": "insert_20260318_152153_0f8e7e0e",
+    "metadata": {
+      "processing_start_time": 1773847313,
+      "processing_end_time": 1773847398
+    },
+    "multimodal_processed": true
+  }
+}

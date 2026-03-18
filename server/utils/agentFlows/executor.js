@@ -2,6 +2,8 @@ const { FLOW_TYPES } = require("./flowTypes");
 const executeApiCall = require("./executors/api-call");
 const executeLLMInstruction = require("./executors/llm-instruction");
 const executeWebScraping = require("./executors/web-scraping");
+const executeDataTransform = require("./executors/data-transform");
+const executeConditional = require("./executors/conditional");
 const { Telemetry } = require("../../models/telemetry");
 const { safeJsonParse } = require("../http");
 
@@ -164,18 +166,24 @@ class FlowExecutor {
       case FLOW_TYPES.WEB_SCRAPING.type:
         result = await executeWebScraping(config, context);
         break;
+      case FLOW_TYPES.DATA_TRANSFORM.type:
+        result = await executeDataTransform(config, context);
+        break;
+      case FLOW_TYPES.CONDITIONAL.type:
+        result = await executeConditional(config, context);
+        break;
       default:
         throw new Error(`Unknown flow type: ${step.type}`);
     }
 
-    // Store result in variable if specified
-    if (config.resultVariable || config.responseVariable) {
+    // Store result in variable if specified, skipping if it's the conditional halt object
+    if ((config.resultVariable || config.responseVariable) && !result?._flowHalt) {
       const varName = config.resultVariable || config.responseVariable;
       this.variables[varName] = result;
     }
 
-    // If directOutput is true, mark this result for direct output
-    if (config.directOutput) result = { directOutput: true, result };
+    // If directOutput is true and it's not a halt object, mark this result for direct output
+    if (config.directOutput && !result?._flowHalt) result = { directOutput: true, result };
     return result;
   }
 
@@ -205,6 +213,12 @@ class FlowExecutor {
     for (const step of flow.config.steps) {
       try {
         const result = await this.executeStep(step);
+
+        if (result?._flowHalt) {
+          if (!directOutputResult) directOutputResult = result.result; // or empty string
+          results.push({ success: true, result: result.result });
+          break; // Stop flow immediately
+        }
 
         // If the step has directOutput, stop processing and return the result
         // so that no other steps are executed or processed

@@ -58,11 +58,17 @@ class RAGGraphTools {
       let combinedResponse = "--- Standard Semantic Search Results ---\n";
       combinedResponse += traditionalRagResponse + "\n\n";
       
-      if (graphRagResponse && graphRagResponse.includes("--- GRAPH RAG RESULTS ---")) {
-        const graphContent = graphRagResponse.split("--- GRAPH RAG RESULTS ---")[1].split("-----------------------")[0].trim();
-        if (graphContent) {
-           combinedResponse += "--- Graph Knowledge Results ---\n";
-           combinedResponse += graphContent + "\n\n";
+      if (graphRagResponse) {
+        if (graphRagResponse.includes("--- GRAPH RAG RESULTS ---")) {
+          const graphContent = graphRagResponse.split("--- GRAPH RAG RESULTS ---")[1].split("-----------------------")[0].trim();
+          if (graphContent) {
+             combinedResponse += "--- Graph Knowledge Results ---\n";
+             combinedResponse += graphContent + "\n\n";
+          }
+        } else {
+          // If the Python script ran but didn't output the expected format (e.g., error messages)
+          combinedResponse += "--- Graph Knowledge Output (Raw) ---\n";
+          combinedResponse += graphRagResponse.trim() + "\n\n";
         }
       }
 

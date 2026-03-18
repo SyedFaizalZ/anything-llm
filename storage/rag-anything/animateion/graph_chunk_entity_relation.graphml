@@ -1,0 +1,3223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Facebook Advertising For Dummies">
+      <data key="d0">Facebook Advertising For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">"Facebook Advertising For Dummies" is a comprehensive guidebook designed to assist individuals and businesses in navigating the complexities of advertising on Facebook. This book offers detailed guidance on creating, optimizing, and tracking advertising campaigns on the platform. It covers a wide range of topics, from setting up a presence on Facebook to advanced strategies for optimizing ad campaigns. The guide is structured into five distinct parts, making it easy for readers to reference specific sections as needed. It provides step-by-step instructions, practical advice, and conceptual insights into various advertising techniques and strategies. Additionally, the book includes information on using tools and techniques for effective advertising, ensuring that readers are well-equipped to build and manage successful Facebook ad campaigns. The guide also delves into the unique aspects of Facebook advertising, such as targeting profile attributes and using clickable ads that do not leave the original web page. Overall, "Facebook Advertising For Dummies" serves as an invaluable resource for anyone looking to leverage Facebook's advertising capabilities to their fullest potential.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f&lt;SEP&gt;chunk-be9764e38bc4c8f1a3f1d669471a6dc4&lt;SEP&gt;chunk-052efb579f52b31e3117bae0de19f737&lt;SEP&gt;chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-4bcbd94b15dddbc237c66d05280b132c&lt;SEP&gt;chunk-aca9c55f807e42982283ddc4ea7207b2&lt;SEP&gt;chunk-dd443a8885c565a62504504538b8dda8&lt;SEP&gt;chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847465</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook">
+      <data key="d0">Facebook</data>
+      <data key="d1">organization</data>
+      <data key="d2">Facebook is a social networking site where businesses and brands can create their own presence through Pages.&lt;SEP&gt;Facebook is a social networking platform where businesses can advertise and create pages to engage with their audience.&lt;SEP&gt;Facebook is a social media platform that offers advertising services discussed in the book.&lt;SEP&gt;Facebook is a social media platform that provides tools and features for advertising, user engagement, and data analysis.&lt;SEP&gt;Facebook is a social media platform created by Mark Zuckerberg in 2004, which had over 500 million users by mid-2010.&lt;SEP&gt;Facebook is a social media platform where users can establish themselves and their businesses, and run advertisements.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f&lt;SEP&gt;chunk-be9764e38bc4c8f1a3f1d669471a6dc4&lt;SEP&gt;chunk-052efb579f52b31e3117bae0de19f737&lt;SEP&gt;chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-aca9c55f807e42982283ddc4ea7207b2&lt;SEP&gt;chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847462</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Page">
+      <data key="d0">Facebook Page</data>
+      <data key="d1">content</data>
+      <data key="d2">A Facebook Page is a free business presence on Facebook where businesses can have fans or followers.&lt;SEP&gt;Facebook Page is a specific kind of Facebook page where a business or brand has its own presence on the social networking site.&lt;SEP&gt;Facebook Page is a customizable profile on Facebook used by businesses and organizations to connect with their audience.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f&lt;SEP&gt;chunk-be9764e38bc4c8f1a3f1d669471a6dc4&lt;SEP&gt;chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847473</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertising">
+      <data key="d0">Facebook Advertising</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Advertising involves placing ads on the Facebook platform to reach a targeted audience.&lt;SEP&gt;Facebook Advertising refers to the methods and strategies used to promote products and services on the Facebook platform.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f&lt;SEP&gt;chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847463</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Ads">
+      <data key="d0">Facebook Ads</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Ads are advertisements on Facebook that can be used for direct and relationship marketing.&lt;SEP&gt;Facebook Ads are advertisements created and displayed on the Facebook platform to reach specific audiences.&lt;SEP&gt;Facebook Ads are advertisements on Facebook that can have social elements and engagement factors.&lt;SEP&gt;Facebook Ads are advertisements created and managed on the Facebook platform to promote businesses and products.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f&lt;SEP&gt;chunk-052efb579f52b31e3117bae0de19f737&lt;SEP&gt;chunk-aca9c55f807e42982283ddc4ea7207b2&lt;SEP&gt;chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847463</data>
+      <data key="d6" />
+    </node>
+    <node id="Google">
+      <data key="d0">Google</data>
+      <data key="d1">organization</data>
+      <data key="d2">Google is a search engine that displays ads alongside search results.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847367</data>
+      <data key="d6" />
+    </node>
+    <node id="Yahoo!">
+      <data key="d0">Yahoo!</data>
+      <data key="d1">organization</data>
+      <data key="d2">Yahoo! is a search engine that displays ads alongside search results.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847367</data>
+      <data key="d6" />
+    </node>
+    <node id="Social Networking Space">
+      <data key="d0">Social Networking Space</data>
+      <data key="d1">concept</data>
+      <data key="d2">Social Networking Space refers to the category of internet usage where people use social websites to stay connected and communicate.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847367</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Revolution">
+      <data key="d0">Facebook Revolution</data>
+      <data key="d1">event</data>
+      <data key="d2">Facebook Revolution refers to the significant impact and changes brought about by Facebook in the realm of social media and advertising.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847369</data>
+      <data key="d6" />
+    </node>
+    <node id="NASCAR">
+      <data key="d0">NASCAR</data>
+      <data key="d1">organization</data>
+      <data key="d2">NASCAR is a motorsports organization mentioned in the context of advertising.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847370</data>
+      <data key="d6" />
+    </node>
+    <node id="World Wide Web">
+      <data key="d0">World Wide Web</data>
+      <data key="d1">concept</data>
+      <data key="d2">World Wide Web refers to the global system of interconnected computer networks that use the Internet to link devices worldwide.</data>
+      <data key="d3">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847376</data>
+      <data key="d6" />
+    </node>
+    <node id="Microsoft Excel">
+      <data key="d0">Microsoft Excel</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Microsoft Excel is an application used for building spreadsheets and entering data.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847376</data>
+      <data key="d6" />
+    </node>
+    <node id="Safari">
+      <data key="d0">Safari</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Safari is an Internet web browser used to access the Internet.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847376</data>
+      <data key="d6" />
+    </node>
+    <node id="Internet Explorer">
+      <data key="d0">Internet Explorer</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Internet Explorer is an Internet web browser used to access the Internet.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847376</data>
+      <data key="d6" />
+    </node>
+    <node id="Firefox">
+      <data key="d0">Firefox</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Firefox is an Internet web browser used to access the Internet.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847376</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Application Development For Dummies">
+      <data key="d0">Facebook Application Development For Dummies</data>
+      <data key="d1">content</data>
+      <data key="d2">Facebook Application Development For Dummies is a book by Jesse Stay that provides information on Facebook application development.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847377</data>
+      <data key="d6" />
+    </node>
+    <node id="Jesse Stay">
+      <data key="d0">Jesse Stay</data>
+      <data key="d1">person</data>
+      <data key="d2">Jesse Stay is the author of Facebook Application Development For Dummies.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847385</data>
+      <data key="d6" />
+    </node>
+    <node id="FBML">
+      <data key="d0">FBML</data>
+      <data key="d1">method</data>
+      <data key="d2">FBML stands for FaceBook Markup Language, which is similar to HTML.&lt;SEP&gt;FBML is a markup language used to create custom tabs on Facebook Pages.&lt;SEP&gt;FBML (Facebook Markup Language) is a markup language used to create custom tabs on Facebook Pages, allowing for personalized and interactive content.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4&lt;SEP&gt;chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847472</data>
+      <data key="d6" />
+    </node>
+    <node id="HTML">
+      <data key="d0">HTML</data>
+      <data key="d1">concept</data>
+      <data key="d2">HTML stands for HyperText Markup Language, a standard markup language for creating web pages.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847386</data>
+      <data key="d6" />
+    </node>
+    <node id="iFrames">
+      <data key="d0">iFrames</data>
+      <data key="d1">concept</data>
+      <data key="d2">iFrames are a method used in web development, potentially replacing FBML.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847386</data>
+      <data key="d6" />
+    </node>
+    <node id="Tip Icon">
+      <data key="d0">Tip Icon</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Tip Icon is a visual element in the book that notifies readers about something cool, handy, or highly recommended.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847386</data>
+      <data key="d6" />
+    </node>
+    <node id="Warning Icon">
+      <data key="d0">Warning Icon</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Warning Icon is a visual element in the book that alerts readers to potential dangers or troubles.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847386</data>
+      <data key="d6" />
+    </node>
+    <node id="Technical Icon">
+      <data key="d0">Technical Icon</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Technical Icon is a visual element in the book that provides technical information or trivia.</data>
+      <data key="d3">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847386</data>
+      <data key="d6" />
+    </node>
+    <node id="Getting Started With Facebook Advertising">
+      <data key="d0">Getting Started With Facebook Advertising</data>
+      <data key="d1">concept</data>
+      <data key="d2">Getting Started with Facebook Advertising is the first part of the book, introducing the basics of Facebook advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847457</data>
+      <data key="d6" />
+    </node>
+    <node id="Launching Your Facebook Advertising Campaign">
+      <data key="d0">Launching Your Facebook Advertising Campaign</data>
+      <data key="d1">concept</data>
+      <data key="d2">Launching Your Facebook Advertising Campaign is the second part of the book, focusing on creating and managing ad campaigns.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847458</data>
+      <data key="d6" />
+    </node>
+    <node id="Managing Your Facebook Advertising Campaigns">
+      <data key="d0">Managing Your Facebook Advertising Campaigns</data>
+      <data key="d1">concept</data>
+      <data key="d2">Managing Your Facebook Advertising Campaigns is the third part of the book, covering the management of ongoing ad campaigns.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847458</data>
+      <data key="d6" />
+    </node>
+    <node id="Minding Your Metrics">
+      <data key="d0">Minding Your Metrics</data>
+      <data key="d1">concept</data>
+      <data key="d2">Minding Your Metrics is the fourth part of the book, discussing the analysis and optimization of ad performance.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847458</data>
+      <data key="d6" />
+    </node>
+    <node id="The Part of Tens">
+      <data key="d0">The Part of Tens</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Part of Tens is the fifth part of the book, offering tips and techniques for effective Facebook advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847458</data>
+      <data key="d6" />
+    </node>
+    <node id="Profi ting From The Facebook Revolution">
+      <data key="d0">Profi ting From The Facebook Revolution</data>
+      <data key="d1">concept</data>
+      <data key="d2">Profi ting from the Facebook Revolution is the first chapter, discussing the benefits and strategies of Facebook advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847458</data>
+      <data key="d6" />
+    </node>
+    <node id="Setting Up Your Facebook Account">
+      <data key="d0">Setting Up Your Facebook Account</data>
+      <data key="d1">concept</data>
+      <data key="d2">Setting Up Your Facebook Account is the second chapter, guiding users through the process of creating and configuring a Facebook account for advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847458</data>
+      <data key="d6" />
+    </node>
+    <node id="Matching Your Ads To Your Marketing Strategy">
+      <data key="d0">Matching Your Ads To Your Marketing Strategy</data>
+      <data key="d1">concept</data>
+      <data key="d2">Matching Your Ads to Your Marketing Strategy is the third chapter, focusing on aligning ad content with broader marketing goals.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847459</data>
+      <data key="d6" />
+    </node>
+    <node id="Buying Strategies">
+      <data key="d0">Buying Strategies</data>
+      <data key="d1">concept</data>
+      <data key="d2">Buying Strategies is the fourth chapter, covering strategies for purchasing ad space and optimizing ad spend.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847459</data>
+      <data key="d6" />
+    </node>
+    <node id="Understanding The Types Of Ad Campaigns">
+      <data key="d0">Understanding The Types Of Ad Campaigns</data>
+      <data key="d1">concept</data>
+      <data key="d2">Understanding the Types of Ad Campaigns is the fifth chapter, explaining different types of ad campaigns available on Facebook.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847459</data>
+      <data key="d6" />
+    </node>
+    <node id="Getting Set To Implement And Measure Results">
+      <data key="d0">Getting Set To Implement And Measure Results</data>
+      <data key="d1">concept</data>
+      <data key="d2">Getting Set to Implement and Measure Results is the sixth chapter, preparing users to launch and track the performance of their ad campaigns.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847459</data>
+      <data key="d6" />
+    </node>
+    <node id="Creating Pages For Your Campaign">
+      <data key="d0">Creating Pages For Your Campaign</data>
+      <data key="d1">concept</data>
+      <data key="d2">Creating Pages for Your Campaign is the seventh chapter, guiding users through the creation of effective campaign pages.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847459</data>
+      <data key="d6" />
+    </node>
+    <node id="Testing And Optimizing Your Ad Campaign">
+      <data key="d0">Testing And Optimizing Your Ad Campaign</data>
+      <data key="d1">concept</data>
+      <data key="d2">Testing and Optimizing Your Ad Campaign is the eighth chapter, focusing on methods to test and improve ad performance.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847459</data>
+      <data key="d6" />
+    </node>
+    <node id="Tracking Conversions To Sales">
+      <data key="d0">Tracking Conversions To Sales</data>
+      <data key="d1">concept</data>
+      <data key="d2">Tracking Conversions to Sales is the ninth chapter, discussing techniques to convert ad engagement into sales.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847459</data>
+      <data key="d6" />
+    </node>
+    <node id="Checking Out The Data">
+      <data key="d0">Checking Out The Data</data>
+      <data key="d1">concept</data>
+      <data key="d2">Checking Out the Data is the tenth chapter, covering the analysis of ad performance data.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847461</data>
+      <data key="d6" />
+    </node>
+    <node id="Creating Reports">
+      <data key="d0">Creating Reports</data>
+      <data key="d1">concept</data>
+      <data key="d2">Creating Reports is the eleventh chapter, guiding users on generating reports from ad data.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847461</data>
+      <data key="d6" />
+    </node>
+    <node id="Extending The Facebook Experience">
+      <data key="d0">Extending The Facebook Experience</data>
+      <data key="d1">concept</data>
+      <data key="d2">Extending the Facebook Experience is the twelfth chapter, discussing ways to enhance user engagement on Facebook.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847461</data>
+      <data key="d6" />
+    </node>
+    <node id="Ten Facebook Page Promotion Techniques (Besides Ads)">
+      <data key="d0">Ten Facebook Page Promotion Techniques (Besides Ads)</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ten Facebook Page Promotion Techniques (Besides Ads) is the thirteenth chapter, offering alternative methods to promote Facebook pages.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847461</data>
+      <data key="d6" />
+    </node>
+    <node id="Ten Facebook Ads Beginner Mistakes">
+      <data key="d0">Ten Facebook Ads Beginner Mistakes</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ten Facebook Ads Beginner Mistakes is the fourteenth chapter, highlighting common mistakes to avoid in Facebook advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847461</data>
+      <data key="d6" />
+    </node>
+    <node id="Ten Nontraditional Facebook Ad Campaigns">
+      <data key="d0">Ten Nontraditional Facebook Ad Campaigns</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ten Nontraditional Facebook Ad Campaigns is the fifteenth chapter, exploring unique and innovative ad campaign strategies.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847461</data>
+      <data key="d6" />
+    </node>
+    <node id="Ten Resources For Facebook Advertisers">
+      <data key="d0">Ten Resources For Facebook Advertisers</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ten Resources for Facebook Advertisers is the sixteenth chapter, providing useful resources for further learning and improvement.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847461</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Business Page">
+      <data key="d0">Facebook Business Page</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Business Page is a feature on Facebook for businesses to create a presence and engage with customers.&lt;SEP&gt;Facebook Business Page is a dedicated page for businesses on Facebook used to promote products or services, engage with customers, and run advertising campaigns.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737&lt;SEP&gt;chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847462</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Insights">
+      <data key="d0">Facebook Insights</data>
+      <data key="d1">data</data>
+      <data key="d2">Facebook Insights is a tool provided by Facebook for gathering and analyzing data on ad performance and user engagement.&lt;SEP&gt;Facebook Insights is a tool that measures user engagement and interactions on a Facebook Page.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737&lt;SEP&gt;chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847462</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertising Options">
+      <data key="d0">Facebook Advertising Options</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Advertising Options are various methods and strategies available for advertising on Facebook.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847463</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Plug-Ins">
+      <data key="d0">Facebook Plug-Ins</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Facebook Plug-ins are tools that can be added to websites to integrate Facebook features and enhance user engagement.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847463</data>
+      <data key="d6" />
+    </node>
+    <node id="Social Plugins">
+      <data key="d0">Social Plugins</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Social Plugins are tools provided by Facebook to enhance social interaction and engagement on websites.&lt;SEP&gt;Social Plugins are tools provided by Facebook that can be integrated into external websites to enhance user engagement and interaction.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737&lt;SEP&gt;chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847464</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Experience">
+      <data key="d0">Facebook Experience</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Experience refers to the overall user interaction and engagement on the Facebook platform.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847464</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertisers">
+      <data key="d0">Facebook Advertisers</data>
+      <data key="d1">person</data>
+      <data key="d2">Facebook Advertisers are individuals or entities that create and manage advertising campaigns on Facebook.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847464</data>
+      <data key="d6" />
+    </node>
+    <node id="Introduction">
+      <data key="d0">Introduction</data>
+      <data key="d1">content</data>
+      <data key="d2">Introduction is the initial section of the book, providing an overview and background information on Facebook advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847464</data>
+      <data key="d6" />
+    </node>
+    <node id="About This Book">
+      <data key="d0">About This Book</data>
+      <data key="d1">content</data>
+      <data key="d2">About This Book is a section that explains the purpose and structure of the book.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847464</data>
+      <data key="d6" />
+    </node>
+    <node id="How This Book Is Organized">
+      <data key="d0">How This Book Is Organized</data>
+      <data key="d1">content</data>
+      <data key="d2">How This Book Is Organized is a section detailing the organization and layout of the book's content.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847464</data>
+      <data key="d6" />
+    </node>
+    <node id="Foolish Assumptions">
+      <data key="d0">Foolish Assumptions</data>
+      <data key="d1">content</data>
+      <data key="d2">Foolish Assumptions is a section addressing common misconceptions and assumptions about the book's content.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847464</data>
+      <data key="d6" />
+    </node>
+    <node id="Conventions Used In This Book">
+      <data key="d0">Conventions Used In This Book</data>
+      <data key="d1">content</data>
+      <data key="d2">Conventions Used in This Book is a section explaining the typographical and stylistic conventions used in the book.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847465</data>
+      <data key="d6" />
+    </node>
+    <node id="Icons Used In This Book">
+      <data key="d0">Icons Used In This Book</data>
+      <data key="d1">content</data>
+      <data key="d2">Icons Used in This Book is a section describing the icons used in the book and their meanings.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847465</data>
+      <data key="d6" />
+    </node>
+    <node id="Where To Go From Here">
+      <data key="d0">Where To Go From Here</data>
+      <data key="d1">content</data>
+      <data key="d2">Where to Go from Here is a section providing guidance on next steps and further resources for readers.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847465</data>
+      <data key="d6" />
+    </node>
+    <node id="Introducing Facebook Advertising">
+      <data key="d0">Introducing Facebook Advertising</data>
+      <data key="d1">concept</data>
+      <data key="d2">Introducing Facebook Advertising is a section providing an introduction to Facebook advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847466</data>
+      <data key="d6" />
+    </node>
+    <node id="Finding Your Way Around Facebook Advertising">
+      <data key="d0">Finding Your Way Around Facebook Advertising</data>
+      <data key="d1">concept</data>
+      <data key="d2">Finding Your Way around Facebook Advertising is a section helping users navigate Facebook advertising features.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847466</data>
+      <data key="d6" />
+    </node>
+    <node id="Seeing The Familiar Aspects Of Facebook Advertising">
+      <data key="d0">Seeing The Familiar Aspects Of Facebook Advertising</data>
+      <data key="d1">concept</data>
+      <data key="d2">Seeing the Familiar Aspects of Facebook Advertising is a section highlighting familiar features of Facebook advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847466</data>
+      <data key="d6" />
+    </node>
+    <node id="Understanding Unique Aspects Of Facebook Advertising">
+      <data key="d0">Understanding Unique Aspects Of Facebook Advertising</data>
+      <data key="d1">concept</data>
+      <data key="d2">Understanding Unique Aspects of Facebook Advertising is a section explaining unique features of Facebook advertising.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847466</data>
+      <data key="d6" />
+    </node>
+    <node id="Direct And Relationship Marketing Aspects Of Facebook Ads">
+      <data key="d0">Direct And Relationship Marketing Aspects Of Facebook Ads</data>
+      <data key="d1">concept</data>
+      <data key="d2">Direct and Relationship Marketing Aspects of Facebook Ads is a section discussing direct and relationship marketing strategies using Facebook ads.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847467</data>
+      <data key="d6" />
+    </node>
+    <node id="Creating A New Facebook Business Page">
+      <data key="d0">Creating A New Facebook Business Page</data>
+      <data key="d1">concept</data>
+      <data key="d2">Creating a New Facebook Business Page is a section guiding users through the process of creating a new business page on Facebook.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847467</data>
+      <data key="d6" />
+    </node>
+    <node id="Creating Your First Ad Campaign">
+      <data key="d0">Creating Your First Ad Campaign</data>
+      <data key="d1">concept</data>
+      <data key="d2">Creating Your First Ad Campaign is a section guiding users through the creation of their first ad campaign on Facebook.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847467</data>
+      <data key="d6" />
+    </node>
+    <node id="Elements Of A Great Ad Campaign">
+      <data key="d0">Elements Of A Great Ad Campaign</data>
+      <data key="d1">concept</data>
+      <data key="d2">Elements of a Great Ad Campaign is a section detailing the components of an effective ad campaign.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847467</data>
+      <data key="d6" />
+    </node>
+    <node id="Preparing Your Facebook Business Page For Your Ad Campaigns">
+      <data key="d0">Preparing Your Facebook Business Page For Your Ad Campaigns</data>
+      <data key="d1">concept</data>
+      <data key="d2">Preparing Your Facebook Business Page for Your Ad Campaigns is a section on optimizing a business page for ad campaigns.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847467</data>
+      <data key="d6" />
+    </node>
+    <node id="Verifying A Lead">
+      <data key="d0">Verifying A Lead</data>
+      <data key="d1">concept</data>
+      <data key="d2">Verifying a Lead is a section on the process of verifying potential leads generated from ad campaigns.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847467</data>
+      <data key="d6" />
+    </node>
+    <node id="Calling On A Lead">
+      <data key="d0">Calling On A Lead</data>
+      <data key="d1">concept</data>
+      <data key="d2">Calling on a Lead is a section on the process of following up with potential leads.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847467</data>
+      <data key="d6" />
+    </node>
+    <node id="Tracking Leads In A CRM System">
+      <data key="d0">Tracking Leads In A CRM System</data>
+      <data key="d1">concept</data>
+      <data key="d2">Tracking Leads in a CRM System is a section on managing and tracking leads using a CRM system.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847468</data>
+      <data key="d6" />
+    </node>
+    <node id="Converting A Lead To A Sale">
+      <data key="d0">Converting A Lead To A Sale</data>
+      <data key="d1">concept</data>
+      <data key="d2">Converting a Lead to a Sale is a section on strategies to convert leads into sales.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847468</data>
+      <data key="d6" />
+    </node>
+    <node id="Tracking The ROI">
+      <data key="d0">Tracking The ROI</data>
+      <data key="d1">concept</data>
+      <data key="d2">Tracking the ROI is a section on measuring the return on investment from ad campaigns.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847469</data>
+      <data key="d6" />
+    </node>
+    <node id="Tracking Your Conversions">
+      <data key="d0">Tracking Your Conversions</data>
+      <data key="d1">concept</data>
+      <data key="d2">Tracking Your Conversions is a section on monitoring and analyzing conversion data.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847469</data>
+      <data key="d6" />
+    </node>
+    <node id="Metrics To Track">
+      <data key="d0">Metrics To Track</data>
+      <data key="d1">concept</data>
+      <data key="d2">Metrics to Track is a section on key performance metrics to monitor.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847469</data>
+      <data key="d6" />
+    </node>
+    <node id="Optimizing Conversions">
+      <data key="d0">Optimizing Conversions</data>
+      <data key="d1">concept</data>
+      <data key="d2">Optimizing Conversions involves improving the process of turning leads into sales through various strategies and adjustments.&lt;SEP&gt;Optimizing Conversions is a section on improving conversion rates.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737&lt;SEP&gt;chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847469</data>
+      <data key="d6" />
+    </node>
+    <node id="Advertising Campaigns">
+      <data key="d0">Advertising Campaigns</data>
+      <data key="d1">concept</data>
+      <data key="d2">Advertising Campaigns is a section providing an overview of creating and managing advertising campaigns on Facebook.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847469</data>
+      <data key="d6" />
+    </node>
+    <node id="Introduction To Facebook Reports">
+      <data key="d0">Introduction To Facebook Reports</data>
+      <data key="d1">concept</data>
+      <data key="d2">Introduction to Facebook Reports is a section introducing the reporting features available on Facebook.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847469</data>
+      <data key="d6" />
+    </node>
+    <node id="Generating Reports">
+      <data key="d0">Generating Reports</data>
+      <data key="d1">concept</data>
+      <data key="d2">Generating Reports is a section on creating and generating reports from ad data.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847470</data>
+      <data key="d6" />
+    </node>
+    <node id="Creating An Advertising Performance Report">
+      <data key="d0">Creating An Advertising Performance Report</data>
+      <data key="d1">concept</data>
+      <data key="d2">Creating an Advertising Performance Report is a section on generating performance reports for ad campaigns.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847470</data>
+      <data key="d6" />
+    </node>
+    <node id="Creating A Responder Demographics Report">
+      <data key="d0">Creating A Responder Demographics Report</data>
+      <data key="d1">concept</data>
+      <data key="d2">Creating a Responder Demographics Report is a section on generating demographic reports of ad responders.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847471</data>
+      <data key="d6" />
+    </node>
+    <node id="Creating A Responder Profiles Report">
+      <data key="d0">Creating A Responder Profiles Report</data>
+      <data key="d1">concept</data>
+      <data key="d2">Creating a Responder Profiles Report is a section on generating detailed profiles of ad responders.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847471</data>
+      <data key="d6" />
+    </node>
+    <node id="Gaining Insights From Facebook Insights">
+      <data key="d0">Gaining Insights From Facebook Insights</data>
+      <data key="d1">concept</data>
+      <data key="d2">Gaining Insights from Facebook Insights is a section on utilizing Facebook Insights for data analysis.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847471</data>
+      <data key="d6" />
+    </node>
+    <node id="Tracking Interactions">
+      <data key="d0">Tracking Interactions</data>
+      <data key="d1">concept</data>
+      <data key="d2">Tracking Interactions is a section on monitoring user interactions with ads.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847471</data>
+      <data key="d6" />
+    </node>
+    <node id="Measuring User Engagement">
+      <data key="d0">Measuring User Engagement</data>
+      <data key="d1">concept</data>
+      <data key="d2">Measuring User Engagement is a section on assessing how users engage with ads.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847471</data>
+      <data key="d6" />
+    </node>
+    <node id="Breaking Out Demographics">
+      <data key="d0">Breaking Out Demographics</data>
+      <data key="d1">concept</data>
+      <data key="d2">Breaking Out Demographics is a section on analyzing demographic data of ad responders.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847471</data>
+      <data key="d6" />
+    </node>
+    <node id="Exporting Data">
+      <data key="d0">Exporting Data</data>
+      <data key="d1">concept</data>
+      <data key="d2">Exporting Data is a section on exporting ad data for further analysis.</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847471</data>
+      <data key="d6" />
+    </node>
+    <node id="Customer Data">
+      <data key="d0">Customer Data</data>
+      <data key="d1">data</data>
+      <data key="d2">Customer Data refers to information collected from users through forms on Facebook Pages.&lt;SEP&gt;Customer Data refers to information collected from customers through forms, interactions, and other touchpoints, used to analyze behavior and improve marketing strategies.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847473</data>
+      <data key="d6" />
+    </node>
+    <node id="Advertising Campaign">
+      <data key="d0">Advertising Campaign</data>
+      <data key="d1">concept</data>
+      <data key="d2">Advertising Campaign involves the process of creating, testing, optimizing, and tracking ads on Facebook.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847473</data>
+      <data key="d6" />
+    </node>
+    <node id="Advertising Performance Report">
+      <data key="d0">Advertising Performance Report</data>
+      <data key="d1">data</data>
+      <data key="d2">Advertising Performance Report is a detailed analysis of how well advertisements are performing on Facebook.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847473</data>
+      <data key="d6" />
+    </node>
+    <node id="Responder Demographics Report">
+      <data key="d0">Responder Demographics Report</data>
+      <data key="d1">data</data>
+      <data key="d2">Responder Demographics Report provides insights into the demographic characteristics of users who respond to Facebook ads.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847473</data>
+      <data key="d6" />
+    </node>
+    <node id="User Page Views">
+      <data key="d0">User Page Views</data>
+      <data key="d1">data</data>
+      <data key="d2">User Page Views refers to the metrics tracking how many times a Facebook Page has been viewed by users.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847473</data>
+      <data key="d6" />
+    </node>
+    <node id="Media Consumption">
+      <data key="d0">Media Consumption</data>
+      <data key="d1">concept</data>
+      <data key="d2">Media Consumption involves the tracking and analysis of how users interact with media content on Facebook.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847475</data>
+      <data key="d6" />
+    </node>
+    <node id="Story and Discussion Feedback">
+      <data key="d0">Story and Discussion Feedback</data>
+      <data key="d1">data</data>
+      <data key="d2">Story and Discussion Feedback includes user responses and interactions related to posts and discussions on Facebook.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847475</data>
+      <data key="d6" />
+    </node>
+    <node id="Page Activity">
+      <data key="d0">Page Activity</data>
+      <data key="d1">concept</data>
+      <data key="d2">Page Activity encompasses various user interactions such as mentions, reviews, discussions, videos, and photos on a Facebook Page.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847475</data>
+      <data key="d6" />
+    </node>
+    <node id="Conversion Process">
+      <data key="d0">Conversion Process</data>
+      <data key="d1">method</data>
+      <data key="d2">Conversion Process involves the steps taken to turn a lead into a sale on Facebook.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847475</data>
+      <data key="d6" />
+    </node>
+    <node id="Lead">
+      <data key="d0">Lead</data>
+      <data key="d1">concept</data>
+      <data key="d2">Lead refers to potential customers who have shown interest in a product or service through their interactions on Facebook.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847475</data>
+      <data key="d6" />
+    </node>
+    <node id="CRM System">
+      <data key="d0">CRM System</data>
+      <data key="d1">artifact</data>
+      <data key="d2">CRM System is a tool used to track and manage leads and customer interactions.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847476</data>
+      <data key="d6" />
+    </node>
+    <node id="ROI Tracking">
+      <data key="d0">ROI Tracking</data>
+      <data key="d1">method</data>
+      <data key="d2">ROI Tracking involves measuring the return on investment from advertising campaigns on Facebook.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847476</data>
+      <data key="d6" />
+    </node>
+    <node id="Ads Manager">
+      <data key="d0">Ads Manager</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Ads Manager is a tool provided by Facebook for managing and analyzing advertising campaigns.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847476</data>
+      <data key="d6" />
+    </node>
+    <node id="Campaign Notifications">
+      <data key="d0">Campaign Notifications</data>
+      <data key="d1">data</data>
+      <data key="d2">Campaign Notifications are alerts and updates related to the performance and status of advertising campaigns.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847476</data>
+      <data key="d6" />
+    </node>
+    <node id="Lifetime Statistics">
+      <data key="d0">Lifetime Statistics</data>
+      <data key="d1">data</data>
+      <data key="d2">Lifetime Statistics provide a comprehensive overview of the performance of ads over their entire duration.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847477</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Reports">
+      <data key="d0">Facebook Reports</data>
+      <data key="d1">data</data>
+      <data key="d2">Facebook Reports are detailed analyses and summaries of various metrics and performance indicators related to Facebook advertising.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847477</data>
+      <data key="d6" />
+    </node>
+    <node id="Responder Profiles Report">
+      <data key="d0">Responder Profiles Report</data>
+      <data key="d1">data</data>
+      <data key="d2">Responder Profiles Report offers detailed information about users who have responded to ads, including their profiles and interactions.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847477</data>
+      <data key="d6" />
+    </node>
+    <node id="User Engagement">
+      <data key="d0">User Engagement</data>
+      <data key="d1">concept</data>
+      <data key="d2">User Engagement measures how users interact with content on Facebook, including likes, shares, comments, and other forms of participation.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847477</data>
+      <data key="d6" />
+    </node>
+    <node id="Dashboard">
+      <data key="d0">Dashboard</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Dashboard is a tool that aggregates and visualizes key metrics and data points for easy analysis and decision-making.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847477</data>
+      <data key="d6" />
+    </node>
+    <node id="Like Button">
+      <data key="d0">Like Button</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Like Button is a social plugin that allows users to like content on external websites, which can then be shared on Facebook.&lt;SEP&gt;The Like Button is a feature on Facebook that allows users to express appreciation for content.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847478</data>
+      <data key="d6" />
+    </node>
+    <node id="Recommendations">
+      <data key="d0">Recommendations</data>
+      <data key="d1">concept</data>
+      <data key="d2">Recommendations are suggestions provided by Facebook based on user interactions and preferences.&lt;SEP&gt;Recommendations on Facebook suggest pages, groups, or other content to users based on their activity.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847478</data>
+      <data key="d6" />
+    </node>
+    <node id="Login (with Faces)">
+      <data key="d0">Login (with Faces)</data>
+      <data key="d1">method</data>
+      <data key="d2">Login (with Faces) is a social plugin that allows users to log in to external websites using their Facebook credentials.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847478</data>
+      <data key="d6" />
+    </node>
+    <node id="Comments">
+      <data key="d0">Comments</data>
+      <data key="d1">data</data>
+      <data key="d2">Comments are user responses and interactions on posts and content, both on Facebook and external websites.&lt;SEP&gt;Comments are user responses to posts on Facebook, enabling interaction and discussion.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847478</data>
+      <data key="d6" />
+    </node>
+    <node id="Activity Feed">
+      <data key="d0">Activity Feed</data>
+      <data key="d1">data</data>
+      <data key="d2">Activity Feed is a social plugin that displays recent activities and interactions from users on a website.&lt;SEP&gt;Activity Feed displays recent activities of a user's friends and followed pages on Facebook.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847479</data>
+      <data key="d6" />
+    </node>
+    <node id="Like Box">
+      <data key="d0">Like Box</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Like Box is a social plugin that allows users to like a Facebook Page directly from an external website.&lt;SEP&gt;The Like Box is a plugin that enables users to like a Facebook Page directly from an external website.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847479</data>
+      <data key="d6" />
+    </node>
+    <node id="Friendpile">
+      <data key="d0">Friendpile</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Friendpile is a social plugin that shows the profile pictures of users who have liked a page or content.&lt;SEP&gt;Friendpile is a Facebook plugin that displays the profile pictures of friends who have interacted with a page or content.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847479</data>
+      <data key="d6" />
+    </node>
+    <node id="Live Stream">
+      <data key="d0">Live Stream</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Live Stream is a social plugin that allows real-time interaction and updates from users on a website.&lt;SEP&gt;Live Stream is a real-time broadcasting feature on Facebook for sharing live video content.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158&lt;SEP&gt;chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847479</data>
+      <data key="d6" />
+    </node>
+    <node id="Third-Party Tools">
+      <data key="d0">Third-Party Tools</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Third-Party Tools are external applications and services that can be integrated with Facebook for enhanced functionality and analysis.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847479</data>
+      <data key="d6" />
+    </node>
+    <node id="Social Interaction">
+      <data key="d0">Social Interaction</data>
+      <data key="d1">concept</data>
+      <data key="d2">Social Interaction refers to the ways users engage with content and each other on social media platforms.</data>
+      <data key="d3">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847479</data>
+      <data key="d6" />
+    </node>
+    <node id="Ad Campaign">
+      <data key="d0">Ad Campaign</data>
+      <data key="d1">event</data>
+      <data key="d2">An Ad Campaign on Facebook involves creating, managing, and optimizing advertisements to achieve specific marketing objectives such as brand building, driving sales, and community formation.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847480</data>
+      <data key="d6" />
+    </node>
+    <node id="Marketing Strategy">
+      <data key="d0">Marketing Strategy</data>
+      <data key="d1">concept</data>
+      <data key="d2">Marketing Strategy involves planning and executing advertising efforts to meet business goals, including selecting target audiences, setting objectives, and choosing appropriate ad types.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847480</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Audience">
+      <data key="d0">Facebook Audience</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Audience refers to the group of users on Facebook targeted by advertisements, segmented based on various criteria such as demographics, interests, and behaviors.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847481</data>
+      <data key="d6" />
+    </node>
+    <node id="Local Campaigns">
+      <data key="d0">Local Campaigns</data>
+      <data key="d1">event</data>
+      <data key="d2">Local Campaigns are advertising efforts on Facebook focused on a specific geographic area, aiming to reach and engage users within that locality.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847481</data>
+      <data key="d6" />
+    </node>
+    <node id="Regional Campaigns">
+      <data key="d0">Regional Campaigns</data>
+      <data key="d1">event</data>
+      <data key="d2">Regional Campaigns are advertising efforts on Facebook focused on a broader geographic region, targeting users across multiple localities within that region.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847481</data>
+      <data key="d6" />
+    </node>
+    <node id="National And International Campaigns">
+      <data key="d0">National And International Campaigns</data>
+      <data key="d1">event</data>
+      <data key="d2">National and International Campaigns are advertising efforts on Facebook that span across countries or globally, aiming to reach a wide and diverse audience.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847481</data>
+      <data key="d6" />
+    </node>
+    <node id="Marketing Objectives">
+      <data key="d0">Marketing Objectives</data>
+      <data key="d1">concept</data>
+      <data key="d2">Marketing Objectives are specific goals that a business aims to achieve through its advertising efforts on Facebook, such as increasing brand awareness, driving sales, and building a community.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847481</data>
+      <data key="d6" />
+    </node>
+    <node id="Brand Building">
+      <data key="d0">Brand Building</data>
+      <data key="d1">concept</data>
+      <data key="d2">Brand Building involves creating and enhancing the perception of a brand among consumers through consistent messaging, engaging content, and strategic advertising.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847481</data>
+      <data key="d6" />
+    </node>
+    <node id="Driving Sales">
+      <data key="d0">Driving Sales</data>
+      <data key="d1">concept</data>
+      <data key="d2">Driving Sales refers to the efforts made to increase the sales of products or services through targeted advertising, promotions, and effective marketing strategies.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847482</data>
+      <data key="d6" />
+    </node>
+    <node id="Community Formation">
+      <data key="d0">Community Formation</data>
+      <data key="d1">concept</data>
+      <data key="d2">Community Formation involves building a group of engaged followers or fans on Facebook who interact with the brand, share content, and provide feedback.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847483</data>
+      <data key="d6" />
+    </node>
+    <node id="Feedback Response">
+      <data key="d0">Feedback Response</data>
+      <data key="d1">concept</data>
+      <data key="d2">Feedback Response involves actively listening to and addressing feedback from customers or followers on Facebook, which helps in improving products, services, and customer satisfaction.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847483</data>
+      <data key="d6" />
+    </node>
+    <node id="Payment Model">
+      <data key="d0">Payment Model</data>
+      <data key="d1">concept</data>
+      <data key="d2">Payment Model refers to the method of charging for advertisements on Facebook, including options like cost per impression and cost per click, which determine how advertisers pay for their ads.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847483</data>
+      <data key="d6" />
+    </node>
+    <node id="Cost Per Impression">
+      <data key="d0">Cost Per Impression</data>
+      <data key="d1">concept</data>
+      <data key="d2">Cost Per Impression is a payment model where advertisers pay for each time their ad is displayed to a user on Facebook, regardless of whether the ad is clicked.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847483</data>
+      <data key="d6" />
+    </node>
+    <node id="Cost Per Click">
+      <data key="d0">Cost Per Click</data>
+      <data key="d1">concept</data>
+      <data key="d2">Cost Per Click is a payment model where advertisers pay each time a user clicks on their ad, driving traffic to their website or landing page.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847483</data>
+      <data key="d6" />
+    </node>
+    <node id="Campaign Budget">
+      <data key="d0">Campaign Budget</data>
+      <data key="d1">data</data>
+      <data key="d2">Campaign Budget refers to the financial plan and tracking of expenses for an advertising campaign on Facebook, ensuring that spending aligns with the allocated budget.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847483</data>
+      <data key="d6" />
+    </node>
+    <node id="Budget Report">
+      <data key="d0">Budget Report</data>
+      <data key="d1">data</data>
+      <data key="d2">Budget Report is a detailed document that outlines the financial performance and expenditures of an ad campaign on Facebook, helping advertisers understand their spending and ROI.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847483</data>
+      <data key="d6" />
+    </node>
+    <node id="Ad Types">
+      <data key="d0">Ad Types</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ad Types refer to the different formats and styles of advertisements available on Facebook, including image ads, video ads, carousel ads, and more, each designed for specific marketing goals.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847484</data>
+      <data key="d6" />
+    </node>
+    <node id="Social Attributes">
+      <data key="d0">Social Attributes</data>
+      <data key="d1">concept</data>
+      <data key="d2">Social Attributes in ads refer to elements that enhance the social appeal and engagement of advertisements on Facebook, such as likes, shares, and comments.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847485</data>
+      <data key="d6" />
+    </node>
+    <node id="Images In Ads">
+      <data key="d0">Images In Ads</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Images in Ads are visual elements used to attract attention and convey messages effectively in Facebook advertisements, playing a crucial role in user engagement.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847485</data>
+      <data key="d6" />
+    </node>
+    <node id="Concurrent Campaigns">
+      <data key="d0">Concurrent Campaigns</data>
+      <data key="d1">event</data>
+      <data key="d2">Concurrent Campaigns refer to running multiple advertising campaigns simultaneously on Facebook, allowing businesses to target different audiences or objectives at the same time.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847485</data>
+      <data key="d6" />
+    </node>
+    <node id="Internal And External Websites">
+      <data key="d0">Internal And External Websites</data>
+      <data key="d1">location</data>
+      <data key="d2">Internal and External Websites are online platforms targeted by advertising campaigns on Facebook, including both pages within Facebook and external websites.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847485</data>
+      <data key="d6" />
+    </node>
+    <node id="Ad Scheduling">
+      <data key="d0">Ad Scheduling</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ad Scheduling involves planning the timing and duration of advertisement displays on Facebook, ensuring that ads are shown at optimal times for maximum engagement.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847485</data>
+      <data key="d6" />
+    </node>
+    <node id="Performance Objectives">
+      <data key="d0">Performance Objectives</data>
+      <data key="d1">concept</data>
+      <data key="d2">Performance Objectives are specific goals set to measure the success of advertising campaigns on Facebook, such as click-through rates, conversion rates, and engagement metrics.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847485</data>
+      <data key="d6" />
+    </node>
+    <node id="Conversions">
+      <data key="d0">Conversions</data>
+      <data key="d1">concept</data>
+      <data key="d2">Conversions refer to the desired actions taken by users on Facebook, such as making a purchase, signing up for a service, or filling out a form, indicating the effectiveness of an ad campaign.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847485</data>
+      <data key="d6" />
+    </node>
+    <node id="Result Analysis">
+      <data key="d0">Result Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Result Analysis involves evaluating the outcomes of advertising campaigns on Facebook to assess their effectiveness, using metrics and data to inform future strategies.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847488</data>
+      <data key="d6" />
+    </node>
+    <node id="Alternative Advertising Options">
+      <data key="d0">Alternative Advertising Options</data>
+      <data key="d1">concept</data>
+      <data key="d2">Alternative Advertising Options refer to different methods and platforms for advertising beyond traditional Facebook ads, including in-app ads, sponsored content, and cross-promotions.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847489</data>
+      <data key="d6" />
+    </node>
+    <node id="FarmVille">
+      <data key="d0">FarmVille</data>
+      <data key="d1">content</data>
+      <data key="d2">FarmVille is a popular social game application on Facebook where users can engage in farming simulations, and businesses can place advertisements within the game.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847489</data>
+      <data key="d6" />
+    </node>
+    <node id="Mafia Wars">
+      <data key="d0">Mafia Wars</data>
+      <data key="d1">content</data>
+      <data key="d2">Mafia Wars is a popular social game application on Facebook where users can engage in virtual mafia activities, and businesses can place advertisements within the game.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847489</data>
+      <data key="d6" />
+    </node>
+    <node id="External Networks">
+      <data key="d0">External Networks</data>
+      <data key="d1">location</data>
+      <data key="d2">External Networks refer to platforms and websites outside of Facebook used for cross-promotion, helping businesses reach a wider audience through various online channels.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847489</data>
+      <data key="d6" />
+    </node>
+    <node id="Blogs">
+      <data key="d0">Blogs</data>
+      <data key="d1">content</data>
+      <data key="d2">Blogs are online platforms used for sharing information, promoting content, and engaging with audiences, often utilized for cross-promotion and increasing visibility.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847489</data>
+      <data key="d6" />
+    </node>
+    <node id="E-Mail Blasts">
+      <data key="d0">E-Mail Blasts</data>
+      <data key="d1">method</data>
+      <data key="d2">E-Mail Blasts involve sending promotional emails to a large group of recipients, used as a method for cross-promotion and reaching a broader audience with marketing messages.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847489</data>
+      <data key="d6" />
+    </node>
+    <node id="Landing Page">
+      <data key="d0">Landing Page</data>
+      <data key="d1">location</data>
+      <data key="d2">Landing Page is the web page where users are directed after clicking on an ad, designed to provide relevant information and encourage specific actions such as purchases or sign-ups.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847489</data>
+      <data key="d6" />
+    </node>
+    <node id="Internal Facebook Landing Page">
+      <data key="d0">Internal Facebook Landing Page</data>
+      <data key="d1">location</data>
+      <data key="d2">Internal Facebook Landing Page is a landing page hosted within Facebook, providing a seamless user experience and keeping users within the Facebook ecosystem.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847490</data>
+      <data key="d6" />
+    </node>
+    <node id="External Website Landing Page">
+      <data key="d0">External Website Landing Page</data>
+      <data key="d1">location</data>
+      <data key="d2">External Website Landing Page is a landing page hosted on an external website, directing users to a business's own site for more comprehensive information or actions.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847491</data>
+      <data key="d6" />
+    </node>
+    <node id="Custom Tab">
+      <data key="d0">Custom Tab</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Custom Tab is a personalized section on a Facebook Page created for specific campaigns, enhancing user engagement and providing tailored content.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847491</data>
+      <data key="d6" />
+    </node>
+    <node id="Forms">
+      <data key="d0">Forms</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Forms are tools used to capture customer data and information on Facebook, aiding in lead generation and customer insights.</data>
+      <data key="d3">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847491</data>
+      <data key="d6" />
+    </node>
+    <node id="Part I: Getting Started with Facebook Advertising">
+      <data key="d0">Part I: Getting Started with Facebook Advertising</data>
+      <data key="d1">content</data>
+      <data key="d2">Part I: Getting Started with Facebook Advertising is the first section of the book, covering the basics of Facebook and how to start running advertisements.</data>
+      <data key="d3">chunk-aca9c55f807e42982283ddc4ea7207b2</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847491</data>
+      <data key="d6" />
+    </node>
+    <node id="Login (With Faces)">
+      <data key="d0">Login (With Faces)</data>
+      <data key="d1">method</data>
+      <data key="d2">Login (with Faces) is a Facebook feature that shows profile pictures of friends who have recently logged into the platform.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847491</data>
+      <data key="d6" />
+    </node>
+    <node id="Promote Your Page Offsite">
+      <data key="d0">Promote Your Page Offsite</data>
+      <data key="d1">method</data>
+      <data key="d2">Promote Your Page Offsite involves advertising a Facebook Page through external websites or platforms.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847491</data>
+      <data key="d6" />
+    </node>
+    <node id="Compelling Or Unique Content">
+      <data key="d0">Compelling Or Unique Content</data>
+      <data key="d1">content</data>
+      <data key="d2">Compelling or Unique Content refers to engaging and distinctive material posted on a Facebook Page to attract and retain users.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847491</data>
+      <data key="d6" />
+    </node>
+    <node id="Clear Focus On Pages Purpose">
+      <data key="d0">Clear Focus On Pages Purpose</data>
+      <data key="d1">concept</data>
+      <data key="d2">Having a Clear Focus on Your Page’s Purpose means defining and maintaining a specific goal or theme for a Facebook Page.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847492</data>
+      <data key="d6" />
+    </node>
+    <node id="Easy To Share Content">
+      <data key="d0">Easy To Share Content</data>
+      <data key="d1">content</data>
+      <data key="d2">Easy to Share Content is material designed to be readily shareable by users on Facebook, increasing its reach and engagement.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847493</data>
+      <data key="d6" />
+    </node>
+    <node id="User Collaboration">
+      <data key="d0">User Collaboration</data>
+      <data key="d1">concept</data>
+      <data key="d2">User Collaboration involves engaging users to interact and contribute to the content or activities on a Facebook Page.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847493</data>
+      <data key="d6" />
+    </node>
+    <node id="Exclusive Content">
+      <data key="d0">Exclusive Content</data>
+      <data key="d1">content</data>
+      <data key="d2">Exclusive Content refers to special material available only to users who engage with a Facebook Page.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847493</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook App">
+      <data key="d0">Facebook App</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A Facebook App is a software application integrated with Facebook to provide additional functionalities or interactive experiences.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847493</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Groups">
+      <data key="d0">Facebook Groups</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Groups are communities formed on Facebook where users with similar interests can interact and share content.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847493</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Marketplace Listing">
+      <data key="d0">Facebook Marketplace Listing</data>
+      <data key="d1">content</data>
+      <data key="d2">A Facebook Marketplace Listing is an advertisement for buying or selling items within the Facebook Marketplace.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847493</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertising Guidelines">
+      <data key="d0">Facebook Advertising Guidelines</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Advertising Guidelines are rules and best practices provided by Facebook for creating and managing advertisements on the platform.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847493</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Developer Team">
+      <data key="d0">Facebook Developer Team</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Facebook Developer Team is a group within Facebook that creates and maintains tools and resources for developers.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847494</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Ads Page">
+      <data key="d0">Facebook Ads Page</data>
+      <data key="d1">content</data>
+      <data key="d2">The Facebook Ads Page is a resource page on Facebook that provides information and updates about advertising on the platform.</data>
+      <data key="d3">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847495</data>
+      <data key="d6" />
+    </node>
+    <node id="Mark Zuckerberg">
+      <data key="d0">Mark Zuckerberg</data>
+      <data key="d1">person</data>
+      <data key="d2">Mark Zuckerberg is a Harvard student who created Facebook in 2004.</data>
+      <data key="d3">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847495</data>
+      <data key="d6" />
+    </node>
+    <node id="Microsoft">
+      <data key="d0">Microsoft</data>
+      <data key="d1">organization</data>
+      <data key="d2">Microsoft is a technology company that made an equity investment in Facebook in 2007.</data>
+      <data key="d3">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847495</data>
+      <data key="d6" />
+    </node>
+    <node id="Fan Pages">
+      <data key="d0">Fan Pages</data>
+      <data key="d1">concept</data>
+      <data key="d2">Fan Pages were an initial effort by Facebook to allow users to follow businesses and public figures.</data>
+      <data key="d3">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847495</data>
+      <data key="d6" />
+    </node>
+    <node id="Business Pages">
+      <data key="d0">Business Pages</data>
+      <data key="d1">concept</data>
+      <data key="d2">Business Pages are a feature on Facebook that allows users to follow the activities of a business through their News Feed.</data>
+      <data key="d3">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847495</data>
+      <data key="d6" />
+    </node>
+    <node id="News Feed">
+      <data key="d0">News Feed</data>
+      <data key="d1">concept</data>
+      <data key="d2">News Feed is a feature on Facebook where users can see updates and activities from businesses and friends they follow.</data>
+      <data key="d3">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847495</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertisements">
+      <data key="d0">Facebook Advertisements</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Advertisements are ads that can be designed by businesses or individuals, with targeting options and engagement features.</data>
+      <data key="d3">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847495</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertisement Campaigns">
+      <data key="d0">Facebook Advertisement Campaigns</data>
+      <data key="d1">concept</data>
+      <data key="d2">Facebook Advertisement Campaigns involve establishing a presence on Facebook, designing ad campaigns, implementing strategies, targeting specific users, and understanding ad results.</data>
+      <data key="d3">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847496</data>
+      <data key="d6" />
+    </node>
+    <node id="The Part Of Tens">
+      <data key="d0">The Part Of Tens</data>
+      <data key="d3">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d2">The Part of Tens is the fifth part of Facebook Advertising For Dummies, offering tips and techniques for effective Facebook advertising.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">document_upload</data>
+      <data key="d5">1773847498</data>
+      <data key="d6" />
+    </node>
+    <edge source="Facebook Advertising For Dummies" target="Facebook">
+      <data key="d7">3.0</data>
+      <data key="d8">Facebook Advertising For Dummies provides guidance on advertising on the Facebook platform.&lt;SEP&gt;Facebook Advertising For Dummies provides guidance on advertising on Facebook.&lt;SEP&gt;Facebook Advertising For Dummies provides a guide on how to use Facebook for advertising.</data>
+      <data key="d9">advertising,advertising guide,guidebook,platform usage,social media</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f&lt;SEP&gt;chunk-be9764e38bc4c8f1a3f1d669471a6dc4&lt;SEP&gt;chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847516</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Revolution">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the Facebook Revolution and its implications for advertising.</data>
+      <data key="d9">event,guidebook</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847391</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="NASCAR">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies uses NASCAR as an example of where advertisements are commonly seen.</data>
+      <data key="d9">advertising example,guidebook</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847394</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="World Wide Web">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the evolution of advertising on the World Wide Web.</data>
+      <data key="d9">advertising evolution,guidebook</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847395</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Microsoft Excel">
+      <data key="d7">1.0</data>
+      <data key="d8">The book mentions the use of Microsoft Excel for building spreadsheets and entering data.</data>
+      <data key="d9">data management,spreadsheet</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847396</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Safari">
+      <data key="d7">1.0</data>
+      <data key="d8">The book assumes the reader knows how to use web browsers like Safari.</data>
+      <data key="d9">internet access,web browsing</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847396</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Internet Explorer">
+      <data key="d7">1.0</data>
+      <data key="d8">The book assumes the reader knows how to use web browsers like Internet Explorer.</data>
+      <data key="d9">internet access,web browsing</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847397</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Firefox">
+      <data key="d7">1.0</data>
+      <data key="d8">The book assumes the reader knows how to use web browsers like Firefox.</data>
+      <data key="d9">internet access,web browsing</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847397</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Page">
+      <data key="d7">1.0</data>
+      <data key="d8">The book explains the concept of a Facebook Page as a presence for businesses or brands on Facebook.</data>
+      <data key="d9">advertising guide,social media presence</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847397</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Tip Icon">
+      <data key="d7">1.0</data>
+      <data key="d8">The book uses the Tip Icon to provide recommendations and handy tips to the readers.</data>
+      <data key="d9">reader guidance,recommendations</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847398</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Warning Icon">
+      <data key="d7">1.0</data>
+      <data key="d8">The book uses the Warning Icon to alert readers to potential dangers or troubles.</data>
+      <data key="d9">reader guidance,warnings</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847398</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Technical Icon">
+      <data key="d7">1.0</data>
+      <data key="d8">The book uses the Technical Icon to provide technical information or trivia to the readers.</data>
+      <data key="d9">reader guidance,technical information</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847398</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Getting Started With Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Getting Started with Facebook Advertising is the first part of Facebook Advertising For Dummies, introducing the basics of Facebook advertising.</data>
+      <data key="d9">book structure,introductory content</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847497</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Launching Your Facebook Advertising Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Launching Your Facebook Advertising Campaign is the second part of Facebook Advertising For Dummies, focusing on creating and managing ad campaigns.</data>
+      <data key="d9">book structure,campaign creation</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847497</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Managing Your Facebook Advertising Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Managing Your Facebook Advertising Campaigns is the third part of Facebook Advertising For Dummies, covering the management of ongoing ad campaigns.</data>
+      <data key="d9">book structure,campaign management</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847497</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Minding Your Metrics">
+      <data key="d7">1.0</data>
+      <data key="d8">Minding Your Metrics is the fourth part of Facebook Advertising For Dummies, discussing the analysis and optimization of ad performance.</data>
+      <data key="d9">book structure,performance analysis</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847498</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="The Part Of Tens">
+      <data key="d7">1.0</data>
+      <data key="d8">The Part of Tens is the fifth part of Facebook Advertising For Dummies, offering tips and techniques for effective Facebook advertising.</data>
+      <data key="d9">book structure,tips and techniques</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847498</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Profi ting From The Facebook Revolution">
+      <data key="d7">1.0</data>
+      <data key="d8">Profi ting from the Facebook Revolution is the first chapter of Facebook Advertising For Dummies, discussing the benefits and strategies of Facebook advertising.</data>
+      <data key="d9">advertising benefits,book chapter</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847498</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Setting Up Your Facebook Account">
+      <data key="d7">1.0</data>
+      <data key="d8">Setting Up Your Facebook Account is the second chapter of Facebook Advertising For Dummies, guiding users through the process of creating and configuring a Facebook account for advertising.</data>
+      <data key="d9">account setup,book chapter</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Matching Your Ads To Your Marketing Strategy">
+      <data key="d7">1.0</data>
+      <data key="d8">Matching Your Ads to Your Marketing Strategy is the third chapter of Facebook Advertising For Dummies, focusing on aligning ad content with broader marketing goals.</data>
+      <data key="d9">ad alignment,book chapter</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Buying Strategies">
+      <data key="d7">1.0</data>
+      <data key="d8">Buying Strategies is the fourth chapter of Facebook Advertising For Dummies, covering strategies for purchasing ad space and optimizing ad spend.</data>
+      <data key="d9">ad purchasing,book chapter</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Understanding The Types Of Ad Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Understanding the Types of Ad Campaigns is the fifth chapter of Facebook Advertising For Dummies, explaining different types of ad campaigns available on Facebook.</data>
+      <data key="d9">book chapter,campaign types</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Getting Set To Implement And Measure Results">
+      <data key="d7">1.0</data>
+      <data key="d8">Getting Set to Implement and Measure Results is the sixth chapter of Facebook Advertising For Dummies, preparing users to launch and track the performance of their ad campaigns.</data>
+      <data key="d9">book chapter,campaign launch</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Creating Pages For Your Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Creating Pages for Your Campaign is the seventh chapter of Facebook Advertising For Dummies, guiding users through the creation of effective campaign pages.</data>
+      <data key="d9">book chapter,page creation</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Testing And Optimizing Your Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Testing and Optimizing Your Ad Campaign is the eighth chapter of Facebook Advertising For Dummies, focusing on methods to test and improve ad performance.</data>
+      <data key="d9">book chapter,performance testing</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Tracking Conversions To Sales">
+      <data key="d7">1.0</data>
+      <data key="d8">Tracking Conversions to Sales is the ninth chapter of Facebook Advertising For Dummies, discussing techniques to convert ad engagement into sales.</data>
+      <data key="d9">book chapter,sales conversion</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Checking Out The Data">
+      <data key="d7">1.0</data>
+      <data key="d8">Checking Out the Data is the tenth chapter of Facebook Advertising For Dummies, covering the analysis of ad performance data.</data>
+      <data key="d9">book chapter,data analysis</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Creating Reports">
+      <data key="d7">1.0</data>
+      <data key="d8">Creating Reports is the eleventh chapter of Facebook Advertising For Dummies, guiding users on generating reports from ad data.</data>
+      <data key="d9">book chapter,report generation</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Extending The Facebook Experience">
+      <data key="d7">1.0</data>
+      <data key="d8">Extending the Facebook Experience is the twelfth chapter of Facebook Advertising For Dummies, discussing ways to enhance user engagement on Facebook.</data>
+      <data key="d9">book chapter,user engagement</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Ten Facebook Page Promotion Techniques (Besides Ads)">
+      <data key="d7">1.0</data>
+      <data key="d8">Ten Facebook Page Promotion Techniques (Besides Ads) is the thirteenth chapter of Facebook Advertising For Dummies, offering alternative methods to promote Facebook pages.</data>
+      <data key="d9">book chapter,promotion techniques</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Ten Facebook Ads Beginner Mistakes">
+      <data key="d7">1.0</data>
+      <data key="d8">Ten Facebook Ads Beginner Mistakes is the fourteenth chapter of Facebook Advertising For Dummies, highlighting common mistakes to avoid in Facebook advertising.</data>
+      <data key="d9">book chapter,common mistakes</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Ten Nontraditional Facebook Ad Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Ten Nontraditional Facebook Ad Campaigns is the fifteenth chapter of Facebook Advertising For Dummies, exploring unique and innovative ad campaign strategies.</data>
+      <data key="d9">book chapter,innovative campaigns</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Ten Resources For Facebook Advertisers">
+      <data key="d7">1.0</data>
+      <data key="d8">Ten Resources for Facebook Advertisers is the sixteenth chapter of Facebook Advertising For Dummies, providing useful resources for further learning and improvement.</data>
+      <data key="d9">advertising resources,book chapter</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Introduction">
+      <data key="d7">1.0</data>
+      <data key="d8">Introduction is the initial section of Facebook Advertising For Dummies, providing an overview and background information on Facebook advertising.</data>
+      <data key="d9">book section,overview</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="About This Book">
+      <data key="d7">1.0</data>
+      <data key="d8">About This Book is a section in Facebook Advertising For Dummies that explains the purpose and structure of the book.</data>
+      <data key="d9">book section,purpose</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="How This Book Is Organized">
+      <data key="d7">1.0</data>
+      <data key="d8">How This Book Is Organized is a section in Facebook Advertising For Dummies detailing the organization and layout of the book's content.</data>
+      <data key="d9">book section,layout</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Foolish Assumptions">
+      <data key="d7">1.0</data>
+      <data key="d8">Foolish Assumptions is a section in Facebook Advertising For Dummies addressing common misconceptions and assumptions about the book's content.</data>
+      <data key="d9">book section,misconceptions</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Conventions Used In This Book">
+      <data key="d7">1.0</data>
+      <data key="d8">Conventions Used in This Book is a section in Facebook Advertising For Dummies explaining the typographical and stylistic conventions used in the book.</data>
+      <data key="d9">book section,typographical conventions</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Icons Used In This Book">
+      <data key="d7">1.0</data>
+      <data key="d8">Icons Used in This Book is a section in Facebook Advertising For Dummies describing the icons used in the book and their meanings.</data>
+      <data key="d9">book section,icon meanings</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847507</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Where To Go From Here">
+      <data key="d7">1.0</data>
+      <data key="d8">Where to Go from Here is a section in Facebook Advertising For Dummies providing guidance on next steps and further resources for readers.</data>
+      <data key="d9">book section,next steps</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847507</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="FBML">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies explains how to use FBML to create custom tabs on Facebook Pages.</data>
+      <data key="d9">custom tabs,guidebook content</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847510</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Business Page">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies provides comprehensive guidance on setting up and managing a Facebook Business Page for effective advertising.</data>
+      <data key="d9">guide,setup</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847517</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Ads">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Advertising For Dummies provides guidance on designing, testing, running, and maintaining Facebook Ads.&lt;SEP&gt;Facebook Advertising For Dummies serves as a guide and reference for building and managing Facebook Ads.</data>
+      <data key="d9">guidance,guide,instruction,reference</data>
+      <data key="d10">chunk-aca9c55f807e42982283ddc4ea7207b2&lt;SEP&gt;chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847527</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Part I: Getting Started with Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Part I: Getting Started with Facebook Advertising is a section within the book Facebook Advertising For Dummies.</data>
+      <data key="d9">content,section</data>
+      <data key="d10">chunk-aca9c55f807e42982283ddc4ea7207b2</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847528</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Like Button">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of the Like Button as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847529</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Recommendations">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Recommendations as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847529</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Login (With Faces)">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Login (with Faces) as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847530</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Comments">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Comments as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847530</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Activity Feed">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Activity Feed as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847530</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Like Box">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Like Box as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Friendpile">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Friendpile as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Live Stream">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Live Stream as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Promote Your Page Offsite">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Promote Your Page Offsite as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847531</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Compelling Or Unique Content">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Compelling or Unique Content as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Clear Focus On Pages Purpose">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Clear Focus on Page’s Purpose as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Easy To Share Content">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Easy to Share Content as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="User Collaboration">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of User Collaboration as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Exclusive Content">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Exclusive Content as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook App">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Facebook App as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Groups">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Facebook Groups as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Marketplace Listing">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Facebook Marketplace Listing as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847534</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Advertising Guidelines">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Facebook Advertising Guidelines as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847534</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Developer Team">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Facebook Developer Team as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Ads Page">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies discusses the use of Facebook Ads Page as part of advertising techniques to enhance user engagement.</data>
+      <data key="d9">advertising techniques,user engagement</data>
+      <data key="d10">chunk-dd443a8885c565a62504504538b8dda8</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising For Dummies" target="Facebook Advertisement Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising For Dummies provides guidance on all aspects of Facebook Advertisement Campaigns, including establishing a presence, designing ads, and targeting users.</data>
+      <data key="d9">guidance,instruction</data>
+      <data key="d10">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Page">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook allows businesses to create Facebook Pages for a free business presence.</data>
+      <data key="d9">business presence,platform feature</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847391</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Advertising">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook provides a platform for advertising known as Facebook Advertising.&lt;SEP&gt;Facebook Advertising refers to the methods and strategies used to promote products and services on the Facebook platform.</data>
+      <data key="d9">advertising method,advertising methods,platform,platform feature</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f&lt;SEP&gt;chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Ads">
+      <data key="d7">2.0</data>
+      <data key="d8">Facebook Ads are a form of advertising on the Facebook platform.&lt;SEP&gt;Facebook Ads are advertisements created and displayed on the Facebook platform to reach specific audiences.</data>
+      <data key="d9">advertising,platform,platform feature,targeted advertising</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f&lt;SEP&gt;chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Google">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook and Google are both platforms that display ads, with Google being a search engine.</data>
+      <data key="d9">advertising,search engine</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847394</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Yahoo!">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook and Yahoo! are both platforms that display ads, with Yahoo! being a search engine.</data>
+      <data key="d9">advertising,search engine</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847395</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Social Networking Space">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook is a leading platform in the social networking space where people communicate and stay connected.</data>
+      <data key="d9">communication,platform</data>
+      <data key="d10">chunk-5d806f5866af4d4741003d3fe8233a8f</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847396</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Business Page">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Business Page is a feature on Facebook for businesses to create a presence and engage with customers.</data>
+      <data key="d9">business presence,platform feature</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Insights">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Insights is a tool provided by Facebook for gathering and analyzing data on ad performance and user engagement.</data>
+      <data key="d9">data analysis,platform feature</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Advertising Options">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising Options are various methods and strategies available for advertising on Facebook.</data>
+      <data key="d9">advertising strategies,platform feature</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Plug-Ins">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Plug-ins are tools that can be added to websites to integrate Facebook features and enhance user engagement.</data>
+      <data key="d9">integration tools,platform feature</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Social Plugins">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins are tools provided by Facebook to enhance social interaction and engagement on websites.</data>
+      <data key="d9">platform feature,social interaction</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Experience">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Experience refers to the overall user interaction and engagement on the Facebook platform.</data>
+      <data key="d9">platform feature,user interaction</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Advertisers">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertisers are individuals or entities that create and manage advertising campaigns on Facebook.</data>
+      <data key="d9">advertising management,platform users</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Social Interaction">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook facilitates Social Interaction through various features and tools.</data>
+      <data key="d9">platform features,user engagement</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847517</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Part I: Getting Started with Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Part I: Getting Started with Facebook Advertising covers the basics and introduction to Facebook.</data>
+      <data key="d9">basics,introduction</data>
+      <data key="d10">chunk-aca9c55f807e42982283ddc4ea7207b2</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847528</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Mark Zuckerberg">
+      <data key="d7">1.0</data>
+      <data key="d8">Mark Zuckerberg created Facebook in 2004.</data>
+      <data key="d9">creation,development</data>
+      <data key="d10">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Microsoft">
+      <data key="d7">1.0</data>
+      <data key="d8">Microsoft made an equity investment in Facebook in 2007.</data>
+      <data key="d9">investment,partnership</data>
+      <data key="d10">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Fan Pages">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook initially offered Fan Pages to allow users to follow businesses and public figures.</data>
+      <data key="d9">feature development,user engagement</data>
+      <data key="d10">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Business Pages">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook developed Business Pages to allow users to follow business activities through their News Feed.</data>
+      <data key="d9">feature development,user engagement</data>
+      <data key="d10">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847534</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Facebook Advertisement Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook provides a platform for running advertisement campaigns with various targeting and engagement options.</data>
+      <data key="d9">advertising,platform</data>
+      <data key="d10">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Page" target="Customer Data">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Pages capture customer data through forms.</data>
+      <data key="d9">data collection,user information</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847511</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Page" target="FBML">
+      <data key="d7">1.0</data>
+      <data key="d8">FBML is used to create and customize tabs on Facebook Pages.</data>
+      <data key="d9">customization,integration</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847512</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Page" target="User Page Views">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Pages track User Page Views as a metric of user interactions.</data>
+      <data key="d9">metrics tracking,user interactions</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847512</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Page" target="Media Consumption">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Pages analyze Media Consumption to understand how users interact with media content.</data>
+      <data key="d9">content analysis,user interaction</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847513</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Page" target="Story and Discussion Feedback">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Pages collect Story and Discussion Feedback to track user responses and interactions.</data>
+      <data key="d9">interaction tracking,user responses</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847514</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Page" target="Page Activity">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Pages measure Page Activity, including mentions, reviews, discussions, videos, and photos.</data>
+      <data key="d9">interaction metrics,user engagement</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847515</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Ads" target="Part I: Getting Started with Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Part I: Getting Started with Facebook Advertising includes information on how to start running Facebook Ads.</data>
+      <data key="d9">advertisement,setup</data>
+      <data key="d10">chunk-aca9c55f807e42982283ddc4ea7207b2</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847529</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Ads" target="News Feed">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Ads can appear in the News Feed and allow users to interact directly with the ads.</data>
+      <data key="d9">integration,user interaction</data>
+      <data key="d10">chunk-33bd53c7e23c00189b573a6aef755e00</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Application Development For Dummies" target="Jesse Stay">
+      <data key="d7">1.0</data>
+      <data key="d8">Jesse Stay is the author of Facebook Application Development For Dummies.</data>
+      <data key="d9">authorship,book writing</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847395</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Application Development For Dummies" target="FBML">
+      <data key="d7">1.0</data>
+      <data key="d8">The book provides information on FBML and its potential replacement by iFrames.</data>
+      <data key="d9">markup language,technical reference</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847396</data>
+      <data key="d13" />
+    </edge>
+    <edge source="FBML" target="HTML">
+      <data key="d7">1.0</data>
+      <data key="d8">FBML is similar to HTML, both being markup languages used in web development.</data>
+      <data key="d9">markup language,similarity</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847396</data>
+      <data key="d13" />
+    </edge>
+    <edge source="FBML" target="iFrames">
+      <data key="d7">1.0</data>
+      <data key="d8">iFrames are mentioned as a potential replacement for FBML.</data>
+      <data key="d9">technology replacement,web development</data>
+      <data key="d10">chunk-be9764e38bc4c8f1a3f1d669471a6dc4</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847397</data>
+      <data key="d13" />
+    </edge>
+    <edge source="FBML" target="Custom Tab">
+      <data key="d7">1.0</data>
+      <data key="d8">FBML is used to create and customize tabs on Facebook Pages, allowing for personalized and engaging user experiences.</data>
+      <data key="d9">creation,customization</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847527</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Profi ting From The Facebook Revolution" target="Introducing Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Introducing Facebook Advertising is a section in the chapter Profiting from the Facebook Revolution, providing an introduction to Facebook advertising.</data>
+      <data key="d9">chapter section,introduction</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Profi ting From The Facebook Revolution" target="Finding Your Way Around Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Finding Your Way around Facebook Advertising is a section in the chapter Profiting from the Facebook Revolution, helping users navigate Facebook advertising features.</data>
+      <data key="d9">chapter section,navigation</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Profi ting From The Facebook Revolution" target="Seeing The Familiar Aspects Of Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Seeing the Familiar Aspects of Facebook Advertising is a section in the chapter Profiting from the Facebook Revolution, highlighting familiar features of Facebook advertising.</data>
+      <data key="d9">chapter section,familiar features</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Profi ting From The Facebook Revolution" target="Understanding Unique Aspects Of Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Understanding Unique Aspects of Facebook Advertising is a section in the chapter Profiting from the Facebook Revolution, explaining unique features of Facebook advertising.</data>
+      <data key="d9">chapter section,unique features</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Profi ting From The Facebook Revolution" target="Direct And Relationship Marketing Aspects Of Facebook Ads">
+      <data key="d7">1.0</data>
+      <data key="d8">Direct and Relationship Marketing Aspects of Facebook Ads is a section in the chapter Profiting from the Facebook Revolution, discussing direct and relationship marketing strategies using Facebook ads.</data>
+      <data key="d9">chapter section,marketing strategies</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Setting Up Your Facebook Account" target="Creating A New Facebook Business Page">
+      <data key="d7">1.0</data>
+      <data key="d8">Creating a New Facebook Business Page is a section in the chapter Setting Up Your Facebook Account, guiding users through the process of creating a new business page on Facebook.</data>
+      <data key="d9">business page creation,chapter section</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Setting Up Your Facebook Account" target="Creating Your First Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Creating Your First Ad Campaign is a section in the chapter Setting Up Your Facebook Account, guiding users through the creation of their first ad campaign on Facebook.</data>
+      <data key="d9">ad campaign creation,chapter section</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Setting Up Your Facebook Account" target="Elements Of A Great Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Elements of a Great Ad Campaign is a section in the chapter Setting Up Your Facebook Account, detailing the components of an effective ad campaign.</data>
+      <data key="d9">ad components,chapter section</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847507</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Setting Up Your Facebook Account" target="Preparing Your Facebook Business Page For Your Ad Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Preparing Your Facebook Business Page for Your Ad Campaigns is a section in the chapter Setting Up Your Facebook Account, on optimizing a business page for ad campaigns.</data>
+      <data key="d9">chapter section,page optimization</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847507</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tracking Conversions To Sales" target="Verifying A Lead">
+      <data key="d7">1.0</data>
+      <data key="d8">Verifying a Lead is a section in the chapter Tracking Conversions to Sales, on the process of verifying potential leads generated from ad campaigns.</data>
+      <data key="d9">chapter section,lead verification</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tracking Conversions To Sales" target="Calling On A Lead">
+      <data key="d7">1.0</data>
+      <data key="d8">Calling on a Lead is a section in the chapter Tracking Conversions to Sales, on the process of following up with potential leads.</data>
+      <data key="d9">chapter section,lead follow-up</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847507</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tracking Conversions To Sales" target="Tracking Leads In A CRM System">
+      <data key="d7">1.0</data>
+      <data key="d8">Tracking Leads in a CRM System is a section in the chapter Tracking Conversions to Sales, on managing and tracking leads using a CRM system.</data>
+      <data key="d9">chapter section,lead management</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847508</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tracking Conversions To Sales" target="Converting A Lead To A Sale">
+      <data key="d7">1.0</data>
+      <data key="d8">Converting a Lead to a Sale is a section in the chapter Tracking Conversions to Sales, on strategies to convert leads into sales.</data>
+      <data key="d9">chapter section,sales conversion</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847508</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tracking Conversions To Sales" target="Tracking The ROI">
+      <data key="d7">1.0</data>
+      <data key="d8">Tracking the ROI is a section in the chapter Tracking Conversions to Sales, on measuring the return on investment from ad campaigns.</data>
+      <data key="d9">chapter section,investment return</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847509</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tracking Conversions To Sales" target="Tracking Your Conversions">
+      <data key="d7">1.0</data>
+      <data key="d8">Tracking Your Conversions is a section in the chapter Tracking Conversions to Sales, on monitoring and analyzing conversion data.</data>
+      <data key="d9">chapter section,conversion data</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847509</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tracking Conversions To Sales" target="Metrics To Track">
+      <data key="d7">1.0</data>
+      <data key="d8">Metrics to Track is a section in the chapter Tracking Conversions to Sales, on key performance metrics to monitor.</data>
+      <data key="d9">chapter section,performance metrics</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847510</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tracking Conversions To Sales" target="Optimizing Conversions">
+      <data key="d7">1.0</data>
+      <data key="d8">Optimizing Conversions is a section in the chapter Tracking Conversions to Sales, on improving conversion rates.</data>
+      <data key="d9">chapter section,conversion improvement</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847510</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Introduction To Facebook Reports">
+      <data key="d7">1.0</data>
+      <data key="d8">Introduction to Facebook Reports is a section in the chapter Creating Reports, introducing the reporting features available on Facebook.</data>
+      <data key="d9">chapter section,report introduction</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847508</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Generating Reports">
+      <data key="d7">1.0</data>
+      <data key="d8">Generating Reports is a section in the chapter Creating Reports, on creating and generating reports from ad data.</data>
+      <data key="d9">chapter section,report generation</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847509</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Creating An Advertising Performance Report">
+      <data key="d7">1.0</data>
+      <data key="d8">Creating an Advertising Performance Report is a section in the chapter Creating Reports, on generating performance reports for ad campaigns.</data>
+      <data key="d9">chapter section,performance reports</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847509</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Creating A Responder Demographics Report">
+      <data key="d7">1.0</data>
+      <data key="d8">Creating a Responder Demographics Report is a section in the chapter Creating Reports, on generating demographic reports of ad responders.</data>
+      <data key="d9">chapter section,demographic reports</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847509</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Creating A Responder Profiles Report">
+      <data key="d7">1.0</data>
+      <data key="d8">Creating a Responder Profiles Report is a section in the chapter Creating Reports, on generating detailed profiles of ad responders.</data>
+      <data key="d9">chapter section,responder profiles</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847510</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Gaining Insights From Facebook Insights">
+      <data key="d7">1.0</data>
+      <data key="d8">Gaining Insights from Facebook Insights is a section in the chapter Creating Reports, on utilizing Facebook Insights for data analysis.</data>
+      <data key="d9">chapter section,data analysis</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847510</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Tracking Interactions">
+      <data key="d7">1.0</data>
+      <data key="d8">Tracking Interactions is a section in the chapter Creating Reports, on monitoring user interactions with ads.</data>
+      <data key="d9">chapter section,user interactions</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847511</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Measuring User Engagement">
+      <data key="d7">1.0</data>
+      <data key="d8">Measuring User Engagement is a section in the chapter Creating Reports, on assessing how users engage with ads.</data>
+      <data key="d9">chapter section,user engagement</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847512</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Breaking Out Demographics">
+      <data key="d7">1.0</data>
+      <data key="d8">Breaking Out Demographics is a section in the chapter Creating Reports, on analyzing demographic data of ad responders.</data>
+      <data key="d9">chapter section,demographic analysis</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847512</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Creating Reports" target="Exporting Data">
+      <data key="d7">1.0</data>
+      <data key="d8">Exporting Data is a section in the chapter Creating Reports, on exporting ad data for further analysis.</data>
+      <data key="d9">chapter section,data export</data>
+      <data key="d10">chunk-052efb579f52b31e3117bae0de19f737</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847513</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Business Page" target="Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">A well-prepared Facebook Business Page is essential for running and managing effective ad campaigns.</data>
+      <data key="d9">management,preparation</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847518</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Insights" target="User Engagement">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Insights measure User Engagement to track how users interact with content.</data>
+      <data key="d9">engagement metrics,user interaction</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847514</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Insights" target="Dashboard">
+      <data key="d7">1.0</data>
+      <data key="d8">Dashboards aggregate and visualize data from Facebook Insights for easy analysis.</data>
+      <data key="d9">data visualization,metric analysis</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847515</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Social Plugins" target="Like Button">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins include the Like Button for user interaction and content sharing.</data>
+      <data key="d9">content sharing,user interaction</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847515</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Social Plugins" target="Recommendations">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins provide Recommendations based on user interactions.</data>
+      <data key="d9">content interaction,user suggestions</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847516</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Social Plugins" target="Login (with Faces)">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins include Login (with Faces) for user authentication on external websites.</data>
+      <data key="d9">integration,user authentication</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847516</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Social Plugins" target="Comments">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins include Comments for user responses and interaction tracking.</data>
+      <data key="d9">interaction tracking,user responses</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847517</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Social Plugins" target="Activity Feed">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins include Activity Feed for displaying recent user activities.</data>
+      <data key="d9">real-time updates,user activity</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847517</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Social Plugins" target="Like Box">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins include Like Box for user interaction and page liking.</data>
+      <data key="d9">page liking,user interaction</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847518</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Social Plugins" target="Friendpile">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins include Friendpile for showing profile pictures of users who have liked a page.</data>
+      <data key="d9">social proof,user visualization</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847519</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Social Plugins" target="Live Stream">
+      <data key="d7">1.0</data>
+      <data key="d8">Social Plugins include Live Stream for real-time interaction and updates from users.</data>
+      <data key="d9">real-time interaction,user updates</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847519</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Optimizing Conversions" target="Conversion Process">
+      <data key="d7">1.0</data>
+      <data key="d8">Optimizing Conversions aims to improve the Conversion Process for better sales outcomes.</data>
+      <data key="d9">performance improvement,sales conversion</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847517</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Customer Data" target="Forms">
+      <data key="d7">1.0</data>
+      <data key="d8">Forms are used to capture and collect customer data, aiding in lead generation and customer insights for targeted marketing.</data>
+      <data key="d9">collection,tool</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847527</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Customer Data" target="Ad Campaign">
+      <data key="d7">1.0</data>
+      <data key="d8">Capturing customer data is important for analyzing and improving ad campaigns, providing insights into user behavior and preferences.</data>
+      <data key="d9">analysis,collection</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847530</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Advertising Campaign" target="Advertising Performance Report">
+      <data key="d7">1.0</data>
+      <data key="d8">Advertising Campaigns are analyzed using Advertising Performance Reports.</data>
+      <data key="d9">analysis,performance tracking</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847511</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Advertising Campaign" target="Responder Demographics Report">
+      <data key="d7">1.0</data>
+      <data key="d8">Advertising Campaigns use Responder Demographics Reports to gain insights into the demographic characteristics of users.</data>
+      <data key="d9">demographic analysis,user insights</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847512</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Advertising Campaign" target="ROI Tracking">
+      <data key="d7">1.0</data>
+      <data key="d8">Advertising Campaigns use ROI Tracking to measure the return on investment.</data>
+      <data key="d9">financial analysis,performance measurement</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847513</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Advertising Performance Report" target="Facebook Reports">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Reports include Advertising Performance Reports for detailed analysis.</data>
+      <data key="d9">performance analysis,report generation</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847514</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Responder Demographics Report" target="Facebook Reports">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Reports include Responder Demographics Reports for insights into user demographics.</data>
+      <data key="d9">demographic insights,user analysis</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847515</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Conversion Process" target="Lead">
+      <data key="d7">1.0</data>
+      <data key="d8">The Conversion Process involves turning leads into sales.</data>
+      <data key="d9">customer acquisition,sales conversion</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847512</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Lead" target="CRM System">
+      <data key="d7">1.0</data>
+      <data key="d8">Leads are tracked and managed using CRM Systems.</data>
+      <data key="d9">customer tracking,lead management</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847513</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ads Manager" target="Campaign Notifications">
+      <data key="d7">1.0</data>
+      <data key="d8">Ads Manager provides Campaign Notifications to alert users about the performance and status of their ads.</data>
+      <data key="d9">ad management,performance alerts</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847513</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ads Manager" target="Lifetime Statistics">
+      <data key="d7">1.0</data>
+      <data key="d8">Ads Manager analyzes Lifetime Statistics to provide a comprehensive overview of ad performance.</data>
+      <data key="d9">data analysis,performance overview</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847514</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Reports" target="Responder Profiles Report">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Reports include Responder Profiles Reports for detailed user profiling.</data>
+      <data key="d9">interaction analysis,user profiling</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847516</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dashboard" target="Third-Party Tools">
+      <data key="d7">1.0</data>
+      <data key="d8">Dashboards can integrate Third-Party Tools for enhanced data analysis and visualization.</data>
+      <data key="d9">data integration,enhanced analysis</data>
+      <data key="d10">chunk-236f7fc1d490873532a9ab989334c158</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847517</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Marketing Strategy">
+      <data key="d7">1.0</data>
+      <data key="d8">Ad campaigns should be carefully aligned with the overall marketing strategy and objectives to ensure consistency and effectiveness.</data>
+      <data key="d9">alignment,objectives</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847519</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Local Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Ad campaigns can be localized to target specific geographic areas, tailoring content to local audiences.</data>
+      <data key="d9">scope,targeting</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847519</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Regional Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Ad campaigns can be regionalized to target broader geographic regions, reaching users across multiple localities.</data>
+      <data key="d9">scope,targeting</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847520</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="National And International Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Ad campaigns can span nationally or internationally to reach a wider and more diverse audience, expanding market reach.</data>
+      <data key="d9">scope,targeting</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847523</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Payment Model">
+      <data key="d7">1.0</data>
+      <data key="d8">Choosing an appropriate payment model is essential for managing the cost and budget of an ad campaign, ensuring financial efficiency.</data>
+      <data key="d9">budgeting,cost</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847524</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Campaign Budget">
+      <data key="d7">1.0</data>
+      <data key="d8">Tracking the campaign budget is crucial for the financial management of an ad campaign, ensuring spending aligns with the allocated budget.</data>
+      <data key="d9">financial management,tracking</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847525</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Ad Types">
+      <data key="d7">1.0</data>
+      <data key="d8">Ad campaigns can utilize different types of ads to attract and engage the audience, each format serving specific marketing goals.</data>
+      <data key="d9">format,style</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847525</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Concurrent Campaigns">
+      <data key="d7">1.0</data>
+      <data key="d8">Running multiple concurrent campaigns requires careful management and execution, ensuring each campaign is optimized for its target audience.</data>
+      <data key="d9">execution,management</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847525</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Ad Scheduling">
+      <data key="d7">1.0</data>
+      <data key="d8">Scheduling ads involves planning the timing and duration of their display, ensuring optimal visibility and engagement.</data>
+      <data key="d9">planning,timing</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847526</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Performance Objectives">
+      <data key="d7">1.0</data>
+      <data key="d8">Setting performance objectives helps in measuring the success of ad campaigns, providing clear benchmarks for evaluation.</data>
+      <data key="d9">goals,measurement</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847527</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Result Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Analyzing results is essential for evaluating the effectiveness of ad campaigns, informing future strategies and improvements.</data>
+      <data key="d9">effectiveness,evaluation</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847527</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Alternative Advertising Options">
+      <data key="d7">1.0</data>
+      <data key="d8">Exploring alternative advertising options can enhance the reach and effectiveness of ad campaigns, utilizing various methods and platforms.</data>
+      <data key="d9">methods,platforms</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847528</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="External Networks">
+      <data key="d7">1.0</data>
+      <data key="d8">Cross-promoting via external networks can extend the reach of ad campaigns, utilizing multiple online channels for broader visibility.</data>
+      <data key="d9">promotion,reach</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847528</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Landing Page">
+      <data key="d7">1.0</data>
+      <data key="d8">Selecting an appropriate landing page is crucial for the user experience and campaign success, directing users to relevant and engaging content.</data>
+      <data key="d9">destination,user experience</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847529</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign" target="Custom Tab">
+      <data key="d7">1.0</data>
+      <data key="d8">Creating a custom tab can enhance user engagement and campaign effectiveness, providing tailored and interactive content.</data>
+      <data key="d9">engagement,personalization</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847529</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Marketing Strategy" target="Facebook Audience">
+      <data key="d7">1.0</data>
+      <data key="d8">An effective marketing strategy involves selecting and targeting specific segments of the Facebook audience to maximize reach and engagement.</data>
+      <data key="d9">segmentation,targeting</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847518</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Marketing Objectives" target="Brand Building">
+      <data key="d7">1.0</data>
+      <data key="d8">Building and enhancing the brand is a primary marketing objective, achieved through consistent messaging and strategic advertising.</data>
+      <data key="d9">goal,strategy</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847519</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Marketing Objectives" target="Driving Sales">
+      <data key="d7">1.0</data>
+      <data key="d8">Driving sales and increasing revenue is a key marketing objective, accomplished through targeted advertising and promotions.</data>
+      <data key="d9">goal,strategy</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847519</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Marketing Objectives" target="Community Formation">
+      <data key="d7">1.0</data>
+      <data key="d8">Forming a community or fan base is an important marketing objective, fostering engagement and loyalty among followers.</data>
+      <data key="d9">goal,strategy</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847520</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Marketing Objectives" target="Feedback Response">
+      <data key="d7">1.0</data>
+      <data key="d8">Listening and responding to feedback is crucial for achieving marketing objectives, improving customer satisfaction and product offerings.</data>
+      <data key="d9">goal,strategy</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847523</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Payment Model" target="Cost Per Impression">
+      <data key="d7">1.0</data>
+      <data key="d8">Cost per impression is one of the payment models used in ad campaigns, charging advertisers for each ad display.</data>
+      <data key="d9">method,type</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847520</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Payment Model" target="Cost Per Click">
+      <data key="d7">1.0</data>
+      <data key="d8">Cost per click is another payment model used in ad campaigns, charging advertisers for each ad click.</data>
+      <data key="d9">method,type</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847523</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Campaign Budget" target="Budget Report">
+      <data key="d7">1.0</data>
+      <data key="d8">Running a budget report helps in understanding and analyzing the financial performance of the campaign, providing insights into spending and ROI.</data>
+      <data key="d9">analysis,reporting</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847523</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Types" target="Social Attributes">
+      <data key="d7">1.0</data>
+      <data key="d8">Ads with social attributes enhance engagement and appeal to the audience, fostering interaction and sharing.</data>
+      <data key="d9">appeal,engagement</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847523</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Types" target="Images In Ads">
+      <data key="d7">1.0</data>
+      <data key="d8">Images in ads are crucial for attracting attention and conveying messages effectively, playing a key role in user engagement.</data>
+      <data key="d9">attraction,visual appeal</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847524</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Concurrent Campaigns" target="Internal And External Websites">
+      <data key="d7">1.0</data>
+      <data key="d8">Concurrent campaigns can target both internal Facebook pages and external websites, expanding reach and engagement.</data>
+      <data key="d9">reach,targeting</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847524</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Performance Objectives" target="Conversions">
+      <data key="d7">1.0</data>
+      <data key="d8">Conversions are key actions taken by users that indicate the success of performance objectives, such as purchases or sign-ups.</data>
+      <data key="d9">action,measurement</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847525</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alternative Advertising Options" target="FarmVille">
+      <data key="d7">1.0</data>
+      <data key="d8">Advertising within applications like FarmVille can increase user engagement, leveraging the popularity of social games.</data>
+      <data key="d9">engagement,platform</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847525</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Alternative Advertising Options" target="Mafia Wars">
+      <data key="d7">1.0</data>
+      <data key="d8">Advertising within applications like Mafia Wars can also enhance user engagement, tapping into the game's active user base.</data>
+      <data key="d9">engagement,platform</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847525</data>
+      <data key="d13" />
+    </edge>
+    <edge source="External Networks" target="Blogs">
+      <data key="d7">1.0</data>
+      <data key="d8">Blogs are used for cross-promoting content and increasing visibility, sharing information and engaging with audiences.</data>
+      <data key="d9">content,promotion</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847525</data>
+      <data key="d13" />
+    </edge>
+    <edge source="External Networks" target="E-Mail Blasts">
+      <data key="d7">1.0</data>
+      <data key="d8">E-mail blasts are used for cross-promoting and reaching a larger audience with marketing messages, expanding outreach efforts.</data>
+      <data key="d9">outreach,promotion</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847526</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Landing Page" target="Internal Facebook Landing Page">
+      <data key="d7">1.0</data>
+      <data key="d8">An internal Facebook landing page is one type of landing page used in ad campaigns, providing a seamless user experience within Facebook.</data>
+      <data key="d9">location,type</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847526</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Landing Page" target="External Website Landing Page">
+      <data key="d7">1.0</data>
+      <data key="d8">An external website landing page is another type of landing page used in ad campaigns, directing users to a business's own site for more comprehensive information.</data>
+      <data key="d9">location,type</data>
+      <data key="d10">chunk-4bcbd94b15dddbc237c66d05280b132c</data>
+      <data key="d11">document_upload</data>
+      <data key="d12">1773847527</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

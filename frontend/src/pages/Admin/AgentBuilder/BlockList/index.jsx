@@ -21,6 +21,8 @@ import LLMInstructionNode from "../nodes/LLMInstructionNode";
 import FinishNode from "../nodes/FinishNode";
 import WebScrapingNode from "../nodes/WebScrapingNode";
 import FlowInfoNode from "../nodes/FlowInfoNode";
+import DataTransformNode from "../nodes/DataTransformNode";
+import ConditionalNode from "../nodes/ConditionalNode";
 
 const BLOCK_TYPES = {
   FLOW_INFO: "flowInfo",
@@ -31,6 +33,8 @@ const BLOCK_TYPES = {
   // CODE: "code", // Temporarily disabled
   LLM_INSTRUCTION: "llmInstruction",
   WEB_SCRAPING: "webScraping",
+  DATA_TRANSFORM: "dataTransform",
+  CONDITIONAL: "conditional",
   FINISH: "finish",
 };
 
@@ -135,6 +139,31 @@ const BLOCK_INFO = {
     },
     getSummary: (config) => config.url || "No URL specified",
   },
+  [BLOCK_TYPES.DATA_TRANSFORM]: {
+    label: "Data Transformation",
+    icon: <BracketsCurly className="w-5 h-5 text-theme-text-primary" />,
+    description: "Transform data using JavaScript code",
+    defaultConfig: {
+      data: "",
+      transformCode: "return data;",
+      resultVariable: "",
+      directOutput: false,
+    },
+    getSummary: (config) => config.resultVariable ? `Transform to ${config.resultVariable}` : "Javascript transform",
+  },
+  [BLOCK_TYPES.CONDITIONAL]: {
+    label: "Conditional Logic",
+    icon: <Flag className="w-5 h-5 text-theme-text-primary" />,
+    description: "Branching flow logic via conditions",
+    defaultConfig: {
+      value1: "",
+      operator: "==",
+      value2: "",
+      actionIfTrue: "continue",
+      actionIfFalse: "halt",
+    },
+    getSummary: (config) => `If ${config.value1} ${config.operator} ${config.value2}`,
+  },
   [BLOCK_TYPES.FINISH]: {
     label: "Flow Complete",
     icon: <Flag className="w-4 h-4" />,
@@ -213,6 +242,10 @@ export default function BlockList({
         return <LLMInstructionNode {...props} />;
       case BLOCK_TYPES.WEB_SCRAPING:
         return <WebScrapingNode {...props} />;
+      case BLOCK_TYPES.DATA_TRANSFORM:
+        return <DataTransformNode {...props} />;
+      case BLOCK_TYPES.CONDITIONAL:
+        return <ConditionalNode {...props} />;
       case BLOCK_TYPES.FINISH:
         return <FinishNode />;
       default:

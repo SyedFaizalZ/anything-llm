@@ -92,40 +92,40 @@ You are a specialized agent...
   const flatSkillsList = Array.isArray(skills) ? skills : [];
 
   return (
-    <div className="w-screen h-screen overflow-hidden bg-sidebar flex">
+    <div className="w-screen h-screen overflow-hidden bg-theme-bg-container flex">
       <Sidebar />
       
       {/* List Sidebar */}
-      <div className="w-1/4 h-full bg-zinc-900 border-r border-zinc-800 flex flex-col">
-        <div className="p-4 border-b border-zinc-800 flex justify-between items-center">
-          <h2 className="text-white font-bold text-lg">Agent Skills</h2>
+      <div className="w-1/4 h-full bg-theme-bg-secondary border-r border-theme-modal-border flex flex-col overflow-hidden">
+        <div className="p-4 border-b border-theme-modal-border flex justify-between items-center">
+          <h2 className="text-theme-text-primary font-bold text-lg">Agent Skills</h2>
           <button 
             onClick={handleCreateNew} 
-            className="px-2 py-1 bg-blue-500 text-white rounded text-sm hover:bg-blue-600"
+            className="px-3 py-1 bg-blue-500 text-white rounded text-sm hover:bg-blue-600 transition-colors"
           >
             + New
           </button>
         </div>
         
-        <div className="flex-1 overflow-y-auto p-2">
+        <div className="flex-1 overflow-y-auto p-2 min-h-0">
           {loading ? (
-            <p className="text-white/50 text-center mt-4">Loading...</p>
+            <p className="text-theme-text-secondary text-center mt-4 text-sm">Loading...</p>
           ) : flatSkillsList.length === 0 ? (
-            <p className="text-white/50 text-center mt-4 text-sm">No skills found.</p>
+            <p className="text-theme-text-secondary text-center mt-4 text-sm">No skills found.</p>
           ) : (
              flatSkillsList.map(s => (
                <div 
                  key={s.name} 
-                 className={`flex justify-between items-center p-3 mb-1 rounded cursor-pointer ${selectedSkill === s.name ? "bg-white/10" : "hover:bg-white/5"} transition-colors`}
+                 className={`flex justify-between items-center p-3 mb-1 rounded cursor-pointer ${selectedSkill === s.name ? "bg-theme-bg-primary" : "hover:bg-theme-bg-primary/50"} transition-colors`}
                  onClick={() => handleSelectSkill(s.name)}
                >
-                 <div>
-                   <p className="text-white font-medium text-sm">{s.name}</p>
-                   <p className="text-white/40 text-xs">{s.category}</p>
+                 <div className="overflow-hidden">
+                   <p className="text-theme-text-primary font-medium text-sm truncate">{s.name}</p>
+                   <p className="text-theme-text-secondary text-xs truncate">{s.category}</p>
                  </div>
                  <button 
                    onClick={(e) => { e.stopPropagation(); handleDelete(s.name); }}
-                   className="text-red-400 hover:text-red-300 transition-colors flex items-center justify-center w-6 h-6 rounded hover:bg-red-400/10"
+                   className="text-red-400 hover:text-red-300 transition-colors flex shrink-0 items-center justify-center w-6 h-6 rounded hover:bg-red-400/10"
                  >
                    <Trash className="w-4 h-4" />
                  </button>
@@ -136,22 +136,22 @@ You are a specialized agent...
       </div>
 
       {/* Editor Panel */}
-      <div className="w-3/4 h-full bg-theme flex flex-col">
+      <div className="w-3/4 h-full bg-theme-bg-secondary flex flex-col min-h-0">
          {selectedSkill === null && !isEditing ? (
-           <div className="flex-1 flex items-center justify-center text-white/40">
+           <div className="flex-1 flex items-center justify-center text-theme-text-secondary">
              <p>Select a skill to view or edit, or create a new one.</p>
            </div>
          ) : (
-           <div className="flex-1 flex flex-col p-6">
+           <div className="flex-1 flex flex-col p-6 min-h-0">
              <div className="flex justify-between items-center mb-6">
                 {selectedSkill ? (
-                  <h1 className="text-2xl font-bold text-white max-w-[50%] truncate">{selectedSkill}/SKILL.md</h1>
+                  <h1 className="text-2xl font-bold text-theme-text-primary max-w-[50%] truncate">{selectedSkill}/SKILL.md</h1>
                 ) : (
                   <div className="flex items-center gap-4 w-1/2">
-                    <label className="text-white">Folder Name:</label>
+                    <label className="text-theme-text-primary whitespace-nowrap">Folder Name:</label>
                     <input 
                       type="text" 
-                      className="bg-zinc-900 border border-zinc-500 text-white rounded px-3 py-1 flex-1"
+                      className="bg-theme-settings-input-bg border border-theme-modal-border text-theme-text-primary rounded px-3 py-1 flex-1"
                       placeholder="my-cool-skill"
                       value={newSkillName}
                       onChange={(e) => setNewSkillName(e.target.value)}
@@ -161,23 +161,23 @@ You are a specialized agent...
 
                 <div className="flex gap-2">
                    {!isEditing && selectedSkill && (
-                     <button onClick={() => setIsEditing(true)} className="px-4 py-2 bg-white/10 text-white rounded hover:bg-white/20">Edit</button>
+                     <button onClick={() => setIsEditing(true)} className="px-4 py-2 bg-theme-bg-primary border border-theme-modal-border text-theme-text-primary rounded hover:bg-theme-bg-primary/80 transition-colors">Edit</button>
                    )}
                    {(isEditing || !selectedSkill) && (
-                     <button onClick={handleSave} className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Save</button>
+                     <button onClick={handleSave} className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors">Save</button>
                    )}
                 </div>
              </div>
 
-             <div className="flex-1 border border-zinc-700 rounded-lg overflow-hidden bg-[#1e1e1e]">
+             <div className="flex-1 border border-theme-modal-border rounded-lg overflow-hidden bg-[#1e1e1e] flex flex-col min-h-0">
                {isEditing || !selectedSkill ? (
                  <textarea 
-                   className="w-full h-full p-4 bg-transparent text-[#d4d4d4] font-mono text-sm resize-none focus:outline-none"
+                   className="w-full h-full p-4 flex-1 bg-transparent text-[#d4d4d4] font-mono text-sm resize-none focus:outline-none"
                    value={skillContent}
                    onChange={(e) => setSkillContent(e.target.value)}
                  />
                ) : (
-                 <pre className="w-full h-full p-4 overflow-y-auto text-[#d4d4d4] font-mono text-sm whitespace-pre-wrap">
+                 <pre className="w-full h-full p-4 flex-1 overflow-y-auto min-h-0 text-[#d4d4d4] font-mono text-sm whitespace-pre-wrap">
                    {skillContent}
                  </pre>
                )}
