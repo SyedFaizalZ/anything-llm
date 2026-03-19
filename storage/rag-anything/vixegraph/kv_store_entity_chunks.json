@@ -1,0 +1,137 @@
+{
+  "Facebook Advertising": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856607,
+    "update_time": 1773856607,
+    "_id": "Facebook Advertising"
+  },
+  "Facebook": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856607,
+    "update_time": 1773856607,
+    "_id": "Facebook"
+  },
+  "Facebook Advertising For Dummies": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856607,
+    "update_time": 1773856607,
+    "_id": "Facebook Advertising For Dummies"
+  },
+  "Dummies": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856607,
+    "update_time": 1773856607,
+    "_id": "Dummies"
+  },
+  "Social Media": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856607,
+    "update_time": 1773856607,
+    "_id": "Social Media"
+  },
+  "Customers": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856607,
+    "update_time": 1773856607,
+    "_id": "Customers"
+  },
+  "Targeted Ad Campaign": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856607,
+    "update_time": 1773856607,
+    "_id": "Targeted Ad Campaign"
+  },
+  "Age": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856607,
+    "update_time": 1773856607,
+    "_id": "Age"
+  },
+  "Interests": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856609,
+    "update_time": 1773856609,
+    "_id": "Interests"
+  },
+  "Geographic Area": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856610,
+    "update_time": 1773856610,
+    "_id": "Geographic Area"
+  },
+  "CPM": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856610,
+    "update_time": 1773856610,
+    "_id": "CPM"
+  },
+  "CPC": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856610,
+    "update_time": 1773856610,
+    "_id": "CPC"
+  },
+  "Click-Through Page": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856611,
+    "update_time": 1773856611,
+    "_id": "Click-Through Page"
+  },
+  "Ad Campaign Launch": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856611,
+    "update_time": 1773856611,
+    "_id": "Ad Campaign Launch"
+  },
+  "Ad Testing": {
+    "chunk_ids": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85"
+    ],
+    "count": 1,
+    "create_time": 1773856611,
+    "update_time": 1773856611,
+    "_id": "Ad Testing"
+  }
+}

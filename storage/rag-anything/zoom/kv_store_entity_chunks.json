@@ -1,0 +1,119 @@
+{
+  "Facebook": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904703,
+    "update_time": 1773904703,
+    "_id": "Facebook"
+  },
+  "Marketing Strategy": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904703,
+    "update_time": 1773904703,
+    "_id": "Marketing Strategy"
+  },
+  "Target Audience": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904703,
+    "update_time": 1773904703,
+    "_id": "Target Audience"
+  },
+  "Outdoor Billboard": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904703,
+    "update_time": 1773904703,
+    "_id": "Outdoor Billboard"
+  },
+  "Flyer": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904703,
+    "update_time": 1773904703,
+    "_id": "Flyer"
+  },
+  "TV Ads": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904703,
+    "update_time": 1773904703,
+    "_id": "TV Ads"
+  },
+  "Radio Ads": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904703,
+    "update_time": 1773904703,
+    "_id": "Radio Ads"
+  },
+  "Facebook Advertising": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904703,
+    "update_time": 1773904703,
+    "_id": "Facebook Advertising"
+  },
+  "Local Audience": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904705,
+    "update_time": 1773904705,
+    "_id": "Local Audience"
+  },
+  "International Audience": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904705,
+    "update_time": 1773904705,
+    "_id": "International Audience"
+  },
+  "Business Brand": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904706,
+    "update_time": 1773904706,
+    "_id": "Business Brand"
+  },
+  "Increase Sales": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904706,
+    "update_time": 1773904706,
+    "_id": "Increase Sales"
+  },
+  "Customer Service Outreach": {
+    "chunk_ids": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1"
+    ],
+    "count": 1,
+    "create_time": 1773904706,
+    "update_time": 1773904706,
+    "_id": "Customer Service Outreach"
+  }
+}

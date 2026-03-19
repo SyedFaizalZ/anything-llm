@@ -1,0 +1,34 @@
+{
+  "chunk-8fa6a659a0983832b3e1e874781040e1": {
+    "tokens": 239,
+    "content": "Chapter 3 \n\nMatching Your Ads to Your Marketing Strategy \n\nIn This Chapter \n\nhere are several forms of advertising for which you can’t really segment or define your audience. For example, when you rent an outdoor billboard, you’re basically advertising to the group “anyone who drives by.” When you post a flyer, you’re advertising to the group “anyone who walks by.” Some mass market–advertising methods, such as TV or radio ads, run surveys on their audiences to give the advertiser an idea of the demographics behind their audience. However, those numbers are just averages and can vary daily. For some businesses, their audience target is based on quantity, not quality. \n\nFacebook advertising, on the other hand, allows you and your business to create and run advertisements that are highly targeted when it comes to the viewing audience — and you should take advantage of that capability. \n\nIn this chapter, we focus on the targeting capabilities of Facebook, explaining how to target everything from a local to an international audience. We then look at aligning your ads with whatever marketing strategy you’re employing, whether your goal is to build your business brand, increase sales, or augment your customer service outreach.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-5857f769601b077998953bd5bf92ae56",
+    "file_path": "Facebook Ad 60.pdf",
+    "llm_cache_list": [
+      "default:extract:3fd0e4e2859e431101b5fec074ac9ac4",
+      "default:extract:165cf2e29eeba96ce1b36edc0938bce7"
+    ],
+    "create_time": 1773904675,
+    "update_time": 1773904703,
+    "_id": "chunk-8fa6a659a0983832b3e1e874781040e1"
+  },
+  "chunk-d5187f72b95adf4fda2d11bfe2eae46b": {
+    "content": "List Content Analysis:\nContent: {'type': 'list', 'sub_type': 'text', 'list_items': ['▶ Picking a target advertising group ', '$\\\\blacktriangleright$ Setting the geographic range for your ad campaign ', '$\\\\blacktriangleright$ Deciding the scope of each ad campaign ', '▶ Fulfilling your marketing objectives through Facebook Ads '], 'bbox': [129, 358, 623, 445], 'page_idx': 0}\n\nAnalysis: The content is a bulleted list that serves as an overview of the key topics covered in Chapter 3 of a document about Facebook advertising. The list is well-structured and organized, with each item representing a major aspect of matching ads to a marketing strategy. The key information includes targeting specific advertising groups, setting geographic ranges for ad campaigns, deciding the scope of each campaign, and fulfilling marketing objectives through Facebook Ads. These components are related as they collectively outline the strategic considerations necessary for effective Facebook advertising. The list provides a roadmap for the chapter, connecting to the broader discussion by introducing the main topics that will be explored in detail. The surrounding context emphasizes the importance of targeted advertising on Facebook, contrasting it with traditional advertising methods. This list supports the broader discussion by highlighting the specific strategies and considerations that will be covered to leverage Facebook's targeting capabilities effectively. Relevant details for knowledge retrieval include the specific strategies mentioned, such as target advertising groups, geographic range, campaign scope, and marketing objectives, which are crucial for understanding how to align Facebook ads with a marketing strategy.",
+    "tokens": 312,
+    "full_doc_id": "doc-5857f769601b077998953bd5bf92ae56",
+    "chunk_order_index": 1,
+    "file_path": "Facebook Ad 60.pdf",
+    "llm_cache_list": [
+      "default:extract:0a3b07f71863c203acd0492a5b6d9e8c",
+      "default:extract:2d90ebe32cce8836e1adf608163d3319"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)",
+    "original_type": "list",
+    "page_idx": 0,
+    "create_time": 1773904716,
+    "update_time": 1773904728,
+    "_id": "chunk-d5187f72b95adf4fda2d11bfe2eae46b"
+  }
+}

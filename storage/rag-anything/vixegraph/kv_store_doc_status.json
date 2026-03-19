@@ -1,0 +1,24 @@
+{
+  "doc-06d3e83ef8ef019436ee84f8e5e06156": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-5b80907e84e8e5e7eba6dc64fede2d85",
+      "chunk-931e7f37fe635b6916914fa5d7163ff2",
+      "chunk-e58fa09817ff5489c8ed5a6354c83f7e",
+      "chunk-6d897dfb364db9ab843152fd91587566",
+      "chunk-9e418c202fe0d91e532124b175fbf577"
+    ],
+    "content_summary": "Facebook Advertising \n\nFOR. DUMM IES C : \n\nLearn to:",
+    "content_length": 52,
+    "created_at": "2026-03-18T17:56:28.664403+00:00",
+    "updated_at": "2026-03-18T18:00:40+00:00",
+    "file_path": "Facebook Advertising For Dummies-pg 1.pdf",
+    "track_id": "insert_20260318_175628_9fb5c2e2",
+    "metadata": {
+      "processing_start_time": 1773856589,
+      "processing_end_time": 1773856614
+    },
+    "multimodal_processed": true
+  }
+}

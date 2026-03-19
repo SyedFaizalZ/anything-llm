@@ -1,0 +1,107 @@
+{
+  "34a7edb2a93793ee4034c1a6ec848877": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "Facebook Advertising ",
+        "text_level": 1,
+        "bbox": [
+          37,
+          195,
+          956,
+          300
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "FOR. DUMM IES C : ",
+        "text_level": 1,
+        "bbox": [
+          169,
+          307,
+          830,
+          466
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Learn to: ",
+        "text_level": 1,
+        "bbox": [
+          30,
+          597,
+          205,
+          627
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "• Create an ad campaign on Facebook ",
+          "• Perform precision ad targeting ",
+          "• Make the most of landing pages ",
+          "• Test and optimize your ads "
+        ],
+        "bbox": [
+          30,
+          633,
+          407,
+          774
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "image",
+        "img_path": "/home/faizals/dragon/doom-Agent/anything-llm/storage/rag-anything/vixegraph/Facebook Advertising For Dummies-pg 1_f30c0e63/Facebook Advertising For Dummies-pg 1/hybrid_auto/images/6efc8e15bb6566e537e9aec34b6c3595c10b8ee0c3ed95a9f1e02676c665e417.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          458,
+          584,
+          1000,
+          975
+        ],
+        "page_idx": 0,
+        "img_caption": [],
+        "img_footnote": []
+      },
+      {
+        "type": "header",
+        "text": "Making Everything Easier!\" ",
+        "bbox": [
+          32,
+          43,
+          386,
+          84
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "footer",
+        "text": "Paul Dunay Richard Krueger Joel Elad, MBA ",
+        "bbox": [
+          28,
+          881,
+          303,
+          977
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-06d3e83ef8ef019436ee84f8e5e06156",
+    "mtime": 1773855136.1984832,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1773856588.52682,
+    "cache_version": "1.0",
+    "create_time": 1773856588,
+    "update_time": 1773856588,
+    "_id": "34a7edb2a93793ee4034c1a6ec848877"
+  }
+}

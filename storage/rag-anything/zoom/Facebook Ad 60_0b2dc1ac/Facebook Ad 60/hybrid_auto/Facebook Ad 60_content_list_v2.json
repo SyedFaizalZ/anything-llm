@@ -1,0 +1,167 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 3 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                429,
+                130,
+                568,
+                169
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Matching Your Ads to Your Marketing Strategy "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                218,
+                187,
+                781,
+                298
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "In This Chapter "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                129,
+                331,
+                274,
+                352
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "▶ Picking a target advertising group "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\blacktriangleright"
+                            },
+                            {
+                                "type": "text",
+                                "content": "Setting the geographic range for your ad campaign "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "\\blacktriangleright"
+                            },
+                            {
+                                "type": "text",
+                                "content": "Deciding the scope of each ad campaign "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "▶ Fulfilling your marketing objectives through Facebook Ads "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                358,
+                623,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "here are several forms of advertising for which you can’t really segment or define your audience. For example, when you rent an outdoor billboard, you’re basically advertising to the group “anyone who drives by.” When you post a flyer, you’re advertising to the group “anyone who walks by.” Some mass market–advertising methods, such as TV or radio ads, run surveys on their audiences to give the advertiser an idea of the demographics behind their audience. However, those numbers are just averages and can vary daily. For some businesses, their audience target is based on quantity, not quality. "
+                    }
+                ]
+            },
+            "bbox": [
+                225,
+                483,
+                862,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Facebook advertising, on the other hand, allows you and your business to create and run advertisements that are highly targeted when it comes to the viewing audience — and you should take advantage of that capability. "
+                    }
+                ]
+            },
+            "bbox": [
+                225,
+                665,
+                854,
+                716
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this chapter, we focus on the targeting capabilities of Facebook, explaining how to target everything from a local to an international audience. We then look at aligning your ads with whatever marketing strategy you’re employing, whether your goal is to build your business brand, increase sales, or augment your customer service outreach. "
+                    }
+                ]
+            },
+            "bbox": [
+                224,
+                729,
+                866,
+                813
+            ]
+        }
+    ]
+]

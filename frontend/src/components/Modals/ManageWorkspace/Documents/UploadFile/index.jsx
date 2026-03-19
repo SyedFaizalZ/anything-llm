@@ -20,6 +20,7 @@ export default function UploadFile({
   const [files, setFiles] = useState([]);
   const [fetchingUrl, setFetchingUrl] = useState(false);
   const [graphMode, setGraphMode] = useState(false);
+  const [parseMethod, setParseMethod] = useState("auto");
 
   const handleSendLink = async (e) => {
     e.preventDefault();
@@ -128,6 +129,7 @@ export default function UploadFile({
                 setLoading={setLoading}
                 setLoadingMessage={setLoadingMessage}
                 graphMode={graphMode}
+                parseMethod={parseMethod}
               />
             ))}
           </div>
@@ -154,6 +156,27 @@ export default function UploadFile({
           />
         </label>
       </div>
+
+      {graphMode && (
+        <div className="flex justify-center mb-4 px-4 w-full max-w-[560px] mx-auto animate-fade-in">
+          <div className="w-full flex flex-col p-4 rounded-xl border border-white/10 bg-[#0c111d]/50">
+            <label className="text-white text-sm font-semibold mb-2">Parsing Engine</label>
+            <select
+              value={parseMethod}
+              onChange={(e) => setParseMethod(e.target.value)}
+              className="bg-theme-settings-input-bg border hover:bg-theme-bg-secondary border-theme-modal-border text-white text-sm rounded-lg focus:ring-sky-500 focus:border-sky-500 block w-full p-2.5 outline-none transition-colors"
+            >
+              <option value="auto">Auto / MinerU (Best quality, Multi-modal)</option>
+              <option value="pymupdf">PyMuPDF (Fast text-only, CPU friendly)</option>
+              <option value="docling">Docling (Quality text-only)</option>
+            </select>
+            <span className="text-theme-text-secondary text-xs mt-2">
+              MinerU requires a dedicated GPU for acceptable performance. Use PyMuPDF if running on a CPU.
+            </span>
+          </div>
+        </div>
+      )}
+
       <div className="text-center text-theme-text-secondary text-xs font-medium w-[560px] py-2">
         {t("connectors.upload.or-submit-link")}
       </div>

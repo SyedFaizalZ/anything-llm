@@ -1,0 +1,709 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        228,
+                        87,
+                        302,
+                        113
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                227,
+                                83,
+                                306,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        227,
+                                        83,
+                                        306,
+                                        116
+                                    ],
+                                    "type": "text",
+                                    "content": "Chapter 3",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        116,
+                        125,
+                        415,
+                        199
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                111,
+                                120,
+                                418,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        120,
+                                        418,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Matching Your Ads to Your",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                150,
+                                153,
+                                381,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        150,
+                                        153,
+                                        381,
+                                        209
+                                    ],
+                                    "type": "text",
+                                    "content": "Marketing Strategy",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        69,
+                        221,
+                        146,
+                        235
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                219,
+                                147,
+                                238
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        219,
+                                        147,
+                                        238
+                                    ],
+                                    "type": "text",
+                                    "content": "In This Chapter",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        69,
+                        239,
+                        331,
+                        297
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                69,
+                                239,
+                                227,
+                                251
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        237,
+                                        228,
+                                        255
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                69,
+                                                237,
+                                                228,
+                                                255
+                                            ],
+                                            "type": "text",
+                                            "content": "▶ Picking a target advertising group",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                254,
+                                298,
+                                266
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        251,
+                                        300,
+                                        269
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                69,
+                                                255,
+                                                80,
+                                                266
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\blacktriangleright",
+                                            "score": 0.56
+                                        },
+                                        {
+                                            "bbox": [
+                                                81,
+                                                251,
+                                                300,
+                                                269
+                                            ],
+                                            "type": "text",
+                                            "content": "Setting the geographic range for your ad campaign",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                269,
+                                254,
+                                281
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        268,
+                                        255,
+                                        283
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                69,
+                                                269,
+                                                80,
+                                                281
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\blacktriangleright",
+                                            "score": 0.67
+                                        },
+                                        {
+                                            "bbox": [
+                                                81,
+                                                268,
+                                                255,
+                                                283
+                                            ],
+                                            "type": "text",
+                                            "content": "Deciding the scope of each ad campaign",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                284,
+                                331,
+                                297
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        283,
+                                        332,
+                                        298
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                283,
+                                                332,
+                                                298
+                                            ],
+                                            "type": "text",
+                                            "content": "▶ Fulfilling your marketing objectives through Facebook Ads",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        120,
+                        322,
+                        458,
+                        433
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                332,
+                                433,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        332,
+                                        433,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": "here are several forms of advertising for which you can’t really seg-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                139,
+                                344,
+                                446,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        139,
+                                        344,
+                                        446,
+                                        356
+                                    ],
+                                    "type": "text",
+                                    "content": "ment or define your audience. For example, when you rent an outdoor",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                120,
+                                354,
+                                452,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        354,
+                                        452,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "billboard, you’re basically advertising to the group “anyone who drives by.”",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                120,
+                                365,
+                                444,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        365,
+                                        444,
+                                        379
+                                    ],
+                                    "type": "text",
+                                    "content": "When you post a flyer, you’re advertising to the group “anyone who walks",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                121,
+                                376,
+                                447,
+                                390
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        376,
+                                        447,
+                                        390
+                                    ],
+                                    "type": "text",
+                                    "content": "by.” Some mass market–advertising methods, such as TV or radio ads, run",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                120,
+                                388,
+                                451,
+                                400
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        388,
+                                        451,
+                                        400
+                                    ],
+                                    "type": "text",
+                                    "content": "surveys on their audiences to give the advertiser an idea of the demograph-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                120,
+                                398,
+                                459,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        398,
+                                        459,
+                                        411
+                                    ],
+                                    "type": "text",
+                                    "content": "ics behind their audience. However, those numbers are just averages and can",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                120,
+                                410,
+                                450,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        410,
+                                        450,
+                                        423
+                                    ],
+                                    "type": "text",
+                                    "content": "vary daily. For some businesses, their audience target is based on quantity,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                120,
+                                422,
+                                174,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        422,
+                                        174,
+                                        435
+                                    ],
+                                    "type": "text",
+                                    "content": "not quality.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        120,
+                        443,
+                        454,
+                        477
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                442,
+                                444,
+                                456
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        442,
+                                        444,
+                                        456
+                                    ],
+                                    "type": "text",
+                                    "content": "Facebook advertising, on the other hand, allows you and your business to",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                121,
+                                454,
+                                455,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        454,
+                                        455,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "create and run advertisements that are highly targeted when it comes to the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                121,
+                                464,
+                                426,
+                                478
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        464,
+                                        426,
+                                        478
+                                    ],
+                                    "type": "text",
+                                    "content": "viewing audience — and you should take advantage of that capability.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        119,
+                        486,
+                        460,
+                        542
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                486,
+                                458,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        486,
+                                        458,
+                                        500
+                                    ],
+                                    "type": "text",
+                                    "content": "In this chapter, we focus on the targeting capabilities of Facebook, explaining",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                121,
+                                498,
+                                449,
+                                510
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        498,
+                                        449,
+                                        510
+                                    ],
+                                    "type": "text",
+                                    "content": "how to target everything from a local to an international audience. We then",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                121,
+                                509,
+                                458,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        509,
+                                        458,
+                                        522
+                                    ],
+                                    "type": "text",
+                                    "content": "look at aligning your ads with whatever marketing strategy you’re employing,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                121,
+                                521,
+                                459,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        521,
+                                        459,
+                                        533
+                                    ],
+                                    "type": "text",
+                                    "content": "whether your goal is to build your business brand, increase sales, or augment",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                120,
+                                532,
+                                265,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        532,
+                                        265,
+                                        543
+                                    ],
+                                    "type": "text",
+                                    "content": "your customer service outreach.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                531,
+                666
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

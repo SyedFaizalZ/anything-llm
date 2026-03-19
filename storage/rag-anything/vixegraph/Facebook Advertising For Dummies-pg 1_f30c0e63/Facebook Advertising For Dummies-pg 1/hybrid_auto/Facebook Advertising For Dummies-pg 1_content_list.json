@@ -1,0 +1,90 @@
+[
+    {
+        "type": "text",
+        "text": "Facebook Advertising ",
+        "text_level": 1,
+        "bbox": [
+            37,
+            195,
+            956,
+            300
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FOR. DUMM IES C : ",
+        "text_level": 1,
+        "bbox": [
+            169,
+            307,
+            830,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Learn to: ",
+        "text_level": 1,
+        "bbox": [
+            30,
+            597,
+            205,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• Create an ad campaign on Facebook ",
+            "• Perform precision ad targeting ",
+            "• Make the most of landing pages ",
+            "• Test and optimize your ads "
+        ],
+        "bbox": [
+            30,
+            633,
+            407,
+            774
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6efc8e15bb6566e537e9aec34b6c3595c10b8ee0c3ed95a9f1e02676c665e417.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            458,
+            584,
+            1000,
+            975
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Making Everything Easier!\" ",
+        "bbox": [
+            32,
+            43,
+            386,
+            84
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Paul Dunay Richard Krueger Joel Elad, MBA ",
+        "bbox": [
+            28,
+            881,
+            303,
+            977
+        ],
+        "page_idx": 0
+    }
+]

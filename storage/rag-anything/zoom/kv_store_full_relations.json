@@ -1,0 +1,69 @@
+{
+  "doc-5857f769601b077998953bd5bf92ae56": {
+    "relation_pairs": [
+      [
+        "Chapter 3",
+        "Target Advertising Group"
+      ],
+      [
+        "Chapter 3",
+        "Facebook"
+      ],
+      [
+        "Facebook",
+        "Geographic Range"
+      ],
+      [
+        "Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)",
+        "Geographic Range"
+      ],
+      [
+        "Ad Campaign Scope",
+        "Chapter 3"
+      ],
+      [
+        "Ad Campaign Scope",
+        "Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)"
+      ],
+      [
+        "Facebook",
+        "Marketing Objectives"
+      ],
+      [
+        "Chapter 3",
+        "Geographic Range"
+      ],
+      [
+        "Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)",
+        "Marketing Objectives"
+      ],
+      [
+        "Chapter 3",
+        "Marketing Objectives"
+      ],
+      [
+        "Ad Campaign Scope",
+        "Facebook"
+      ],
+      [
+        "Facebook",
+        "Target Advertising Group"
+      ],
+      [
+        "Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)",
+        "Target Advertising Group"
+      ],
+      [
+        "Chapter 3",
+        "Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)"
+      ],
+      [
+        "Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)",
+        "Facebook"
+      ]
+    ],
+    "count": 15,
+    "update_time": 1773904733,
+    "_id": "doc-5857f769601b077998953bd5bf92ae56"
+  }
+}

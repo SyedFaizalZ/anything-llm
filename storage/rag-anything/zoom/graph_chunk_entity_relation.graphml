@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Facebook">
+      <data key="d0">Facebook</data>
+      <data key="d1">organization</data>
+      <data key="d2">Facebook is a social media platform that offers highly targeted advertising capabilities.&lt;SEP&gt;Facebook is a social media platform that offers targeted advertising capabilities.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1&lt;SEP&gt;chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904728</data>
+      <data key="d6" />
+    </node>
+    <node id="Marketing Strategy">
+      <data key="d0">Marketing Strategy</data>
+      <data key="d1">concept</data>
+      <data key="d2">Marketing Strategy refers to the comprehensive plan designed to achieve specific business goals through advertising and promotional efforts.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904703</data>
+      <data key="d6" />
+    </node>
+    <node id="Target Audience">
+      <data key="d0">Target Audience</data>
+      <data key="d1">concept</data>
+      <data key="d2">Target Audience is the specific group of consumers most likely to be interested in a product or service, defined by various demographics and behaviors.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904703</data>
+      <data key="d6" />
+    </node>
+    <node id="Outdoor Billboard">
+      <data key="d0">Outdoor Billboard</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Outdoor Billboard is a form of advertising that targets a broad and undefined audience, typically anyone who drives by.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904703</data>
+      <data key="d6" />
+    </node>
+    <node id="Flyer">
+      <data key="d0">Flyer</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Flyer is a form of advertising that targets a broad and undefined audience, typically anyone who walks by.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904703</data>
+      <data key="d6" />
+    </node>
+    <node id="TV Ads">
+      <data key="d0">TV Ads</data>
+      <data key="d1">content</data>
+      <data key="d2">TV Ads are mass market advertising methods that use surveys to estimate audience demographics.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904703</data>
+      <data key="d6" />
+    </node>
+    <node id="Radio Ads">
+      <data key="d0">Radio Ads</data>
+      <data key="d1">content</data>
+      <data key="d2">Radio Ads are mass market advertising methods that use surveys to estimate audience demographics.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904703</data>
+      <data key="d6" />
+    </node>
+    <node id="Facebook Advertising">
+      <data key="d0">Facebook Advertising</data>
+      <data key="d1">method</data>
+      <data key="d2">Facebook Advertising is a method of creating and running highly targeted ads on the Facebook platform.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904703</data>
+      <data key="d6" />
+    </node>
+    <node id="Local Audience">
+      <data key="d0">Local Audience</data>
+      <data key="d1">concept</data>
+      <data key="d2">Local Audience refers to a group of consumers within a specific geographic area targeted by advertising efforts.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904705</data>
+      <data key="d6" />
+    </node>
+    <node id="International Audience">
+      <data key="d0">International Audience</data>
+      <data key="d1">concept</data>
+      <data key="d2">International Audience refers to a group of consumers across various countries targeted by advertising efforts.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904705</data>
+      <data key="d6" />
+    </node>
+    <node id="Business Brand">
+      <data key="d0">Business Brand</data>
+      <data key="d1">concept</data>
+      <data key="d2">Business Brand refers to the image and reputation of a business as perceived by consumers, which can be enhanced through targeted advertising.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904706</data>
+      <data key="d6" />
+    </node>
+    <node id="Increase Sales">
+      <data key="d0">Increase Sales</data>
+      <data key="d1">concept</data>
+      <data key="d2">Increase Sales refers to the goal of boosting the number of products or services sold through effective marketing strategies.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904706</data>
+      <data key="d6" />
+    </node>
+    <node id="Customer Service Outreach">
+      <data key="d0">Customer Service Outreach</data>
+      <data key="d1">concept</data>
+      <data key="d2">Customer Service Outreach refers to efforts aimed at improving customer service and engagement through targeted advertising.</data>
+      <data key="d3">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904706</data>
+      <data key="d6" />
+    </node>
+    <node id="Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)">
+      <data key="d0">Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)</data>
+      <data key="d1">list</data>
+      <data key="d2">This list outlines the key topics in Chapter 3, focusing on targeting advertising groups, setting geographic ranges, deciding campaign scope, and fulfilling marketing objectives through Facebook Ads. It introduces the main strategies for effective Facebook advertising, supporting the chapter's emphasis on leveraging Facebook's targeting capabilities.</data>
+      <data key="d3">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904716</data>
+    </node>
+    <node id="Target Advertising Group">
+      <data key="d0">Target Advertising Group</data>
+      <data key="d1">concept</data>
+      <data key="d2">Target advertising group refers to the specific audience segments that can be targeted with Facebook ads.</data>
+      <data key="d3">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904728</data>
+      <data key="d6" />
+    </node>
+    <node id="Geographic Range">
+      <data key="d0">Geographic Range</data>
+      <data key="d1">concept</data>
+      <data key="d2">Geographic range is the specified area where an ad campaign will be active and visible to users.</data>
+      <data key="d3">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904728</data>
+      <data key="d6" />
+    </node>
+    <node id="Ad Campaign Scope">
+      <data key="d0">Ad Campaign Scope</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ad campaign scope defines the extent and focus of each individual advertising campaign on Facebook.</data>
+      <data key="d3">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904728</data>
+      <data key="d6" />
+    </node>
+    <node id="Marketing Objectives">
+      <data key="d0">Marketing Objectives</data>
+      <data key="d1">concept</data>
+      <data key="d2">Marketing objectives are the goals that a business aims to achieve through its advertising efforts on Facebook.</data>
+      <data key="d3">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904728</data>
+      <data key="d6" />
+    </node>
+    <node id="Chapter 3">
+      <data key="d0">Chapter 3</data>
+      <data key="d1">content</data>
+      <data key="d2">Chapter 3 of the document focuses on matching ads to a marketing strategy using Facebook's advertising capabilities.</data>
+      <data key="d3">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d4">Facebook Ad 60.pdf</data>
+      <data key="d5">1773904728</data>
+      <data key="d6" />
+    </node>
+    <edge source="Facebook" target="Marketing Strategy">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook advertising capabilities are used to align with various marketing strategies to achieve business goals.</data>
+      <data key="d9">advertising alignment,business goals</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904708</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Target Advertising Group">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook allows businesses to pick a target advertising group for their ads.</data>
+      <data key="d9">advertising,audience targeting</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904729</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Geographic Range">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook enables setting the geographic range for ad campaigns.</data>
+      <data key="d9">advertising,location targeting</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904730</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Ad Campaign Scope">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook helps in deciding the scope of each ad campaign.</data>
+      <data key="d9">advertising,campaign management</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904730</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Marketing Objectives">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook ads are used to fulfill marketing objectives.</data>
+      <data key="d9">advertising,goal achievement</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904730</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Chapter 3">
+      <data key="d7">1.0</data>
+      <data key="d8">Chapter 3 discusses the use of Facebook ads to match marketing strategies.</data>
+      <data key="d9">advertising strategies,content focus</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904730</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook" target="Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Facebook belongs to Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904731</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Target Audience" target="Facebook Advertising">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising allows for highly targeted ads aimed at specific audiences.</data>
+      <data key="d9">advertising precision,audience targeting</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904708</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Target Audience" target="Outdoor Billboard">
+      <data key="d7">1.0</data>
+      <data key="d8">Outdoor Billboards target a broad and undefined audience.</data>
+      <data key="d9">broad reach,undefined audience</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904708</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Target Audience" target="Flyer">
+      <data key="d7">1.0</data>
+      <data key="d8">Fliers target a broad and undefined audience.</data>
+      <data key="d9">broad reach,undefined audience</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904709</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Target Audience" target="TV Ads">
+      <data key="d7">1.0</data>
+      <data key="d8">TV Ads use surveys to estimate the demographics of their audience.</data>
+      <data key="d9">demographic estimation,mass market</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904709</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Target Audience" target="Radio Ads">
+      <data key="d7">1.0</data>
+      <data key="d8">Radio Ads use surveys to estimate the demographics of their audience.</data>
+      <data key="d9">demographic estimation,mass market</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904710</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Local Audience">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising can target audiences from a local to an international scale.</data>
+      <data key="d9">geographic targeting,local reach</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904708</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="International Audience">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising can target audiences from a local to an international scale.</data>
+      <data key="d9">geographic targeting,international reach</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904709</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Business Brand">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising can be aligned with marketing strategies to build a business brand.</data>
+      <data key="d9">brand building,marketing alignment</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904709</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Increase Sales">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising can be aligned with marketing strategies to increase sales.</data>
+      <data key="d9">marketing alignment,sales growth</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904710</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Facebook Advertising" target="Customer Service Outreach">
+      <data key="d7">1.0</data>
+      <data key="d8">Facebook Advertising can be aligned with marketing strategies to augment customer service outreach.</data>
+      <data key="d9">customer engagement,marketing alignment</data>
+      <data key="d10">chunk-8fa6a659a0983832b3e1e874781040e1</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904710</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)" target="Target Advertising Group">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Target Advertising Group belongs to Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904731</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)" target="Geographic Range">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Geographic Range belongs to Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904732</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)" target="Marketing Objectives">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Marketing Objectives belongs to Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904732</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)" target="Chapter 3">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Chapter 3 belongs to Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904732</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)" target="Ad Campaign Scope">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Ad Campaign Scope belongs to Chapter 3 Overview: Matching Your Ads to Your Marketing Strategy (list)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904733</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Target Advertising Group" target="Chapter 3">
+      <data key="d7">1.0</data>
+      <data key="d8">Chapter 3 includes information on picking a target advertising group.</data>
+      <data key="d9">audience targeting,content focus</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904731</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Geographic Range" target="Chapter 3">
+      <data key="d7">1.0</data>
+      <data key="d8">Chapter 3 covers setting the geographic range for ad campaigns.</data>
+      <data key="d9">content focus,location targeting</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904731</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ad Campaign Scope" target="Chapter 3">
+      <data key="d7">1.0</data>
+      <data key="d8">Chapter 3 discusses deciding the scope of each ad campaign.</data>
+      <data key="d9">campaign management,content focus</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904732</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Marketing Objectives" target="Chapter 3">
+      <data key="d7">1.0</data>
+      <data key="d8">Chapter 3 explains fulfilling marketing objectives through Facebook Ads.</data>
+      <data key="d9">content focus,goal achievement</data>
+      <data key="d10">chunk-d5187f72b95adf4fda2d11bfe2eae46b</data>
+      <data key="d11">Facebook Ad 60.pdf</data>
+      <data key="d12">1773904732</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

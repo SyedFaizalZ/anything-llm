@@ -1,0 +1,565 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        20,
+                        130,
+                        507,
+                        200
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                130,
+                                510,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        146,
+                                        245,
+                                        200
+                                    ],
+                                    "type": "text",
+                                    "content": "Facebook",
+                                    "score": 0.999
+                                },
+                                {
+                                    "bbox": [
+                                        235,
+                                        130,
+                                        510,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": " Advertising",
+                                    "score": 0.96
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        90,
+                        205,
+                        440,
+                        311
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                238,
+                                206,
+                                284,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        238,
+                                        206,
+                                        284,
+                                        226
+                                    ],
+                                    "type": "text",
+                                    "content": "FOR.",
+                                    "score": 0.865
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                222,
+                                444,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        222,
+                                        329,
+                                        317
+                                    ],
+                                    "type": "text",
+                                    "content": "DUMM",
+                                    "score": 0.969
+                                },
+                                {
+                                    "bbox": [
+                                        323,
+                                        223,
+                                        444,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "IES",
+                                    "score": 0.995
+                                },
+                                {
+                                    "bbox": [
+                                        434,
+                                        225,
+                                        437,
+                                        229
+                                    ],
+                                    "type": "text",
+                                    "content": "C",
+                                    "score": 0.711
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                293,
+                                229,
+                                391,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        242,
+                                        313,
+                                        255
+                                    ],
+                                    "type": "text",
+                                    "content": "",
+                                    "score": 0.0
+                                },
+                                {
+                                    "bbox": [
+                                        319,
+                                        229,
+                                        391,
+                                        265
+                                    ],
+                                    "type": "text",
+                                    "content": "",
+                                    "score": 0.0
+                                },
+                                {
+                                    "bbox": [
+                                        366,
+                                        243,
+                                        374,
+                                        249
+                                    ],
+                                    "type": "text",
+                                    "content": "",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                251,
+                                265,
+                                256,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        251,
+                                        265,
+                                        256,
+                                        268
+                                    ],
+                                    "type": "text",
+                                    "content": "",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                253,
+                                273,
+                                262,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        273,
+                                        262,
+                                        285
+                                    ],
+                                    "type": "text",
+                                    "content": ":",
+                                    "score": 0.563
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        16,
+                        398,
+                        109,
+                        418
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                13,
+                                395,
+                                111,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        395,
+                                        111,
+                                        420
+                                    ],
+                                    "type": "text",
+                                    "content": "Learn to:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        16,
+                        422,
+                        216,
+                        516
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                216,
+                                437
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        420,
+                                        217,
+                                        438
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                13,
+                                                420,
+                                                217,
+                                                438
+                                            ],
+                                            "type": "text",
+                                            "content": "• Create an ad campaign on Facebook",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                449,
+                                188,
+                                463
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        447,
+                                        189,
+                                        465
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                13,
+                                                447,
+                                                189,
+                                                465
+                                            ],
+                                            "type": "text",
+                                            "content": "• Perform precision ad targeting",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                476,
+                                193,
+                                490
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        473,
+                                        195,
+                                        491
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                14,
+                                                473,
+                                                195,
+                                                491
+                                            ],
+                                            "type": "text",
+                                            "content": "• Make the most of landing pages",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                166,
+                                516
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        168,
+                                        517
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                14,
+                                                501,
+                                                168,
+                                                517
+                                            ],
+                                            "type": "text",
+                                            "content": "• Test and optimize your ads",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        243,
+                        389,
+                        530,
+                        650
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                243,
+                                389,
+                                530,
+                                650
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        243,
+                                        389,
+                                        530,
+                                        650
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                243,
+                                                389,
+                                                530,
+                                                650
+                                            ],
+                                            "type": "image",
+                                            "image_path": "6efc8e15bb6566e537e9aec34b6c3595c10b8ee0c3ed95a9f1e02676c665e417.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        17,
+                        29,
+                        205,
+                        56
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                31,
+                                206,
+                                54
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        31,
+                                        206,
+                                        54
+                                    ],
+                                    "type": "text",
+                                    "content": "Making Everything Easier!\"",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        15,
+                        587,
+                        161,
+                        651
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                586,
+                                120,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        586,
+                                        120,
+                                        610
+                                    ],
+                                    "type": "text",
+                                    "content": "Paul Dunay",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                608,
+                                163,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        608,
+                                        163,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "Richard Krueger",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                630,
+                                147,
+                                651
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        630,
+                                        147,
+                                        651
+                                    ],
+                                    "type": "text",
+                                    "content": "Joel Elad, MBA",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                530,
+                666
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

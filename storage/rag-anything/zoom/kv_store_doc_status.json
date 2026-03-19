@@ -1,0 +1,21 @@
+{
+  "doc-5857f769601b077998953bd5bf92ae56": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-8fa6a659a0983832b3e1e874781040e1",
+      "chunk-d5187f72b95adf4fda2d11bfe2eae46b"
+    ],
+    "content_summary": "Chapter 3 \n\nMatching Your Ads to Your Marketing Strategy \n\nIn This Chapter \n\nhere are several forms of advertising for which you can’t really segment or define your audience. For example, when you rent an outdoor billboard, you’re basically advertisi...",
+    "content_length": 1239,
+    "created_at": "2026-03-19T07:17:54.718485+00:00",
+    "updated_at": "2026-03-19T07:18:53+00:00",
+    "file_path": "Facebook Ad 60.pdf",
+    "track_id": "insert_20260319_071754_a62b7954",
+    "metadata": {
+      "processing_start_time": 1773904675,
+      "processing_end_time": 1773904711
+    },
+    "multimodal_processed": true
+  }
+}

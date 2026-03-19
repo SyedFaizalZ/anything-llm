@@ -1,0 +1,103 @@
+{
+  "4b1c2bff4f3375521b7dc747acf397f1": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "Chapter 3 ",
+        "text_level": 1,
+        "bbox": [
+          429,
+          130,
+          568,
+          169
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Matching Your Ads to Your Marketing Strategy ",
+        "text_level": 1,
+        "bbox": [
+          218,
+          187,
+          781,
+          298
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "In This Chapter ",
+        "text_level": 1,
+        "bbox": [
+          129,
+          331,
+          274,
+          352
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+          "▶ Picking a target advertising group ",
+          "$\\blacktriangleright$ Setting the geographic range for your ad campaign ",
+          "$\\blacktriangleright$ Deciding the scope of each ad campaign ",
+          "▶ Fulfilling your marketing objectives through Facebook Ads "
+        ],
+        "bbox": [
+          129,
+          358,
+          623,
+          445
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "here are several forms of advertising for which you can’t really segment or define your audience. For example, when you rent an outdoor billboard, you’re basically advertising to the group “anyone who drives by.” When you post a flyer, you’re advertising to the group “anyone who walks by.” Some mass market–advertising methods, such as TV or radio ads, run surveys on their audiences to give the advertiser an idea of the demographics behind their audience. However, those numbers are just averages and can vary daily. For some businesses, their audience target is based on quantity, not quality. ",
+        "bbox": [
+          225,
+          483,
+          862,
+          650
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Facebook advertising, on the other hand, allows you and your business to create and run advertisements that are highly targeted when it comes to the viewing audience — and you should take advantage of that capability. ",
+        "bbox": [
+          225,
+          665,
+          854,
+          716
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "In this chapter, we focus on the targeting capabilities of Facebook, explaining how to target everything from a local to an international audience. We then look at aligning your ads with whatever marketing strategy you’re employing, whether your goal is to build your business brand, increase sales, or augment your customer service outreach. ",
+        "bbox": [
+          224,
+          729,
+          866,
+          813
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-5857f769601b077998953bd5bf92ae56",
+    "mtime": 1773903452.9453275,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1773904674.6255,
+    "cache_version": "1.0",
+    "create_time": 1773904674,
+    "update_time": 1773904674,
+    "_id": "4b1c2bff4f3375521b7dc747acf397f1"
+  }
+}

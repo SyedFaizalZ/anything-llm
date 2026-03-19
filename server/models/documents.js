@@ -165,6 +165,7 @@ const Document = {
              WORKSPACE_SLUG: workspace.slug,
              RAW_FILE_PATH: rawFilePath,
              ANYTHING_LLM_API_KEY: keyStr,
+             PARSE_METHOD: metadata.parseMethod || "auto",
           };
 
           console.log(`[Graph Mode Status] Phase 1: Standard Chat is READY for ${newDoc.filename}`);

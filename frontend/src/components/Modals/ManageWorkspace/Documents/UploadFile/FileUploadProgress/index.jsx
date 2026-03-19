@@ -17,6 +17,7 @@ function FileUploadProgressComponent({
   setLoading,
   setLoadingMessage,
   graphMode = false,
+  parseMethod = "auto",
 }) {
   const [timerMs, setTimerMs] = useState(10);
   const [status, setStatus] = useState("pending");
@@ -43,7 +44,7 @@ function FileUploadProgressComponent({
       const formData = new FormData();
       formData.append("file", file, file.name);
       if (graphMode) {
-        formData.append("metadata", JSON.stringify({ graphMode }));
+        formData.append("metadata", JSON.stringify({ graphMode, parseMethod }));
       }
       const timer = setInterval(() => {
         setTimerMs(Number(new Date()) - start);

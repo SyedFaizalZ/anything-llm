@@ -1,0 +1,158 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Facebook  Advertising "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                37,
+                195,
+                956,
+                300
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FOR. DUMM IES C : "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                169,
+                307,
+                830,
+                466
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Learn to: "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                30,
+                597,
+                205,
+                627
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Create an ad campaign on Facebook "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Perform precision ad targeting "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Make the most of landing pages "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Test and optimize your ads "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                633,
+                407,
+                774
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6efc8e15bb6566e537e9aec34b6c3595c10b8ee0c3ed95a9f1e02676c665e417.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                458,
+                584,
+                1000,
+                975
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Making Everything Easier!\" "
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                43,
+                386,
+                84
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Paul Dunay Richard Krueger Joel Elad, MBA "
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                881,
+                303,
+                977
+            ]
+        }
+    ]
+]
